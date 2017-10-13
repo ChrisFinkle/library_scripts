@@ -1,0 +1,270 @@
+                                                                              
+ NICHOLS, NAOMI (Ms.)
+     id:010-00-4299           alt id:010004299              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:437 N. COLORADO AVE.
+              City, State:DELAND,  FL.
+                      Zip:32724
+               Home Phone:736-3325
+                    Email:naomibuckley@hotmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  Comment:Changed to dependent on 1/29/08  DDB
+                     Note:Dee Buckley's daughter -- change to dependent if
+                          HatterAlum expires.    HatterAlum expires 2/19/09 
+                          SR = husband James renewed family HatterAlum mem.
+                          2/25/09 so new exp. 2/25/10 - bj  Renewed hatter
+                          4/9/10 SR  Family membership renewed 6/20/13 SR
+                     Note:NICHOLS, NAOMI
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+
+ POWELL, DENISE
+     id:010-54-9345                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:421 E. UNIVERSITY AVE
+              City, State:DELAND, FL 32724
+               Home Phone:956-1748
+                    Email:denisefpowell@gmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:John Mark Powell english
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ 
+
+Gipson, Madison
+     id:020-59-7589                library:MAIN      
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:439 W Minnesota Ave
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:573-808-2402
+                    Email:pianopuma@me.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Amy Gipson presidents office
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+ REDDISH, MICHAEL
+     id:595-76-4978           alt id:595764978              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:950 ROLLING ACRES DR
+              City, State:DELAND, FL
+                      Zip:32720
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:REDDISH, MICHAEL
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ 
+
+NELSON, LEONARD E.
+     id:800-01-4942                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:8 Villa Villar Ct.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:904 734-2691
+          address3:
+	  none                                                                                
+*Extended Information--
+                     Note:NELSON, LEONARD E.
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ 
+
+FORT, PATRICIA
+     id:800-18-4721           alt id:PFORT                  library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                     Line:204 WEST STETSON AVE.
+                     City:DELAND
+                    State:FL
+                      Zip:32720
+                   Period:N/A
+                 Location:See Address 2
+                    Phone:?
+          address2:
+                   Street:204 WEST STETSON AVE.
+              City, State:DELAND  FL
+                      Zip:32720
+                    Phone:?
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Patron Associate 12/09 SR - widow of Music School
+                          prof. and donor - bj 1/18/11 - Renewed Assoc.
+                          6/22/11 bj  Renewed 12/12 SR  Renewed thru 12/13 SR.
+                          Renewed thru 12/14 SR.  Renewed thru 12/15 VC.
+                          Renewed 12/15/15 MF Renewed 12/29/16 MF
+                     Note:
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+
+
+PETERSON, ERNIE N
+     id:800-24-3260                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                    Email:enpetersonjr@yahoo.com
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependant of Jeannie Peterson Music 2/26/15 CCE
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+Sapp, Noah B
+     id:800-53-4065                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:1301 Weymouth Dr.
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:386-624-5432
+                    Email:noah_sapp@outlook.com
+          address3:
+	  none
+ *Extended Information--
+                  Comment:Father is Greg Sapp
+                     Note:ML
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+Sibbald, Katharine
+     id:800-59-7992                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                    Phone:386-822-8185
+                     Dept:Chemistry
+          address2:
+                   Street:223 W Minnesota Ave
+              City, State:DeLand, Fl
+                      Zip:32720
+               Home Phone:612-655-4154
+                    Email:krisibbald@gmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  Comment:ml
+                     Note:Spouce of Paul Sibbald
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+PAUL, SOPHIE (MS)
+     id:800-61-3546                library:MAIN      
+
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:651 E. TAYLOR RD
+              City, State:DELAND FL
+                      Zip:32724
+               Home Phone:386 873-2152
+                    Email:SOPHIE PAULFL@GMAIL.COM
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DAUGHTER OF BETH PAUL 6/21/16  DDB
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ 
+
+Smucker, Angela
+     id:800-62-1909                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8399
+                    Phone:7990
+                    Email:smucker@stetson.edu
+                     Dept:Music
+          address2:
+                   Street:102 Merlot St
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:219-508-4945
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Spouse of Peter Smucker, Music Dept. (ML)
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+Dumbroff, Nicole 
+     id:800-62-7664                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8338
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Cecilia P. Chick  Residential Life
+                          Coordinator SCD 11/17/15
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
