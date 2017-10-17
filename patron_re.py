@@ -1,7 +1,8 @@
 #!python
 import re
+import os
 
-targets = ['alumaccess list.txt']
+inputDir = './input_files'
 
 outputFields = ['prefix','givenName','middleName','familyName','suffix',
 				'nickname','canSelfEdit','dateOfBirth','gender','institutionId',
@@ -56,9 +57,9 @@ def checkForNoteMode(line):
 
 def appendLineToNote(line, patron):
 	try:
-		patron['notes'] += re.sub(r'\s+', r' ', line)
+		patron['notes'][0] += re.sub(r'\s+', r' ', line)
 	except KeyError:
-		patron['notes'] = ''
+		patron['notes'] = ['']
 
 #since output of findall is list, takes in list
 def parseCity(s):
@@ -76,36 +77,42 @@ def parseState(s):
 	elif re.search(r'.*?,\s\D*', s[0]):
 		return re.findall(r'.*?,\s(\D)*\s', s[0])
 	elif re.search(r'\d+$', s[0]):
-		return [' '.join(s[0].split(' ')[-1])]
+		try:
+			return [' '.join(s[0].split(' ')[-2])]
+		except IndexError:
+			return s
 	else: return s
 
 def parseZip(s):
 	zip = re.findall(r'[\d-]+', s[0])
 	return zip
 
+def renameFieldIfExists(newName, oldName, patron):
+	patron[newName] = patron[oldName] if oldName in patron else []
+
+namePairs = [('barcode', 'id'), ('borrowerCategory', 'Profile'), ('circRegistrationDate',
+			'created'), ('oclcExpirationDate', 'priv expired'), ('primaryStreetAddressLine1',
+			'Street'), ('primaryPhone', 'Home Phone'), ('secondaryStreetAddressLine1', 
+			'Street2'), ('secondaryPhone', 'Phone2'), ('emailAddress', 'Email'),
+			('patronNotes', 'group ID'), ('customdata1', 'notes')]
+
 def postProcessPatron(patron):
-	patron['barcode'] = patron['id']
-	patron['borrowerCategory'] = patron['Profile']
-	patron['circRegistrationDate'] = patron['created']
-	patron['oclcExpirationDate'] = patron['priv expired']
-	patron['primaryStreetAddressLine1'] = patron['Street']
-	patron['primaryCityOrLocality'] = parseCity(patron['City, State'])
-	patron['primaryStateOrProvince'] = parseState(patron['City, State'])
-	patron['primaryPostalCode'] = patron['Zip'] if 'Zip' in patron\
-							else parseZip(patron['City, State'])
-	patron['primaryPhone'] = patron['Home Phone'] if 'Home Phone' in patron else []
+	for pair in namePairs:
+		renameFieldIfExists(pair[0], pair[1], patron)
 	try:
-		patron['secondaryStreetAddressLine1'] = patron['Street2']
+		patron['primaryCityOrLocality'] = parseCity(patron['City, State'])
+		patron['primaryStateOrProvince'] = parseState(patron['City, State'])
+		patron['primaryPostalCode'] = patron['Zip'] if 'Zip' in patron\
+							else parseZip(patron['City, State'])
+	except KeyError:
+		pass
+	try:
 		patron['secondaryCityOrLocality'] = parseCity(patron['City, State2'])
 		patron['secondaryStateOrProvince'] = parseState(patron['City, State2'])
 		patron['secondaryPostalCode'] = patron['Zip2'] if 'Zip2' in patron\
 							else parseZip(patron['City, State2'])
-		patron['secondaryPhone'] = patron['Phone2']
 	except KeyError:
 		pass
-	patron['emailAddress'] = patron['Email'] if 'Email' in patron else []
-	patron['patronNotes'] = patron['group ID'] if 'group ID' in patron else []
-	patron['customdata1'] = [patron['notes']] if 'notes' in patron else []
 
 def extractField(field, patron):
 	if field in patron and patron[field]:
@@ -113,8 +120,10 @@ def extractField(field, patron):
 	else:
 		return ''
 
-for target in targets:
-	file = open(target)
+out = open('tab-delimited patron data.txt', 'w+')
+out.write('	'.join(outputFields)+'\n')
+for target in os.listdir(inputDir):
+	file = open('input_files/'+target)
 	patrons = [{}]
 
 	for line in file:
@@ -131,13 +140,9 @@ for target in targets:
 			if noteMode: appendLineToNote(line, patron)
 
 	file.close()
-
-	out = open('tab delimited '+target, 'w+')
-	out.write('	'.join(outputFields)+'\n')
 	
 	for patron in patrons[1:]:
 		postProcessPatron(patron)
 		out.write('	'.join([extractField(field, patron) for field in outputFields])+'\n')
 		
-	out.close()
-
+out.close()

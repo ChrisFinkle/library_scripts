@@ -1,0 +1,1754 @@
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+ AUSTIN, JONATHAN
+     id:800-57-6901                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8420
+          address2:
+                   Street:224 1/2 S. Salsbury Ave.
+              City, State:DeLand, FL 
+Zip:32720
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 2/2/2017. JEB
+          created:2/27/2012       last use:7/14/2014   priv granted:2/27/2012 
+     priv expired:2/2/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Bateman, Linda
+     id:800-48-3177           alt id:BATEMAN, L             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8398
+                 Location:CAMPUS
+          address2:
+                   Street:712 ALBERT LANE
+              City, State:DELAND, FL
+                      Zip: 32720-6502
+               Home Phone:904 736-1924
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Rinker Institute. employment terminated on
+                          7/31/2015. JEB
+          created:1/12/1997       last use:2/3/2009    priv granted:1/12/1997 
+     priv expired:7/31/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+
+ BATTISTONE, TINA
+     id:800-51-2389                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8418
+          address2:
+                   Street:P.O. Box 238024
+              City, State:Allandale, FL
+                      Zip:32123
+               Home Phone:386-788-1470
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Library staff. Employment terminated 5/31/2015. JEB
+          created:9/9/2005        last use:5/30/2015   priv granted:9/9/2005  
+     priv expired:5/31/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BEGALLA, JOSEPH
+     id:800-49-7609                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8398
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated 5/31/2017
+                     Note:family enterprise
+          created:10/23/2013      last use:5/8/2014    priv granted:10/23/2013
+     priv expired:6/1/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+
+ Blekicki, Karen
+     id:800-10-6203                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:  8418
+                 Location:CAMPUS
+          address2:
+                   Street:801 Fruitland Dr.
+              City, State:Deltona, FL
+                      Zip:32725-5506
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Library. employment terminated 5/31/2014. JEB
+                               created:1/12/1997       last use:7/2/2013    priv granted:1/12/1997 
+     priv expired:5/31/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Bosco, Jeanne
+     id:800-35-5697                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8398
+                 Location:CAMPUS
+          address2:
+                   Street:1608 W. GAUDREY STREET
+              City, State:DELAND, FL
+                      Zip:32720-1943
+               Home Phone:904 734-1475
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Graduate Business Program. employment terminated on
+                          3/31/2011. JEB
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/12/1997       last use:2/25/2000   priv granted:1/12/1997 
+     priv expired:2/7/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Brooks, William
+     id:800-43-7588                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8368
+                 Location:CAMPUS
+          address2:
+                   Street:1020 N PENNSYLVANIA AVE
+              City, State:WINTER PARK, FL
+                      Zip:32789-2452
+               Home Phone:407 628-5353
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:CIT. employment terminated 11/30/2016. JEB
+                     
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:11/30/2016
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BUCKNER, THOMAS
+     id:800-58-5819                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8349
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Extended Information--
+                  Note:employment terminated on 3/7/2017
+                     Note:public safety
+          created:4/25/2014       last use:11/18/2014  priv granted:4/25/2014 
+     priv expired:4/12/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ CASSIDY, DEBORAH K.
+     id:800-10-2327                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8415
+                 Location:CAMPUS
+          address2:
+                   Street:340 WEST KNOLL STREET
+              City, State:DELAND, FL
+                      Zip:32720-3345
+               Home Phone:734-7160
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:REGISTERED NURSE STUDENT HEALTH SERVICES  date?? 
+                          Employment terminated 6/30/2011. JEB
+                           created:7/2/1998        last use:7/2/1998    priv granted:7/2/1998  
+     priv expired:2/7/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:HEALTH SER
+
+ Dezes, Leonidas
+     id:800-07-0815                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+                 Location:Accounts Payable Office
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated on 6/30/2013. JEB
+          created:9/26/2012       last use:4/15/2013   priv granted:9/26/2012 
+     priv expired:2/13/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Edmonston, Sabrina
+     id:800-52-3714                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit 8286
+                 Location:
+          address2:
+                   Street:1408 E. WISCONSIN
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 848-9103
+                    Email:SEDMONST@STETSON.EDU
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated on 6/30/2012. JEB
+                     Note:Administrative Secretary Development
+                     Note:adjunct in junior studies 4/17/12 CCE
+          created:1/28/2007       last use:7/16/2012   priv granted:1/28/2007 
+     priv expired:6/30/2012 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+ Ferguson, Shirley Douglas
+     id:800-49-2402                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:8255
+                 Location:Campus
+          address2:
+                   Street:850 Lincoln Road
+              City, State:DeLand, FL
+                      Zip:32724-8325
+               Home Phone:(904) 738-7069
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated on 7/31/2012. JEB
+                  Note:American Studies & Decision and Information Science
+                      created:1/27/1997       last use:5/31/2013   priv granted:1/27/1997 
+     priv expired:2/13/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FOOTMAN, THEOLA
+     id:800-45-5775                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8420
+                 Location:CAMPUS
+          address2:
+                   Street:410 S. SALISBURY AVE
+              City, State:DELAND  FL
+                      Zip:32720-5253
+               Home Phone:904 738-2047
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Facilities Management. employment terminate on
+                          5/29/2015. JEB
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:2/13/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gatewood, Claudia
+     id:403-64-7121                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                    Note:duplicate account (800-31-5433). officially retired
+                          6/30/11. JEB
+          created:11/9/2004       last use:5/25/2006   priv granted:11/9/2004 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gatewood, Claudia C.
+     id:800-31-5433           alt id:800315433              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:8399
+                 Location:CAMPUS
+          address2:
+                   Street:235 Shady Branch Trail
+              City, State:DeLand, FL 
+Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:officially retired 6/30/11
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/13/2011       last use:5/11/2011   priv granted:1/13/2011 
+     priv expired:5/4/2011  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gaylord, Richard
+     id:800-10-0285                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated on 4/2/2015. JEB
+                     Note:Public Safety (ML)
+          created:5/15/2013       last use:6/12/2013   priv granted:5/15/2013 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ GILBERT, WILLIAM
+     id:800-03-2393                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8420
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated on 8/9/2013. JEB
+                    
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:11/22/2005      last use:2/9/2006    priv granted:11/22/2005
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Greene, Todd Clay
+     id:800-59-2054           alt id:800592054              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:?
+                 Location:?
+          address2:
+                   Street:1728 Lake Side Avenue
+              City, State:Davenport, FL 33837-1722
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated on 10/5/2015. JEB
+          created:1/15/2013       last use:5/27/2015   priv granted:4/29/2015 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HAMILTON, HEATHER (MS)
+     id:800-59-2167                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT 8249
+                 Location:Deland
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 1/15/2014. JEB
+                     Note:Add 9/11/2014 aem
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:9/11/2014       last use:12/8/2014   priv granted:9/11/2014 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HEFLIN, BENJAMIN
+     id:800-39-7216                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8420
+                 Location:CAMPUS
+          address2:
+                   Street:711 S Adelle Ave.
+              City, State:DeLand, FL
+                      Zip:32720-6712
+               Home Phone:904 736-3223
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Facilities Management. employment terminated on
+                          7/19/2013. JEB
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HOFFMAN, ERIC
+     id:800-23-0464                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT 8339
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Extended Information--
+                     
+                     Note:employment terminated on 7/19/2013. JEB
+          created:8/7/2001        last use:10/4/2013   priv granted:8/7/2001  
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HOLBACK, TODD
+     id:800-52-3175                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8349
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:public safety CCE. employment terminated on
+                          9/28/2014. JEB
+          created:9/7/2012        last use:2/12/2014   priv granted:9/7/2012  
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HOWARD, WINIFRED V.
+     id:800-05-8896                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8420
+                 Location:CAMPUS
+          address2:
+                   Street:1305 1st Street
+              City, State:Orange City, FL
+                      Zip:32763-4105
+               Home Phone:904 774-0783
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Facilities Management. employment terminated
+                          8/5/2016
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:8/5/2016  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HUFFMAN, RAYMOND
+     id:800-54-6259                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8420
+          address2:
+                   Street:1208 SOUTH THOMPSON STREET
+              City, State:DELAND,FL
+                      Zip:32720
+               Home Phone:386 717-5393
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:CUSTODIAN DEPT. employment terminated 5/23/2016. JEB
+          created:3/26/2011       last use:12/21/2016  priv granted:3/26/2011 
+     priv expired:12/20/2016
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+
+ Ingram., Ivory H. (MR.)
+     id:800-59-4426                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8349
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:PUBLIC SAFTEY. employment terminated on 11/23/2013.
+                          JEB
+          created:10/14/2013      last use:11/26/2013  priv granted:10/14/2013
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ JUNGFERMAN, LISA
+     id:800-28-3475           alt id:ljunferman             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8391
+                 Location:8391
+          address2:
+                   Street:42509 N. CIRCLE
+              City, State:PAISLEY, FL   
+Zip:32767
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated 9/10/2013. JEB
+                     Note:PATRON WAS TOLD TO GET A NEW ID 8/4/00. SCD
+          created:8/4/2000        last use:5/10/2011   priv granted:8/4/2000  
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+
+ Krawchuk, Caden James
+     id:800-59-4209           alt id:800594209              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 8359
+                 Location:?
+          address2:
+                   Street:130 N Clara Ave
+              City, State:DeLand, FL
+                      Zip:32720
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Assistant director of women's basketball operations
+          created:7/17/2013       last use:8/31/2017   priv granted:7/17/2013 
+     priv expired:4/1/2018  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Manning, Ryan
+     id:800-61-9856                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:8416
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 5/19/2017. JEB
+          created:4/22/2016       last use:4/25/2016   priv granted:4/22/2016 
+     priv expired:5/19/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+ METCALFE, ANA
+     id:800-59-8431                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:136 SPANISH WAY DR
+              City, State:SANFORD, FL
+                      Zip:32771
+                    Email:ametcalf@stetson.edu
+          address3:
+	  none
+ 
+*Extended Information--
+	     none
+          created:2/13/2014       last use:2/24/2014   priv granted:2/13/2014 
+     priv expired:5/31/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MOISA, IOAN
+     id:800-19-3838                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8418
+          address2:
+                   Street:914 NEW BEDFORD DR
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 738-5728
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 6/6/2016. JEB
+          created:2/3/2016        last use:4/17/2016   priv granted:2/3/2016  
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+
+ MOORE, NICOLE
+     id:800-58-6369                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:518 NORTH DELAWARD AVE
+              City, State:DELAND,FL
+                      Zip:32720
+               Home Phone:802 999-6485
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Athletic staff. employment terminated on 3/31/2014.
+                          JEB
+          created:4/13/2013       last use:4/24/2013   priv granted:4/13/2013 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ORIE, DANIEL A.
+     id:ORIE, DANI            alt id:ORIE, DANI             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8368
+                 Location:CAMPUS
+          address2:
+                   Street:1866 Seclusion Dr., Spruce Creek Fly-In
+              City, State:Daytona Beach, FL
+                      Zip:32124-6974
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:CIT
+                     Note:LAW SCHOOL
+                     Note:employment terminated on 9/1/2015. JEB
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ORLOWSKI, JULIE
+     id:495-76-8075           alt id:495768075              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:8359
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                                  Note:employment terminated  1/9/2013. JEB
+          created:5/7/2007        last use:6/7/2007    priv granted:5/7/2007  
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Parra, Catherine A. (Mrs.)
+     id:800-15-1513           alt id:CATHY                  library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:No longer works at Stetson effective Aug. 2009 - bj
+                     
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:4/6/2008        last use:11/22/2010  priv granted:4/6/2008  
+     priv expired:8/15/2009 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Peter, Michael
+     id:800-10-8783           alt id:800108783              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 6369
+                 Location:?
+          address2:
+                   Street:145 Hawkcrest Court
+              City, State:DeBary, FL 
+Zip:32713-4924
+          address3:
+	  none
+ 
+*Extended Information--
+	     none
+          created:7/17/2013       last use:8/11/2017   priv granted:7/17/2013 
+     priv expired:12/16/2017
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Postolowski, Melena (Ms.)
+     id:800-62-5515                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Staff- Professional Development. termination date
+                          1/20/2017. JEB
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:8/3/2016        last use:11/8/2016   priv granted:8/3/2016  
+     priv expired:1/20/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ POWERS, PATRICK
+     id:800-60-4381                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                 Location:MAIN
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:11/4/15 DDB
+                     Note:PUBLIC SAFETY OFFICER. employment terminated
+                          4/21/2016. JEB
+          created:11/4/2015       last use:11/23/2015  priv granted:11/4/2015 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Purkall, Holly Alexandra
+     id:800-07-1859           alt id:800071859              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:7057
+                 Location:CAMPUS
+          address2:
+                   Street:103 River Oaks Circle
+              City, State:Sanford, FL 
+Zip:32771
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:billed to S/A 6/27/12  34369005125472 CCE
+                     Note:employment terminated 7/15/2011. JEB
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:7/11/2007       last use:6/27/2012   priv granted:1/5/2011  
+     priv expired:7/15/2011 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ REICHLE, CAROLINE
+     id:800-60-8070                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:471 HAVERSHAM RD
+              City, State:DELTONA FL
+                      Zip:32725
+               Home Phone:386 259 4692
+                    Email:CAROLINE_REICHLE@ICLOUD.COM
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:3/20/14  DDB
+                     Note:PUBLIC SAFETY OFFICER         According to HR, left
+                          university in 2015. JEB 1/10/2017
+                     Note:employment terminiated 6/24/2015. JEB
+          created:3/20/2014       last use:1/12/2017   priv granted:3/20/2014 
+     priv expired:1/9/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Roberts, McNoia V
+     id:800-54-2593           alt id:800542593              library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 8283
+                 Location:?
+          address2:
+                   Street:215 Heronwood Circle
+              City, State:Deltona, FL 
+Zip:32725-9426
+                      Zip:32725
+               Home Phone:386 574 0552
+                    Email:m_robert@bellsouth.net
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Library Staff
+                     
+          created:8/14/2007       last use:9/5/2017    priv granted:8/14/2007 
+     priv expired:12/13/2017
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROGERS, MARY ANNE
+     id:800-27-8979           alt id:MROGERS                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8258
+                 Location:CAMPUS
+          address2:
+                   Street:439 N Clara Avenue
+              City, State:DeLand, FL
+                      Zip:32720-3403
+               Home Phone:904 736-0186
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Office of President. employment terminated
+                          5/31/2016. JEB
+                     
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/12/1997       last use:10/22/2014  priv granted:1/12/1997 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROPPOLO, BRYAN
+     id:800-62-1415                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8418
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 5/15/2017.
+          created:10/8/2015       last use:8/15/2016   priv granted:10/8/2015 
+     priv expired:6/1/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Sammons, Judson
+     id:OO                         library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:8338
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated on 8/1/2016. JEB
+                     Note:Need to get his 800 ID number. SCD 6/13/2015.
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:6/13/2016       last use:6/13/2016   priv granted:6/13/2016 
+     priv expired:8/1/2016  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ SEWELL, ISAAC C.
+     id:800-31-7811           alt id:SEWELL, IS             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8349
+                 Location:CAMPUS
+          address2:
+                   Street:868 Whitewood Drive
+              City, State:Deltona, FL
+                      Zip:32725-7056
+               Home Phone:407 574-4224
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Public Safety. employment terminated 1/6/2012. JEB
+                     
+          created:1/12/1997       last use:11/16/2000  priv granted:1/12/1997 
+     priv expired:2/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ SIPE, GARY (MR.)
+     id:800-09-9850                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Extended Information--
+                     Note:added 12/2/2013 aem
+          created:12/2/2013       last use:12/5/2013   priv granted:12/2/2013 
+     priv expired:5/15/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Spencer, Brent
+     id:800-64-0987                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 6/16/2017. JEB
+          created:7/29/2016       last use:8/10/2016   priv granted:7/29/2016 
+     priv expired:6/16/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Stoddard, Matthew Danny
+     id:800-57-7657           alt id:800577657              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:?
+                 Location:?
+          address2:
+                   Street:810 Pine Tree Court
+              City, State:Deland, FL 
+Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 1/26/2017. JEB
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:8/2/2011        last use:9/4/2013    priv granted:5/20/2015 
+     priv expired:1/26/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Sunderland, Sara
+     id:800-06-5644                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8286
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 1/31/2017. JEB
+                     Note:emailed about 34369004236378 on 1/6/17 JEB, bill
+                          forgiven
+          created:1/17/2012       last use:1/20/2017   priv granted:1/17/2012 
+     priv expired:1/31/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Szymczyk, Jessica
+     id:800-61-2502                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 5/6/2016. JEB
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/30/2016       last use:4/16/2016   priv granted:1/30/2016 
+     priv expired:2/22/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Trotter, Jerica L.
+     id:800-60-1870                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 7969
+                 Location:?
+          address2:
+                   Street:PO Box 351481
+              City, State:Palm Coast, FL  32135
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:employment terminated 9/29/2016. JEB
+          created:12/9/2015       last use:8/17/2016   priv granted:8/10/2016 
+     priv expired:9/29/2016 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ VEGA, SAMANTHA
+     id:800-61-1423                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated 5/15/2015.
+                     Note:Added 11/18/14 aem
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:11/18/2014      last use:4/14/2015   priv granted:11/18/2014
+     priv expired:2/22/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WILLIAMS, JESS
+     id:800-60-1872                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8398
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+	     none
+          created:1/13/2014       last use:1/14/2014   priv granted:1/13/2014 
+     priv expired:9/16/2016 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WINCHOCK-EBERT, DEBORAH
+     id:800-28-1111                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                 Location:UNIT 8365
+          address2:
+                   Street:6119 SEQUOIA DRIVE
+              City, State:PORT ORANGE, FL
+                      Zip:32127
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:STAFF COUNSELING CENTER SCD1/10/02. employment
+                          terminated 8/31/2011. JEB
+                     
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:1/10/2002       last use:4/27/2002   priv granted:1/10/2002 
+     priv expired:2/22/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Wood, Bonnie L.
+     id:800-57-7660                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8361
+                 Location:
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated 4/5/2016. JEB
+                     Note:Staff Student Success SCD 6/23/11 Sage Hall Admin.
+                          MF
+          created:6/23/2011       last use:4/1/2014    priv granted:6/23/2011 
+     priv expired:2/22/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ZENG, QIONGFANG
+     id:800-59-4468                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8398
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:BUSINESS VISITING FROM CHINA
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+          created:8/31/2012       last use:8/5/2013    priv granted:8/31/2012 
+     priv expired:8/29/2013 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Zirkel, Michael Bryan
+     id:800-08-1540           alt id:800081540              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 8249
+                 Location:?
+          address2:
+                   Street:7263 159th Court North
+              City, State:Palm Beach Gardens, FL 
+Zip:33418
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:employment terminated 11/4/2013. JEB
+                     Note:center for community engagement.
+          created:1/13/2011       last use:10/20/2014  priv granted:1/13/2011 
+     priv expired:2/22/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ GRANGER, CHARLES F. (REV.)
+     id:255-34-3617           alt id:CGRANGER               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:400 E. Howry Ave Apt 827
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386-736-7066
+                    Email:granpapa@cfl.rr.com
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 2:13 PM                  
+                                                                                
+*Extended Information--
+                     Note:RETIRED WITH LIBRARY PRIVILEGES  SR 5/2002 
+                          Associate 3/10 SR renewed 12/11 SR  renewed 12/12 SR
+                          renewed 12/15/15 MF renewed 2/7/17 MF
+                     .
+          created:1/12/1997       last use:8/11/2006   priv granted:1/12/1997 
+     priv expired:2/7/2018  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:STAFF        user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

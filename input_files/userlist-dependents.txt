@@ -1,0 +1,4315 @@
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ ABRAMS, DIANE M.
+     id:800-50-8383                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1201 HAMILTON AVE
+              City, State:ORANGE CITY, FL
+                      Zip:32763
+               Home Phone:386-774-0209
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF LAURIE HOISTION (library custodian)
+          created:3/4/2005        last use:3/10/2005   priv granted:3/4/2005  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ALEXANDER, KAYLEIGH
+     id:800-57-5035                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:744 W. MINNESOTA AVE.
+              City, State:DELAND, FL 
+       Zip:32720
+               Home Phone:386-738-1435
+                    Email:todd_alexander@bellsouth.net
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dept. of Karen Alexander HR.
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:11/11/2010      last use:12/14/2010  priv granted:11/11/2010
+     priv expired:11/11/2011
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ALEXANDER, TODD
+     id:800-56-7624                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:744 W. MINNESOTA AVE
+        City, State:DELAND, FL 
+Zip:32720
+               Home Phone:386-738-1435
+                    Email:todd_alexander@bellsouth.net
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Karen Alexander HR
+                     
+          created:11/11/2010      last use:11/11/2010  priv granted:11/11/2010
+     priv expired:11/11/2011
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ AMIRI, SOOSAN
+     id:SAMIRI                alt id:SOAMIRI                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:633 N. AMELIA AVE.
+              City, State:DELAND, FL
+                      Zip:32724-3502
+               Home Phone:740-0761
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:WIFE OF SHARAM AMIRI .WILL NEED TO PUT IN HER
+                          SSNUMBER WHEN SHE COMES AGAIN TO CHECK OUT BOOKS.
+                          SD. 9/17/98
+                     
+
+          created:9/17/1998       last use:10/20/1998  priv granted:9/17/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ANDERSON, JUSTIN
+     id:593-70-2274           alt id:593702274              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2345 WILMHURST RD
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:738-0740
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:SUSAN ANDERSON, UNIVERSITY RELATIONS
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:12/10/1998      last use:12/28/1998  priv granted:12/10/1998
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Andrews, Carol
+     id:252-92-5722           alt id:CANDREWS               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:420 E. UNIVERSITY AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:822-7437
+          address3:
+	  none
+ 
+*Extended Information--
+          created:6/11/1997       last use:10/18/2007  priv granted:6/11/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Baker, Bryce
+     id:800-60-4614                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:428 N Kentucky Ave
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:386-956-2219
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                  
+                     Note:Son of Rob Baker- Maintenance
+          created:9/11/2013       last use:12/1/2013   priv granted:9/11/2013 
+     priv expired:9/11/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Baker, Jordan
+     id:800-60-0196                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:428 N Kentucky Ave
+              City, State:Deland
+                      Zip:32724
+               Home Phone:386-956-2219
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                     Note:Daughter of Rob Baker in Maintenance
+          created:9/11/2013       last use:2/23/2014   priv granted:9/11/2013 
+     priv expired:9/11/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Ballenger, Nicholas
+     id:433-71-2135           alt id:433712135              library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit: 5686
+                 Location:CAMPUS
+          address2:
+                   Street:307 E. UNIVERSITY AVE
+              City, State:DELAND, FL
+                      Zip:32724-3562
+               Home Phone:(904) 740-7617
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Dependent of Grady Ballenger
+                     
+          created:7/15/1999       last use:3/31/2004   priv granted:2/19/2004 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Bealina, Missy Nicole
+     id:800-07-3019           alt id:800073019              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit:?
+                 Location:?
+          address2:
+                   Street:Apartment A106, 100 East Kentucky Avenue
+              City, State:DeLand, FL 
+Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:graduate spouse working in IT 2/4/15 CCE
+          created:12/17/2013      last use:1/21/2015   priv granted:5/2/2014  
+     priv expired:4/30/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ BELCHER, CAMERON
+     id:020-18-1905           alt id:CBELCHER               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                 Location:STETSON - SCHOOL OF BUSINESS FINANCE DEPT
+          address2:
+                   Street:521 HOLLYLANE
+              City, State:DELAND, FL                      Zip:32724
+               Home Phone:738-2096
+                    Email:SObelcher@cfl.rr.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF LARRY BELCHER - SCHOOL OF BUSINESS.
+                          EXT# 7378 
+          created:2/18/2008       last use:7/6/2009    priv granted:2/18/2008 
+     priv expired:9/30/2009 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Belcher, Landon
+     id:030-18-1905                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Stetson- School of Business
+          address2:
+                   Street:521 Holly Lane
+              City, State:Deland, FL
+                      Zip:32724
+               Home Phone:386-738-2096
+                    Email:SObelcher@cfl.rr.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Larry Belcher, School of Business, Ext.
+                          #7378
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:6/29/2009       last use:6/29/2009   priv granted:6/29/2009 
+     priv expired:9/30/2009 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BELCHER, SUSAN
+     id:010-18-1905           alt id:SBELCHER               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:521 HOLLY LANE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-2096
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF  (LARRY BELCHER) EXT#7378
+                     
+          created:2/18/2008       last use:4/4/2008    priv granted:2/18/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Bjella, Anna
+     id:010-36-3146                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:840 Lincoln Rd
+              City, State:DeLand, FL
+                      Zip:32724
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                  Note:Father is David Bjella, Faculty 2/10/2013  ML 
+                     
+          created:2/10/2013       last use:2/10/2013   priv granted:2/10/2013 
+     priv expired:2/10/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BLECHER, SUSAN
+     id:BLECHER, SUSAN             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:521 HOLLY LANE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 738-2096    CELL 717-2728
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:HUSBAND LAWRENCE WORKS IN FINANCE EXT 7378
+          created:5/27/2004       last use:3/2/2007    priv granted:2/4/2007  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BOLDING, ASHLEY J.
+     id:091-72-6940           alt id:ABOLDING               library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:624 N. FLORIDA AVE.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:734-9581
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:DAUGHTER OF GARY BOLDING, ART DEPT.
+                     
+          created:1/12/1998       last use:7/22/2003   priv granted:7/10/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Bouse, Eileen
+     id:BOUSE, EIL            alt id:BOUSE, EIL             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:871 VILLAGE LAKE DRIVE SOUTH
+              City, State:DELAND, FL
+                      Zip:32724-2563
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:SPOUSE OF ROBERT BOUSE
+                     
+          created:1/12/1997       last use:1/12/1997   priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+
+ BRANTON, DEBORAH
+     id:DBRANTON              alt id:DBRANTON               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:UNIT: 8332
+                 Location:CAMPUS
+          address2:
+                   Street:1910 DEERFOOT RUN
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:736-1793
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:BRANTON IS SPOUSE OF MICHAEL BRANTON; ASLO MAY BE
+                          CLASSED AS "FACUTLY" WHEN TEACHING FOR COMPUTER
+                          SCIENCE. PCS.
+          created:8/24/1999       last use:8/24/1999   priv granted:8/24/1999 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:COMP SCI  
+
+ Bredis, Barbara
+     id:24369100004622             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:512 W Hogle Ave.
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:386-490-5715
+                    Email:BBREDIS@hotmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                                                
+                                                                                
+          created:9/4/2005        last use:9/12/2005   priv granted:9/4/2005  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BROWNIE, RONALD
+     id:800-36-6174           alt id:RBROWNIE               library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:c/o VICKIE BROWNIE  UNIT: 8399
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+          created:9/28/2005       last use:10/25/2005  priv granted:9/28/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BRYNES, A.J.
+     id:595-17-1426           alt id:595-17-1426            library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:294 JEFFREY AVE.
+              City, State:HOLLY HILL, FL
+                      Zip:32117
+               Home Phone:258-1369
+          address3:
+	  none
+ 
+*Extended Information--
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:7/11/2000       last use:7/11/2000   priv granted:7/11/2000 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BUCKLEY LEAH
+     id:595-11-4628           alt id:595114628              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1015 WEST STEVENS AVENUE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:386 738-2614
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEE BUCKLEY'S DAUGHTER
+          created:8/20/2001       last use:2/1/2009    priv granted:1/2/2009  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BURKE, WILLIAM R.
+     id:267-88-7818           alt id:SD-1086                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:635 BERT FISH DR.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-9663
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+          created:1/12/1997       last use:7/1/2003    priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ BYRNES, VICTORIA
+     id:264-19-1085           alt id:264-19-1085            library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:294  JEFFREY AVE.
+              City, State:HOLLY HILL, FL
+                      Zip:32117
+               Home Phone:258-1369
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+          created:7/11/2000       last use:7/27/2000   priv granted:7/11/2000 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ COCHRAN, RAYMA
+     id:800-42-2987                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2775 WHITEHURST RD.
+              City, State:DELAND, FL 
+Zip:32720
+               Home Phone:734-9792
+                    Email:rccochran27@cfl.rr.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Dwaine Cochran
+                     
+          created:6/2/2010        last use:6/16/2010   priv granted:6/2/2010  
+     priv expired:6/2/2011  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ COCHRAN, RAYMA
+     id:406-66-7524           alt id:RCOCHRAN               library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:  8281
+                 Location:CAMPUS
+          address2:
+                   Street:2775 WHITEHURST RD
+              City, State:DELAND, FL
+                      Zip:32720-2037
+               Home Phone:(904) 734-9792
+          address3:
+	  none
+ 
+*Extended Information--
+          created:9/1/1999        last use:2/2/2007    priv granted:9/1/1999  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ COMER, SHINNIQUE
+     id:SCOMER                alt id:SCOMER                 library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1255 Courtland Blvd
+              City, State:Deltona, FL
+                      Zip:32738
+               Home Phone:386-235-7943
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Shawnreece Miller Campbell
+          created:11/8/2007       last use:11/14/2007  priv granted:11/8/2007 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ CONEFREY, ROBERTA
+     id:563-92-6182                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1440 E. MINNESOTA AVE.
+              City, State:ORANGE CITY, FL
+                      Zip:32763
+               Home Phone:774-1888
+          address3:
+	  none
+ 
+*Extended Information--
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:3/10/2004       last use:10/31/2005  priv granted:10/8/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ COOPER, DAVID
+     id:448-48-0763           alt id:DCOOPER                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:245 N. BLUE LAKE AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-5481
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:SPOUSE IS ALFORD-COOPER.
+          created:1/12/1997       last use:2/26/1999   priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Corbin, Rachel
+     id:800-52-4401                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1698 Bent Oaks Blvd
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:386-734-1364
+          address3:
+	  none
+ 
+*Extended Information--
+          created:4/10/2007       last use:5/24/2007   priv granted:4/10/2007 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ COUCH, LEZLIE L.
+     id:328-40-7003           alt id:328407003              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1412 COVERED BRIDGE DRIVE
+              City, State:DELAND, FL
+                      Zip:32724-7930
+               Home Phone:738-0743
+          address3:
+	  none
+ 
+*Extended Information--
+          created:9/4/1999        last use:9/6/2001    priv granted:9/4/1999  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ CROCE, ANN JEROME (DR)
+     id:800-16-4067           alt id:ACROCE                 library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:UNIT:8262
+                 Location:CAMPUS
+          address2:
+                   Street:320 W. MINNESOTA AVE.
+              City, State:DELAND, FL
+                      Zip:32720-3350
+               Home Phone:736-8306
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:American Studies
+                     Note:Former Professor and spouse of current professor. 
+                          Visiting research professor through August 2004.  SR
+                     
+          created:1/17/1997       last use:3/11/2005   priv granted:1/17/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ DALTON, LISA
+     id:335-82-2586                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:741 HAZEL ST.
+              City, State:LAKE HELEN, FL
+                      Zip:32744
+               Home Phone:228-2329
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT 7/24/02 CCE
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:7/24/2002       last use:12/7/2005   priv granted:9/10/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ DANIEL, CINDYLYNN
+     id:DANIELC                    library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:223 W. Fern Drive
+              City, State:Orange City, FL
+                      Zip:32763
+               Home Phone:774-8503
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Robert Daniel.  I could not get her ID
+                          into the system so I put her in as DANIELC user id. 
+                          5/2/03 SR
+                     
+          created:5/2/2003        last use:5/7/2003    priv granted:5/2/2003  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Davis, Deborah
+     id:591-03-4758           alt id:DDAVIS                 library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:wife of Dr. Peter May biology ext. 8189 UNIT: 8273
+                     
+          created:11/17/2001      last use:11/17/2001  priv granted:11/17/2001
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ DICKSON, JEWEL
+     id:JDICKSON              alt id:JDICKSON               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:UNIT:8419
+                 Location:CAMPUS
+          address2:
+                   Street:601 N. AMELIA AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:734-7235
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DICKSON SOMETIME ADJUNCT IN EDUCATION DEPARTMENT -
+                          ADJUST PROFILE TO "FACULTY" FROM "DEPENDENT" WHEN
+                          TEACHING. PCS.
+                     
+          created:10/14/1997      last use:10/14/1997  priv granted:10/14/1997
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:EDUCATION 
+
+ DRYDEN, STEPHANIE
+     id:527-91-6786           alt id:SDRYDEN                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:UNIT:8304
+                 Location:CAMPUS
+          address2:
+                   Street:1269 FIELDSTONE AVE.
+              City, State:DELTONA, FL
+                      Zip:32725
+               Home Phone:738-3285
+          address3:
+	  none
+ 
+*Extended Information-- 
+          created:1/12/1997       last use:4/6/1999    priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Dumbroff, Nicole (dependent)
+     id:800-62-7664                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8338
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Cecilia P. Chick  Residential Life
+                          Coordinator SCD 11/17/15
+          created:11/17/2015      last use:12/3/2015   priv granted:11/17/2015
+     priv expired:11/17/2016
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ DUNCAN, JACK
+     id:800-00-3961                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2012 DUNCAN TRACE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:734-0192
+          address3:
+                    Phone:386-801-4843
+*Extended Information--
+                  Note:Up dated with his new staff dependent card
+                          1/18/2006. scd.
+                     Note:DEPENDENT OF MARGIE DUNCAN
+          created:7/20/2004       last use:1/2/2014    priv granted:11/3/2013 
+     priv expired:11/3/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ EPIFANIO, STEPHANIE (Ms.)
+     id:010-50-5836                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:3384 Black Willow Trail
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:386-736-6795
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Ralph Epifanio
+                     
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:9/23/2008       last use:10/7/2013   priv granted:10/28/2011
+     priv expired:10/10/2013
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FARRELL, ALLISON
+     id:625-10-3784                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2742 SARATOGA RD.
+              City, State:DELAND, FL
+                      Zip:32720
+                    Email:afarrell@haverford.edu
+          address3:
+	  none
+ 
+*Extended Information-- 
+          created:1/3/2007        last use:1/25/2007   priv granted:1/3/2007  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Ferland, Kyle
+     id:800-00-6401                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:4/2/2008        last use:6/16/2008   priv granted:4/2/2008  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FERLAND, MARY
+     id:019-46-6515           alt id:FD-1053                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:UNIT: 8389
+                 Location:See Address 2
+          address2:
+                   Street:2311 Lake Ruby Road
+              City, State:Deland, FL
+                      Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:ELS Director, ADJUNCT FACULTY - A&S - FALL 2002
+          created:1/12/1997       last use:11/30/2004  priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FOYE, SARAH
+     id:311-02-1767           alt id:311-02-1767            library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:32629 SR 44
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:736-5927
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                  Note:DEPENDENT OF CHERYL CRUSER IN ADMISSIONS
+                     Note:DAUGHTER OF CHERYL CRUSER-ADMISSIONS
+                     
+          created:6/24/1998       last use:5/14/1999   priv granted:6/24/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FRANKLIN, LONZO
+     id:800-52-3949                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:28 N. PALM AVE
+              City, State:DELAND, FL 
+Zip:32724
+               Home Phone:7075
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:MILDRED MCDANIEL FRANKLIN arts and sciences
+                     
+          created:1/8/2007        last use:4/18/2007   priv granted:1/8/2007  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Galley, Kristen Marie
+     id:594-07-6852           alt id:594076852              library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit:5822
+                 Location:Campus
+          address2:
+                   Street:1067 Glenwood Road
+              City, State:DeLand, FL
+                      Zip:32720-2169
+               Home Phone:(904) 736-6732
+          address3:
+                    Phone:904-736-6732
+*Extended Information--
+                     
+          created:1/12/1997       last use:12/4/1998   priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gilbert
+     id:800-22-5596                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:per SRYAN  aem.
+          created:10/29/2013      last use:11/11/2013  priv granted:10/29/2013
+     priv expired:10/29/2014
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gilbert, Terry (MS)
+     id:800-11-7225           alt id:800-11-7225            library:MAIN      
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2885 Marshvies CT
+              City, State:Deleon Springs, FL
+                      Zip:32130
+               Home Phone:736-6483
+                    Email:tgilbert@stetson.edu
+          address3:
+	  none
+ 
+*Extended Information--
+          created:7/13/2010       last use:8/17/2010   priv granted:7/13/2010 
+     priv expired:7/13/2011 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ GIOVANNI, COLON
+     id:800-07-1837                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:977 N. DEAN CIR.
+              City, State:DELTONA, FL
+                      Zip:32738
+               Home Phone:956-6278
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:MOTHER is JEANETTE CORNIER 
+                     
+          created:5/26/2004       last use:6/23/2004   priv granted:5/26/2004 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gipson, Madison
+     id:020-59-7589                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:439 W Minnesota Ave
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:573-808-2402
+                    Email:pianopuma@me.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Amy Gipson presidents office
+          created:1/10/2014       last use:6/28/2017   priv granted:1/5/2017  
+     priv expired:1/5/2018  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ GIVENS, KEVIN
+     id:591-20-0430           alt id:591200430              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1434 S. ADELLE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:(904) 738-7756
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:DEPENDENT OF ANNIE GIVENS
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:2/15/2001       last use:12/2/2001   priv granted:2/15/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Grace Figueroa
+     id:24369100005827             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:2441 Udal Court
+              City, State:Deltona, FL
+                      Zip:32738
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Ednan Figueroa at Dupont Library
+                          Custodial, 9/23/09, jmg
+          created:9/23/2009       last use:10/18/2009  priv granted:9/23/2009 
+     priv expired:9/23/2010 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ GUILES, BLAKE HUNTER
+     id:24369100003269             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:406 Soft Shadow Lane
+              City, State:DeBary, FL
+                      Zip:32713
+               Home Phone:407-463-6330
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                     Note:Mom is Cindy Guiles, Director, Wesley House 734-4564
+
+          created:11/30/2004      last use:11/30/2004  priv granted:11/30/2004
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Gunderson, Tami Hay
+     id:591-05-9570           alt id:591059570              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:505 N. Sans Souci Avenue
+              City, State:DeLand, FL
+                      Zip:37220
+               Home Phone:(904) 7389882
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:6/3/1997        last use:1/12/1999   priv granted:6/3/1997  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HANKEN, KATHRINE A. (MRS)
+     id:24369100006015        alt id:KHANKEN                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:PO BOX 412
+              City, State:SEVILLE, FL
+                      Zip:32190
+               Home Phone:386 749-3432
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:REGISTERED 5/26/10  DDB
+                     Note:WIFE OF PUBLIC SAFETY OFFICER LAWRENCE HANKEN
+                     
+          created:5/26/2010       last use:5/26/2010   priv granted:5/26/2010 
+     priv expired:5/26/2011 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HAYS, J. V.
+     id:263-66-9973           alt id:263669973              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:531 W. PENNSYLVANIA AVE.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:734-8944
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:1/12/1997       last use:12/18/1998  priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HICKMAN, ARMMETTA T
+     id:24369100005298        alt id:AHICKMAN               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:553 E. VOORHIS AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:886 215-0978
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DAUGHTER OF GINA HICKMAN WHO WORKS IN ECONOMICS
+                          DEPT.
+                    
+          created:8/31/2008       last use:11/16/2008  priv granted:8/31/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HICKMAN, KATRICE
+     id:24369100005272        alt id:KHICKMAN               library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:553 E. VOORHIS AVE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 215-0978
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                     Note:DAUGHTER OF GINA HICKMAN, WHO WORKS IN ECONOMICS
+                          DEPT. 8/31/08  DDB 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:8/31/2008       last use:8/31/2008   priv granted:8/31/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ HUSKEY, SARAH
+     id:SHUSKEY                    library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:415 E. PENNSYLVANIA AVE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:748-4926
+                    Email:SARAH-HUSKEY@UTULSA.EDU
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF EUGENE HUSKEY
+                     
+          created:11/19/2007      last use:12/20/2007  priv granted:11/19/2007
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ JENKINS, LEILA
+     id:591-66-5298           alt id:LJENKINS               library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1252 TALL OAKS ROAD
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:822-4354
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF ANN JENKINS
+                     
+          created:10/22/1997      last use:11/19/1997  priv granted:10/22/1997
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ JUUSELA, DEBORAH L.
+     id:245-96-9543           alt id:DJUUSELA               library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8399
+                 Location:CAMPUS
+          address2:
+                   Street:615 FOREST LANE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:734-7507
+          address3:
+	  none
+ 
+*Extended Information—
+
+          created:1/12/1997       last use:4/15/2000   priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+
+ Kannon, Gregory Dawain
+     id:264-55-2785           alt id:264552785              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:413 Randon Terrace
+              City, State:Lake Mary, FL 32746-2626
+               Home Phone:(407) 3305250
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:1/14/1998       last use:7/27/1999   priv granted:1/14/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Kline, Caroline
+     id:800-11-8237           alt id:591628412              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:P.O. Box 414
+              City, State:DeLand, FL   
+Zip:32721-0414
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:8/14/2005       last use:3/10/2006   priv granted:8/14/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ LAWRENCE, PATTY
+     id:375-50-5091           alt id:375505091              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1267 CARDINAL ALNE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:(904) 822-5590
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:7/19/1999       last use:7/21/1999   priv granted:7/19/1999 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ LEWIS, JODI
+     id:800-60-4529                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:861 N CARPENTER AVE
+              City, State:ORANGE CITY, FL
+                      Zip:32763
+               Home Phone:386 956 3074
+                    Email:JJENKINSLEWIS@VALENCIACOLLEGEEDU
+          address3:
+	  none
+ 
+*Extended Information--
+          Note:DEPENDENT OF ROXANNE LEWIS FROM STUDENT SUCCESS DDB 1/28/14
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:1/28/2014       last use:1/28/2014   priv granted:1/28/2014 
+     priv expired:1/28/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Lisa A Hamilton
+     id:800-54-3869                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit: 8301 C/O David Hill
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of Prof. David Hill, Political Science.
+                          6/5/08cp
+                     Note:billed for book not retnd. 34369005024374 letter
+                          sent 10/7/10
+          created:6/5/2008        last use:9/4/2013    priv granted:6/5/2008  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ LITTLER, CHRISTOPHER
+     id:800-54-7679           alt id:265-52-5134            library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+	     none
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:11/28/2011      last use:4/14/2014   priv granted:11/28/2011
+     priv expired:5/28/2014 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ LOMBERK, SERA
+     id:591-17-5904                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:824 N. Tuxedo
+              City, State:DeLand, FL
+                      Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Deborah Mason SR 7/23/02
+                     
+          created:7/23/2002       last use:9/3/2002    priv granted:7/23/2002 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MANKIN, MICHAEL
+     id:800-27-3227                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1103 E. UNIVERSITY AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:822-5586
+                    Email:MANKINS93@BELLSOUTH.NET
+          address3:
+	  none
+ 
+*Extended Information—
+ 
+          created:6/26/2007       last use:6/20/2008   priv granted:6/26/2007 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MARGHEIM, SARAH
+     id:386-98-5328           alt id:386985328              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:209 HERONWOOD CIRCLE
+              City, State:DELTONA, FL
+                      Zip:32725
+               Home Phone:(407) 575-2608
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:SPONSOR- JEFFREY MARGHEIM
+          created:2/14/2000       last use:2/20/2001   priv granted:2/14/2000 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MARIS, EUNICE
+     id:800-07-8194                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:120 W. PENNSYLVANIA AVE.
+              City, State:DELAND, FL 
+Zip:32720
+               Home Phone:736-0760
+                    Email:Gmaris@stetson.edu
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:8/31/2009       last use:9/8/2009    priv granted:8/31/2009 
+     priv expired:8/31/2010 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MARTINEZ, JANET
+     id:411-94-7883           alt id:JMARTINEZ              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:415 E. PENNSYLVANIA AVENUE
+              City, State:DELAND, FL
+                      Zip:32724-3528
+               Home Phone:(904) 738-0235
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:DEPENDENT  DR. EUGENE HUSKEY
+                     
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:9/5/2000        last use:10/31/2008  priv granted:9/5/2000  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ MEDLIN, CAM
+     id:590-92-7647                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:365 Mercer Fernery Rd.
+              City, State:DeLand,  FL
+                      Zip:32720-1608
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:2/4/2002        last use:4/29/2002   priv granted:2/4/2002  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Medlin, Marissa
+     id:800-25-9094                library:MUSICLIB  
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:1/19/2010       last use:4/2/2012    priv granted:11/17/2011
+     priv expired:11/17/2012
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ NELSON, LEONARD E.
+     id:800-01-4942                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:8 Villa Villar Ct.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:904 734-2691
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:6/3/1997        last use:9/15/2016   priv granted:8/31/2016 
+     priv expired:8/31/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Nylen, Nize Rita
+     id:022-74-4535           alt id:022744535              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit:0
+                 Location:CAMPUS
+          address2:
+                   Street:242 East Ohio Avenue
+              City, State:DeLand, FL 
+Zip:32724-3571
+               Home Phone:(904) 7345458
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                     
+          created:8/26/1999       last use:3/11/2003   priv granted:8/26/1999 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ OLIVER, DAVID
+     id:800-11-6084                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Father is Ken Oliver FACILITIES and Mother is Ronda
+                          at the kiosk.
+                     
+          created:6/24/2008       last use:8/19/2008   priv granted:6/24/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PAINTER, FRANKIE
+     id:250-33-1763                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:811 ROYAL OAK CT
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-3269
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF NOEL PAINTER
+                     
+          created:9/9/2005        last use:9/26/2005   priv granted:9/9/2005  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PAUL, SOPHIE (MS)
+     id:800-61-3546                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:651 E. TAYLOR RD
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 873-2152
+                    Email:SOPHIE PAULFL@GMAIL.COM
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DAUGHTER OF BETH PAUL 6/21/16  DDB
+          created:6/21/2016       last use:8/1/2016    priv granted:6/21/2016 
+     priv expired:6/21/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PELICAN, ALEXANDER
+     id:800-54-6378                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1517 SAN MARCO DR. #102
+              City, State:ORMOND BEACH, FL
+                      Zip:32174
+               Home Phone:386-671-0884
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of GAIL LENKIEWICZ POLITCAL SCIENCE
+                     
+          created:11/12/2007      last use:3/25/2008   priv granted:11/12/2007
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PELICAN, ANTHONY
+     id:800-54-6377                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1517 SAN MARCO DR. #102
+              City, State:ORMOND BEACH, FL
+                      Zip:32174
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF GAIL LENKIEWICZ
+                     
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:11/12/2007      last use:9/1/2010    priv granted:4/6/2010  
+     priv expired:4/6/2011  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PENNEY, VICKY
+     id:589-03-3655                library:MAIN      
+*Address Information--  Mailing Address:3
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+                   Street:5025 DELEON OAKS CT
+              City, State:DELEON SPRINGS
+                      Zip:32130
+                    Phone:985-6664
+*Extended Information--
+                     Note:DEPENDENT OF BILL PENNEY
+                     
+          created:9/18/2001       last use:10/9/2002   priv granted:9/18/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ PETERSON, ERNIE N
+     id:800-24-3260                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                     Note:dependent of Jeannie Peterson Music 2/26/15 CCE
+          created:2/26/2015       last use:5/31/2017   priv granted:2/26/2015 
+     priv expired:6/1/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ POWELL, DENISE
+     id:010-54-9345                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:421 E. UNIVERSITY AVE
+              City, State:DELAND, FL 
+Zip:32724
+               Home Phone:956-1748
+                    Email:denisefpowell@gmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:John Mark Powell english
+          created:1/25/2011       last use:4/9/2016    priv granted:3/3/2016  
+     priv expired:3/3/2017  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ RADOSTITZ, CASEY
+     id:24369100006726             library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                  Note:Get contact information
+                     Note:Partner of Alexis Walker
+          created:5/29/2014       last use:5/29/2014   priv granted:5/29/2014 
+     priv expired:5/29/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Rausch, Karly N.
+     id:593-10-9202                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2781 Whitehurst Rd.
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:386-734-6222
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Staff Dependent CCE 6/23/03
+                     
+          created:6/23/2003       last use:7/2/2003    priv granted:6/23/2003 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ RAYMOND, JUDY
+     id:24369100004689             library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2422 Princeton Road
+              City, State:DeLand, FL
+                      Zip:32724-8403
+               Home Phone:734-0759
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Faculty dependent.  Wife of deceased faculty member
+                          Mike Raymond.   SR
+                      
+          created:4/17/2008       last use:9/26/2012   priv granted:4/18/2011 
+     priv expired:9/18/2013 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Reddish, Barbara Waters
+     id:259-90-6724           alt id:259906724              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:?
+                 Location:CAMPUS
+          address2:
+                   Street:950 Rolling Acres Drive
+              City, State:DeLand, FL
+                      Zip:32720-2350
+               Home Phone:(904) 738-4669
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:SPOUSE OF MITCHELL REDDISH (RELIGIOUS STUDIES) -
+                          BARBARA REDDISH MAY ALSO BE A STUDENT AND A FACULTY
+                          MEMBER (EDUCATION) AT TIMES. PCS.
+                     
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:6/12/1998       last use:6/12/1998   priv granted:6/12/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ REDDISH, BETH
+     id:590-32-9743           alt id:FD-1179                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:950 ROLLING ACRES DR.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:738-4669
+          address3:
+	  none
+ 
+*Extended Information--
+                    
+          created:1/27/1997       last use:5/10/2004   priv granted:1/31/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ REDDISH, MICHAEL
+     id:595-76-4978           alt id:595764978              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:950 ROLLING ACRES DR
+              City, State:DELAND, FL
+                      Zip:32720
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                     
+          created:11/28/2001      last use:12/7/2006   priv granted:5/17/2016 
+     priv expired:5/17/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ RIGSBY, JOSHUA RYAN
+     id:JRIGSBY               alt id:JRIBSBY                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1085 TORCHWOOD DRIVE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:734-8176
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:WAS TOLD TO UP-DATE ID CARD NO SOCIAL SECURITY
+                          NUMBER SCD 2-19-01
+                     
+          created:2/19/2001       last use:3/28/2001   priv granted:2/19/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROBERTS, JAMES (MR)
+     id:266-92-0874           alt id:266920874              library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:715 D. EAST MICHIGAN AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 740-1654
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:MR ROBERTS' WIFE DEBORAH WORKS AS A CONSULTANT IN
+                          THE EDUCATION DEPT.  10/23/08  DDB
+                     
+          created:10/23/2008      last use:10/30/2008  priv granted:10/23/2008
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROBINSON, ALEX
+     id:594-48-8320           alt id:AROBINSON              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1320 TRAIL BY THE LAKE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:904 738 5559
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:9/10/1997       last use:4/28/2003   priv granted:11/4/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROBINSON, ANTHONY
+     id:594-42-6164           alt id:SD-1083                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:1320 TRAIL BY THE LAKE
+              City, State:DELAND, FL
+                      Zip:32724
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:1/27/1997       last use:3/19/2000   priv granted:1/27/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROBINSON, NICOLAS
+     id:594-42-7396                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1320 TRAIL BY THE LAKE
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-5559
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:12/4/2000       last use:2/14/2003   priv granted:12/13/2002
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROGERS, GARY RICHARD
+     id:402-66-1612           alt id:SD-1081                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:439 N. CLARA AVE.
+              City, State:DELAND,  FL
+                      Zip:32720
+          address3:
+                    Phone:pager 904 851-3909
+*Extended Information--
+                     Note:SPOUSE OF MARY ANN ROGERS, PRESIDENT'S OFFICE. 
+                          ROGERS LOST COPY OF "STILWELL PAPERS," CHARGED ON
+                          CARD SYSTEM AND TRANSFERRED OVER TO SIRSI.  BILLED
+                          $35.00 BUT NEVER PAID FOR; ROGERS UNABLE TO LOCATE. 
+                          TITLE TURNED OVER TO TS/DINKINS 11/30/1999. PCS
+                          11/30/1999.
+                     
+          created:1/12/1997       last use:1/13/2003   priv granted:12/12/2002
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ ROGERS, LAURA ALLEN
+     id:N65-33-2574                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:NA/See address 2
+          address2:
+                   Street:2170 Wilmhurst Road
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:734-4110
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                     Note:Dependent of Charles Rogers.
+                     
+          created:7/13/1999       last use:7/21/1999   priv granted:7/13/1999 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Ross Jr., Leslie William
+     id:593-14-5600           alt id:593145600              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+                 Location:CAMPUS
+          address2:
+                   Street:4358 Marsh Road
+              City, State:DeLand, FL
+                      Zip:32724-9708
+               Home Phone:736-0288
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:2/9/1997        last use:2/9/1997    priv granted:2/9/1997  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ ROTH, ANGELIKA
+     id:800-58-6733                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:333 S. STONE ST.
+              City, State:DELAND, FL 
+Zip:32724
+                    Email:angelikaroth@yahoo.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Thomas Buck History
+          created:1/24/2012       last use:5/18/2012   priv granted:1/24/2012 
+     priv expired:1/24/2013 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ RYAN, SHANNON (MS)
+     id:800-20-6632           alt id:SHRYAN                 library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:440 W. MINNESOTA AVE.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:734-6536
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:6/30/1997       last use:1/13/2005   priv granted:6/30/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+
+ RYAN, TIM
+     id:265-75-8522                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:440 W. Minnesota Avenue
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:386-734-6536
+                    Email:ryant@apcointl.org
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:9/26/2001       last use:9/26/2001   priv granted:9/26/2001 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Sapp, Noah B
+     id:800-53-4065                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:1301 Weymouth Dr.
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:386-624-5432
+                    Email:noah_sapp@outlook.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Father is Greg Sapp
+                     
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:12/2/2015       last use:9/28/2017   priv granted:12/2/2015 
+     priv expired:12/31/2017
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Sibbald, Katharine
+     id:800-59-7992                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+                   Street:223 W Minnesota Ave
+              City, State:DeLand, Fl
+                      Zip:32720
+               Home Phone:612-655-4154
+                    Email:krisibbald@gmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                     Note:Spouse of Paul Sibbald
+          created:9/28/2017       last use:10/2/2017   priv granted:9/28/2017 
+     priv expired:9/28/2018 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ SITLER, JUNE
+     id:283-48-6953                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:  8354
+                 Location:CAMPUS
+          address2:
+                   Street:212 N SHERIDAN AVENUE
+              City, State:DELAND, FL
+                      Zip:32720-3935
+               Home Phone:(904) 734 7156
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:10/30/2000      last use:12/21/2000  priv granted:10/30/2000
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Smucker, Angela
+     id:800-62-1909                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8399
+          address2:
+                   Street:102 Merlot St
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:219-508-4945
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Spouse of Peter Smucker, Music Dept. (ML)
+          created:9/30/2015       last use:4/11/2016   priv granted:9/30/2015 
+     priv expired:9/30/2016 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+ SOLER, MARGARITA (Ms.)
+     id:24369100006296             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:425 courtland blvd
+              City, State:Deltona, FL
+                      Zip:32738
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Dependent of library staff member Julie Soler.
+                     
+          created:1/31/2010       last use:1/31/2010   priv granted:1/31/2010 
+     priv expired:1/31/2011 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ SPROSTON, CALEB
+     id:370-86-6876           alt id:CSPROSTON              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:436 N. KENTUCKY AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:734-9284
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:FATHER MAINTINENCE CCE 12/04
+                     
+          created:12/5/2004       last use:6/20/2005   priv granted:12/5/2004 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ STADTLER, BARRY
+     id:800-58-5631                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:552 PRINCEWOOD DR.
+              City, State:DELAND, FL 
+Zip:32724
+                    Email:bcs0595@yahoo.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Cheryl Stadtler university relations
+          created:3/15/2012       last use:5/31/2012   priv granted:3/15/2012 
+     priv expired:3/15/2013 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ STEEVES, PAULINE
+     id:800-22-5163                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:404 N. Clara Ave.
+              City, State:DeLand, FL 
+Zip:32720
+               Home Phone:734-0061
+                    Email:phsteeves@earthlink.net
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:spouse of Paul Steeves
+                     
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:2/12/2010       last use:3/19/2010   priv granted:2/12/2010 
+     priv expired:2/12/2011 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ STEEVES, POLLY
+     id:499-44-8066           alt id:499448066              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:404 N CLARA
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:734-0061
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:2/17/1998       last use:4/24/2001   priv granted:2/17/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ STRYKER, III, JAY
+     id:800-05-6801           alt id:JSTRYKER,III           library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT:8278
+                 Location:CAMPUS
+          address2:
+                   Street:951 ROLLING ACRES DRIVE
+              City, State:DELAND, FL
+                      Zip:3272O
+               Home Phone:734-0375
+          address3:
+	  none
+ 
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                  Note:Finance/Rinker Institute
+                     Note:HE IS DR JUD STRYKERS SON AND   DR. STRYKER IS
+                          JUDSON P. STRYKER, JR AND JAY IS JUDSON P. STRYKER,
+                          III.  SCD 12/18/02 THERE ARE TWO OF THEM.  Leave in
+                          as a dependent unless he again teaches as an
+                          adjunct.  SR
+                     
+          created:1/12/1997       last use:10/21/2003  priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ SZEXSEI, ALIC ROSS
+     id:603-68-7478           alt id:603687478              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:250 KATRINE ST.
+              City, State:DELEON SPRINGS, FL
+                      Zip:32130
+               Home Phone:985-0601
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:DEPENDENT OF DENISE SZECSEI EXT. 7547 CCE
+                     
+          created:12/19/2002      last use:12/19/2002  priv granted:12/19/2002
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Tate, Alfredo
+     id:442-84-8857           alt id:442848857              library:MAIN      
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:Unit:
+                 Location:CAMPUS
+          address2:
+                   Street:119 Palm Ct.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:943-8467
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dep. of Kristen Work
+                     
+          created:8/20/2002       last use:3/12/2008   priv granted:12/4/2006 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ THOMPSON, HEATH
+     id:595-60-1189           alt id:595601189              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1345 6TH AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:904 822-6976
+          address3:
+	  none
+ 
+*Extended Information--
+
+          created:8/28/1997       last use:12/23/1998  priv granted:8/28/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+
+ TICHENOR, EMILY
+     id:590-13-9019                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:901 LEXINGTON RD.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:740-9828
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:5/27/1997       last use:12/16/2008  priv granted:11/7/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Van Etten, Jennifer Rae
+     id:591-68-9318           alt id:591689318              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit:7366
+                 Location:CAMPUS
+          address2:
+                   Street:716 W. Arizona Avenue
+              City, State:DeLand, FL 
+Zip:32720-4061
+                      Zip:34951-2145
+               Home Phone:(904) 7382584
+          address3:
+	  none
+ 
+*Extended Information--
+          created:8/24/1998       last use:11/6/2001   priv granted:8/24/1998 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ VAUGHEN, SUSAN
+     id:800-36-4211                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1405 PERIWINKLE AVE.
+              City, State:DELAND, FL
+                      Zip:32724
+                    Email:srvaughen@gmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent of Daniel Vaughen business
+          created:9/30/2014       last use:2/17/2015   priv granted:9/30/2014 
+     priv expired:9/30/2015 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Vedder, Samuel Irwin
+     id:262-67-8001           alt id:262678001              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:421 N. Clara Ave.
+              City, State:DeLand, FL
+                      Zip:32720-3403
+               Home Phone:738-9880
+          address3:
+	  none
+ 
+*Extended Information--
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:1/12/1997       last use:1/22/1999   priv granted:1/12/1997 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Walker-Scully, Nancy Elizabeth (Ms.)
+     id:24369100005157             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1004 Country Club Park
+              City, State:DeLand, FL
+                      Zip:32724
+               Home Phone:736-7441
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:step-daughter of Devon G. Allocco, facilities.  10/
+                          08 SR
+          created:10/30/2008      last use:10/30/2008  priv granted:10/30/2008
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WALKER, THERESA LINN
+     id:24369100005124        alt id:TWALKER                library:MAIN      
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1004 COUNTRY CLUB PARK
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:386 736-3651
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:HUSBAND DEVON G. ALLOCCO WORKS AT THE PHYSICAL PLANT
+                          (GROUNDS)  10/9/08  DDB
+                     
+          created:10/9/2008       last use:10/9/2008   priv granted:10/9/2008 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WERNER, KATRIEN
+     id:577-08-9051           alt id:577089051              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:625 N. FLORIDA AVE.
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:(904) 738-1340
+          address3:
+	  none
+ 
+*Extended Information--
+          created:3/14/2000       last use:6/19/2000   priv granted:3/14/2000 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ West, Andrew
+     id:224-49-2291           alt id:224492291              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+	  none
+ 
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:4/15/2005       last use:5/12/2005   priv granted:4/15/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WILCOX, ALAN
+     id:585-90-1930           alt id:585901930              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:3 REYES ROAD
+              City, State:DELAND, FL
+                      Zip:32724-1308
+               Home Phone:738-1673
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:2/13/2004       last use:9/14/2005   priv granted:3/21/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Wilson, Amy V. (Miss)
+     id:24369100005249        alt id:AWILSON                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1475 Arredondo Grant Road
+              City, State:DeLeon Springs, FL
+                      Zip:32130
+               Home Phone:386 985-5025
+                    Email:amyv88@aol.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent daughter of Dorothy Wilson  09-08-08 DW
+                     .
+          created:9/8/2008        last use:9/8/2008    priv granted:9/8/2008  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ Wilson, Johnie R. (Mr.)
+     id:24369100005264        alt id:JWILSON                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:1475 Arredondo Grant Road
+              City, State:DeLeon Springs, FL
+                      Zip:32130
+               Home Phone:386 985-5025
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:dependent husband of Dorothy Wilson  09-08-08  DW
+                     
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:9/8/2008        last use:9/8/2008    priv granted:9/8/2008  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WILSON, MAGDA
+     id:800-55-4238                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:409 West Minnesota Ave
+              City, State:Deland, FL
+                      Zip:32720
+               Home Phone:386 734-8404
+                    Email:magda@magdahiller.com
+          address3:
+	  none
+ 
+*Extended Information--
+                     
+          created:2/8/2009        last use:5/29/2009   priv granted:2/8/2009  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ WILTON, JOHN
+     id:JWILTON               alt id:JWILTON                library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8252
+                 Location:CAMPUS
+          address2:
+	  none
+ 
+          address3:
+	  none
+ 
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Extended Information--
+                     Note:HAVE SUPERVISOR UPDATE ALL ADDRESS FIELDS FOR THIS
+                          PATRON - UNIT BOX AND PHONE UNKNOWN. PCS 8/99.
+                     
+          created:8/24/1999       last use:8/24/1999   priv granted:8/24/1999 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:DIGITAL AR
+
+ WINKLE, THOMAS
+     id:589-92-3822                library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:161 SUNSET DR.
+              City, State:LONGWOOD, FL
+                      Zip:32750
+               Home Phone:407-332-7653
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:KAREN WINKLE'S SON
+                     
+          created:7/17/2001       last use:6/5/2006    priv granted:7/30/2002 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:          
+
+ FORT, PATRICIA
+     id:800-18-4721           alt id:PFORT                  library:MAIN      
+
+
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:2
+          address1:
+                   Period:N/A
+                 Location:See Address 2
+          address2:
+                   Street:204 WEST STETSON AVE.
+              City, State:DELAND,  FL
+                      Zip:32720
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Patron Associate 12/09 SR - widow of Music School
+                          prof. and donor - bj 1/18/11 - Renewed Assoc.
+                          6/22/11 bj  Renewed 12/12 SR  Renewed thru 12/13 SR.
+                          Renewed thru 12/14 SR.  Renewed thru 12/15 VC.
+                          Renewed 12/15/15 MF Renewed 12/29/16 MF
+                     
+          created:1/12/1997       last use:5/16/2005   priv granted:1/12/1997 
+     priv expired:12/31/2017
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+ JOHNSON, HELEN H. (MS.)
+     id:24369100003392             library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:113 Chipola Ave., Apt. 807
+              City, State:DeLand, FL
+                      Zip:32720
+               Home Phone:(address updated 5/10/07 - bj)
+          address3:
+	  none
+ 
+*Extended Information--
+                     Note:Associate 5/05.  Spouse of deceased retired faculty
+                          member, so has check-out privileges that do not
+                          expire.  SR.  Renewed associates 5/07.  SR
+                     
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+          created:5/26/2005       last use:5/26/2005   priv granted:5/26/2005 
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+ NICHOLS, NAOMI (Ms.)
+     id:010-00-4299           alt id:010004299              library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:437 N. COLORADO AVE.
+              City, State:DELAND,  FL.
+                      Zip:32724
+               Home Phone:736-3325
+                    Email:naomibuckley@hotmail.com
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:Changed to dependent on 1/29/08  DDB
+                     Note:Dee Buckley's daughter -- change to dependent if
+                          HatterAlum expires.    HatterAlum expires 2/19/09 
+                          SR = husband James renewed family HatterAlum mem.
+                          2/25/09 so new exp. 2/25/10 - bj  Renewed hatter
+                          4/9/10 SR  Family membership renewed 6/20/13 SR
+          created:5/17/2002       last use:11/3/2014   priv granted:6/27/2016 
+     priv expired:6/27/2017 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:ASSOCIATE
+
+ WEST, GEORGE (DR)
+     id:800-29-8558                library:MAIN      
+
+
+
+
+
+
+
+
+                                   User List                                    
+                                                                                
+                  Produced Friday, October 13, 2017 at 1:12 PM                  
+                                                                                
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:UNIT: 8399
+                 Location:CAMPUS
+          address2:
+                   Street:715 EASTOVER CIR.
+              City, State:DELAND, FL
+                      Zip:32724
+               Home Phone:738-3604
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:termed 8/31/12 still dependent, but under Hospice
+                          care.
+                     Note:ADJUNCT FACULTY - SOM - FALL 2002  Associate payroll
+                          deduction (wife Jean West) with never expiration.
+
+          created:1/26/1998       last use:5/5/2016    priv granted:1/26/1998 
+     priv expired:5/10/2013 
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:MUSIC           group ID:ASSOCIATE
+
+ Legans, Raymond
+     id:800-06-9210           alt id:800069210              library:MAIN      
+*Address Information--  Mailing Address:1
+          address1:
+                   Period:Unit 8300
+                 Location:?
+          address2:
+                   Street:433 E Church Street
+              City, State:DeLand, FL  
+Zip:32724-4362
+               Home Phone:216-0850
+                    Email:rlegans@stetson.edu
+          address3:
+	  none
+ 
+*Extended Information--
+                  Note:works in english department temp part time 2/7/07
+                     Note:dependent of Yves Clemmen modern language
+                     
+
+             
+                                                                                
+          created:2/7/2007        last use:3/13/2008   priv granted:2/7/2007  
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:DEPENDENT
+
+ MARSHALL, PATRICK KYLE
+     id:111-40-8931           alt id:24369100001578         library:MAIN      
+*Address Information--  Mailing Address:2
+          address1:
+	  none
+ 
+          address2:
+                   Street:2965 PAOLINI DRIVE
+              City, State:DELAND, FL
+                      Zip:32720
+               Home Phone:736-6664
+          address3:
+	  none
+ 
+*Extended Information--
+                  
+                     Note:DEPENDENT OF GEORGE MARSHALL MAINTANANCE GROUNDS 
+                          ask that he exchange his ID card to a staff
+                          dependent card. 11/02 CCE
+                     
+          created:11/3/1999       last use:4/9/2003    priv granted:11/10/2002
+     priv expired:7/2/2009  
+             cat1:                    cat2:                    cat3:            
+        cat4:                    cat5:          
+             cat6:                    cat7:                    cat8:            
+        cat9:                   cat10:          
+            cat11:                   cat12:          
+          Profile:DEPENDENT    user access:PUBLIC       environment:MAIPUB    
+             dept:                group ID:HATTERALUM
+
+
+
