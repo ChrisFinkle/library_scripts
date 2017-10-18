@@ -1,8 +1,5 @@
 #!python
 import re
-import os
-
-inputDir = './input_files'
 
 outputFields = ['prefix','givenName','middleName','familyName','suffix',
 				'nickname','canSelfEdit','dateOfBirth','gender','institutionId',
@@ -21,7 +18,7 @@ outputFields = ['prefix','givenName','middleName','familyName','suffix',
 simpleFields = ['id', 'Profile', 'created', 'priv expired', 'Email', 'group ID']
 addressFields = ['Street', 'Zip', 'Home Phone', 'City, State']
 
-namePattern = r'^\s?[\.\w\'-]+(?:\s[\w\.]+)?,\s.*'
+namePattern = r'^name:.*'
 
 def parseSimpleFields(line, patron):
 	for field in simpleFields:
@@ -30,11 +27,8 @@ def parseSimpleFields(line, patron):
 			patron[field] = result
 
 def parseName(namestr, patron):
-	patron['familyName'] = re.findall(r'^\s?([\.\w\'-]+)(?:\s[\w\.]+)?,\s.*', namestr)
-	patron['givenName'] = re.findall(r',\s([\w\'-]+)', namestr)
-	patron['middleName'] = re.findall(r',\s[\w\'-]+\s([\w\.\']+)', namestr)
-	patron['prefix'] = re.findall(r'\(([\w\.]+)\)', namestr)
-	patron['suffix'] = re.findall(r'^\s?[\.\w\'-]+\s([\w\.]+),', namestr)
+	patron['familyName'] = re.findall(r'^name:(.*)', namestr)
+	patron['givenName'] = ['ILL']
 
 def parseAddressFields(line, patron):
 	for field in addressFields:
@@ -143,29 +137,26 @@ def extractField(field, patron):
 	else:
 		return ''
 
-out = open('tab-delimited patron data.txt', 'w+')
+out = open('tab-delimited ILL data.txt', 'w+')
 out.write('	'.join(outputFields)+'\n')
-for target in os.listdir(inputDir):
-	file = open('input_files/'+target)
-	patrons = [{}]
 
-	for line in file:
-		newName = re.findall(namePattern, line)
-		if newName:
-			patron = {}
-			patrons.append(patron)
-			parseName(newName[0], patron)
-		else:
-			patron = patrons[-1]
-			parseSimpleFields(line,patron)
-			parseAddressFields(line, patron)
-			noteMode = checkForNoteMode(line)
-			if noteMode: appendLineToNote(line, patron)
-
-	file.close()
-	
-	for patron in patrons[1:]:
-		postProcessPatron(patron)
-		out.write('	'.join([extractField(field, patron) for field in outputFields])+'\n')
+file = open('userlist - ILL.txt')
+patrons = [{}]
+for line in file:
+	newName = re.findall(namePattern, line)
+	if newName:
+		patron = {}
+		patrons.append(patron)
+		parseName(line, patron)
+	else:
+		patron = patrons[-1]
+		parseSimpleFields(line,patron)
+		parseAddressFields(line, patron)
+		noteMode = checkForNoteMode(line)
+		if noteMode: appendLineToNote(line, patron)
+file.close()
+for patron in patrons[1:]:
+	postProcessPatron(patron)
+	out.write('	'.join([extractField(field, patron) for field in outputFields])+'\n')
 		
 out.close()

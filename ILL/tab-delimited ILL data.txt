@@ -1,0 +1,1421 @@
+prefix	givenName	middleName	familyName	suffix	nickname	canSelfEdit	dateOfBirth	gender	institutionId	barcode	idAtSource	sourceSystem	borrowerCategory	circRegistrationDate	oclcExpirationDate	homeBranch	primaryStreetAddressLine1	primaryStreetAddressLine2	primaryCityOrLocality	primaryStateOrProvince	primaryPostalCode	primaryCountry	primaryPhone	secondaryStreetAddressLine1	secondaryStreetAddressLine2	secondaryCityOrLocality	secondaryStateOrProvince	secondaryPostalCode	secondaryCountry	secondaryPhone	emailAddress	mobilePhone	notificationEmail	notificationTextPhone	patronNotes	photoURL	customdata1	customdata2	customdata3	customdata4	username	illId	illApprovalStatus	illPatronType	illPickupLocation
+	ILL		Agnes Scott College, McCain Library							EGA			ILL	2016-10-11			141 E. College Ave		Decatur	GA	30030-3770																 none 								
+	ILL		ALAMEDA FREE LIBRARY, California							JQB			ILL	2017-06-21																							 none 								
+	ILL		Albany Public Library NY							XFN			ILL	2011-10-11																							 none 								
+	ILL		Alexander Mitchell Library							AML			ILL	2010-02-18																							 none 								
+	ILL		ALGONGUIN AREA PUBLIC LIBRARY, IL							GK5			ILL	2017-07-28																							 none 								
+	ILL		Altoona Area Public Library - ILL							AOP			ILL	2016-03-09			1600 5th Ave		Altoona	PA	16602																 none 								
+	ILL		ANTIOCH UNIVERSITY, NH - ILL							ANTCH			ILL	2016-04-29			library - 40 Avon St.		Keene	NH	03431-3516																 none 								
+	ILL		Bee Cave Public Library, TX							BCPCP			ILL	2016-09-27			4000 Galleria Pkwy.		Bee Cave	Ca	78738																 none 								
+	ILL		Bellarmine University Library - Louisville, KY 40205							KBC			ILL	2011-02-01																							 none 								
+	ILL		Bellevue Public Library							BLL			ILL	2016-07-15			1003 Lincoln Road		Bellevue	NE	68005										illrequest@bellevue.net						 none 								
+	ILL		BEMIDJI STATE UNIVERSITY, Minnesota							MNB			ILL	2017-03-15																							 none 								
+	ILL		BEREA COLLEGE  KY							KBE			ILL	2004-08-11																							 none 								
+	ILL		Bland Memorial Library, NY - ILL							VYM			ILL	2016-03-24			300 Bercarrota Blvd.		Bradenton	FL	34205																 none 								
+	ILL		Bloomingdale Public Library IL							JOZ			ILL	2011-10-04																							 none 								
+	ILL		Bonneville Power Admin. Library-1							BVA			ILL	2010-02-18																							 none 								
+	ILL		Bortz Library ILL							VHS			ILL	2016-02-05			257 Via Sacra, P.O. Box 7		Hampden-Sydney	VA	23943																 none 								
+	ILL		Bard College NY							VVP			ILL	2011-10-05																							 none 								
+	ILL		Brevard County Libraries							BCL			ILL	2011-11-16																							 								
+	ILL		Bridgewater State University - ILL							BDR			ILL	2016-04-11			10 Shaw Rd.		Bridgewater	MA	02325																 none 								
+	ILL		Brookfield Public Library IL							TU7			ILL	2011-10-25																							 none 								
+	ILL		Brownsville Public Library							TS4			ILL	2010-03-26																							 none 								
+	ILL		Bryan College TN							TDT			ILL	2011-11-01																							 none 								
+	ILL		Catholic Univ of America DC							DCU			ILL	2011-11-15																							 none 								
+	ILL		CHAPMAN UNIVERSITY, CA							CCX			ILL	2017-06-09																							 none 								
+	ILL		CHARLESTON AFB FL 4418  BASE LIBRARY SC							BMM			ILL	2004-07-14																							 none 								
+	ILL		Chattahoochee Valley Libraries GA							GCV			ILL	2011-09-14																							 none 								
+	ILL		Cleveland State, OH - ILL							CSU			ILL	2016-03-30			Interlibrary Loan, RT 122 - 1860 East 22nd Street		Cleveland	OH	44115-2214																 none 								
+	ILL		College of the Holy Cross							HCD			ILL	2016-10-26			1 College Street		Worcester	MA	01610-2395																 none 								
+	ILL		COLUSA COUNTY LIBRARY, California							CUP			ILL	2017-03-15																							 none 								
+	ILL		Community College of Phila PA							PDC			ILL	2011-10-28																							 none 								
+	ILL		Concordia College Library - Bronxville, NY							NYA			ILL	2010-10-20																															
+	ILL		Concordia University, CA - ILL							C5U			ILL	2016-03-24			ILL Dept. - 1530 Concordia West		Irvine	CA	92612																 none 								
+	ILL		Cook Memorial Library - Libertyville, IL 60048							JBI			ILL	2011-02-01																							 none 								
+	ILL		Coronado Public Library							CNP			ILL	2010-03-10																							 none 								
+	ILL		Corrigan Library, Yonkers NY - ILL							ZSN			ILL	2016-02-23			201 Seminary Avenue		Yonkers	NY	10704																 none 								
+	ILL		Council on Foreign Relations ATTN: Laura Puls							ZCF			ILL	2011-02-01																							 none 								
+	ILL		Cuesta College Library							CJG			ILL	2010-02-10																							 none 								
+	ILL		Curtis Institute of Music							CR2			ILL	2017-02-14																							 none 								
+	ILL		DESALES UNIVERSITY							ALL			ILL	2017-07-26																							 none 								
+	ILL		Doane College - ILL							NBD			ILL	2016-04-14			1014 Boswell		Crete	NE	68333																 none 								
+	ILL		Douglas and Judith Krupp Library, Smithfelid RI - ILL							BRB			ILL	2016-02-03			1150 Douglas Pike		Smithfeild	RI	02917																 none 								
+	ILL		Dover Public Library							DOV			ILL	2016-08-23			35 Lockerman Plaza		Dover	DE	19901																 none 								
+	ILL		Dr. C.C. Pearce Municipal Library- Bartow Public Library							P@B			ILL	2010-02-17																							 none 								
+	ILL		El Camino College CA							ELO			ILL	2011-11-29																							 none 								
+	ILL		Eliot D. Pratt Library- Goddard College							GCB			ILL	2010-04-05																							 none 								
+	ILL		Elms College Alumnae Library							NFK			ILL	2017-02-10																							 none 								
+	ILL		Emporia Public Library. Kansas							EP2			ILL	2017-03-01																							 none 								
+	ILL		Enid Public Library - Enid, OK 73701							OEG			ILL	2011-02-01																							 none 								
+	ILL		ENNIS AND NANCY HAM LIBRARY							EJK			ILL	2017-09-05																							 none 								
+	ILL		ENOCH PRATT FREE LIBRARY, Maryland							MDB			ILL	2004-09-23																							 								
+	ILL		ERC LIBRRY LOCKHEED MARTIN  NJ							LXM			ILL	2008-12-18																							 none 								
+	ILL		Evangel University Library							MOE			ILL	2017-01-18																							 none 								
+	ILL		FALLS CITY LIBRARY NEBRASKA							NLZ			ILL	2017-04-10																							 none 								
+	ILL		FINDLAY-HANCOCK COUNTY PUBLIC LIBRARY, OHIO							FPL			ILL	2017-06-21																							 none 								
+	ILL		Fintel Library -Roanoke College (VRO)							VRO			ILL	2009-10-06																							 none 								
+	ILL		Fresno County Public Library, CA - ILL							JQR			ILL	2016-04-29			2420 Mariposa St		Fresno	CA	93721																 none 								
+	ILL		FRIEDSAM MEMORIAL LIBRARY, NY							VYS			ILL	2017-07-11																							 none 								
+	ILL		G.A. Pfeiffer Library NC							KZB			ILL	2011-12-01																							 none 								
+	ILL		Garvin H. Johnston Library,  - ILL							WY#			ILL	2016-03-09			Garvin H. Johnston Library ILL ;Box 5660		Poplarville	MS	39470																 none 								
+	ILL		GAZI UNIVERSITY, TURKEY							GAZIU			ILL	2017-05-01																							 none 								
+	ILL		GEORGETOWN COLLEGE							KGG			ILL	2017-04-27																							 none 								
+	ILL		Georgetown Public Library TX							QS5			ILL	2011-10-20																							 none 								
+	ILL		GLENVIEW PUBLIC LIBRARY, IL							FM0			ILL	2017-04-20																							 none 								
+	ILL		Gothenburg University - ILL							BGN			ILL	2016-04-22			Biomedical Library ILL Box 416		Gothenburg	Sw	SE-405 30																 none 								
+	ILL		Grace College and Seminary- Moragn Library							IGR			ILL	2010-02-23																							 none 								
+	ILL		Greensburg Hempfield Area Library							PAGRH			ILL	2016-11-01			237 S Pennsylvania Ave		Greensburg	PA																	 none 								
+	ILL		Guadalupe County Correctional Facility							NMS			ILL	2004-03-29																							 none 								
+	ILL		Hamline University MN							MHL			ILL	2011-10-03																							 none 								
+	ILL		Haverford College Library							HVC			ILL	2010-02-19																							 none 								
+	ILL		Hekman Library MI							EXC			ILL	2011-09-14																							 none 								
+	ILL		HEWES LIBRARY, MONMOUTH COLLEGE							ICL			ILL	2017-08-23																							 none 								
+	ILL		Highland Park Public Library (IHV)							IHV			ILL	2009-10-15																							 none 								
+	ILL		Hillsboro Brookwood Library							OOV			ILL	2016-10-11			2850 NE Brookwood Pkwy		Hillsboro	Or	97124-5327																 none 								
+	ILL		HORTON MEMORIAL HOSPITAL, NY							VDX			ILL	2017-03-16																							 none 								
+	ILL		IL L- BELMONT ABBEY COLLEGE							KQV			ILL	2004-06-08																							 none 								
+	ILL		ABILENE PUBLIC LIB  TX							TXB			ILL	2008-01-23																							 none 								
+	ILL		AkU-UALR AR							AKU			ILL	2014-03-17																							 none 								
+	ILL		Albany State University  GA							ALQ			ILL	2011-06-15																							 none 								
+	ILL		Allen Ginsberg Library Naropa University (NIY)							NIY			ILL	2009-09-22																							 none 								
+	ILL		 Allen Memorial Library  LA							APW			ILL	2015-08-20																							 none 								
+	ILL		Alvernia Univerity Library  PA							AVE			ILL	2012-07-17																							 none 								
+	ILL		 AMBROSE UNIVERSITY LIBRRY  IA							IOJ			ILL	2008-05-07																							 none 								
+	ILL		AMU Library  AL							AAM			ILL	2013-06-26																							 none 								
+	ILL		Andrew Carnegie Library Livingstone College (KQZ)							KQZ			ILL	2009-09-22																							 none 								
+	ILL		ANN ARBOR DISTRICT LIBRARY							EYH			ILL	2009-03-23																							 none 								
+	ILL		ANTIOCH UNIVERSITY NEW ENGLAND  NH							AN@			ILL	2008-01-28																							 none 								
+	ILL		Arab Public Library AL							MWV			ILL	2011-03-15																							 none 								
+	ILL		Armacost Lib CA							CUR			ILL	2013-10-28																							 none 								
+	ILL		 Art Circle Public Library  TN							BLUEG			ILL	2005-07-20																							 none 								
+	ILL		Art Institute of Boston MA							ARTIB			ILL	2012-05-02																							 none 								
+	ILL		Ashtabula Co. District Lib.  OH							ASHDL			ILL	2014-07-03																							 none 								
+	ILL		Assumption College  MA							AZM			ILL	2011-03-15																							 none 								
+	ILL		Auburn College Library							PGN			ILL	2013-01-29																							 none 								
+	ILL		Austin State University  TX							TXK			ILL	2011-08-16																							 none 								
+	ILL		Ave Maria School of Law Library							L#V			ILL	2010-02-03																							 none 								
+	ILL		Babson College, Horn Library							BAB			ILL	2010-04-16																															
+	ILL		Bailey Library AR							AKE			ILL	2012-12-03																							 none 								
+	ILL		 Bakalar Library Longy School of Music  MA							LOE			ILL	2013-06-26																							 none 								
+	ILL		Baldwin County Library Cooperative  AL							AL5CW			ILL	2010-07-29																							 none 								
+	ILL		BaldwinCounty Library Coperative   AL							ALSCW			ILL	2011-08-17																							 none 								
+	ILL		Bangor Theological Siminary  ME							BTF			ILL	2011-05-17																							 none 								
+	ILL		Bartholomew County Pub Lib IN							INB			ILL	2013-02-25																							 none 								
+	ILL		 Baruch College Library  NY							VVB			ILL	2014-05-22																							 none 								
+	ILL		BATES COLLEGE LIBRARY ME							BTS			ILL	2004-08-03																							 none 								
+	ILL		 BATTELLE MEM INST BATTELLE LIBRARY  OH							BKM			ILL	2009-08-04																							 none 								
+	ILL		BAYLOR UNIVERSITY  TX							IYU			ILL	2010-07-22																							 none 								
+	ILL		 Belleville  Public Library  WA							JN3			ILL	2014-05-05																							 none 								
+	ILL		Bennington Free Library  VT							BFL			ILL	2013-06-06																							 none 								
+	ILL		BETHANY COLLEGE  WV							WVB			ILL	2009-05-29																							 none 								
+	ILL		BETHEL UNIVERSITY MN							MNK			ILL	2008-01-16																							 none 								
+	ILL		Bethlehem Pub Lib NY							XFS			ILL	2013-03-25																							 none 								
+	ILL		BEVERLY HILLS PUBLIC LIBRARY							BHP			ILL	2008-12-01																							 none 								
+	ILL		Big Rapids MI							EZF			ILL	2012-09-21																							 none 								
+	ILL		Blazer Library Kentucky State KY							KYD			ILL	2012-07-18																							 none 								
+	ILL		Boerne Public Library							T2S			ILL	2010-05-19																							 none 								
+	ILL		BOONE COUNTY PUBLIC LIBRARY							KYB			ILL	2008-11-04																							 none 								
+	ILL		Boston Conservatory Alphin Library  MA							BCO			ILL	2011-03-07																							 none 								
+	ILL		Boulder Public Library							CO3			ILL	2010-04-16																							 none 								
+	ILL		Brentwood Library  TN							BRENT			ILL	2014-07-07																							 none 								
+	ILL		 Bronson Library  CN							GWB			ILL	2015-05-11																							 none 								
+	ILL		Buley Lib CT							CTN			ILL	2013-09-03																							 none 								
+	ILL		Burling Library IA							IOG			ILL	2013-01-28																							 none 								
+	ILL		BURLINGTON COUNTY COLLEGE LIBRARY							BUN			ILL	2009-01-15																							 none 								
+	ILL		 Butler Librry Lindenwood University  MO							MOQ			ILL	2015-08-20																							 none 								
+	ILL		CAL ARTS LIBRARY							CIA			ILL	2009-03-24																							 none 								
+	ILL		 CAL STATE UNIVERSITY SAN MARCOS  CA							CS1			ILL	2010-01-07																							 none 								
+	ILL		Caldwell County Public Library  NC							UZT			ILL	2009-12-15																							 none 								
+	ILL		Calgary Public Library  AB							CPLC			ILL	2013-01-25																							 none 								
+	ILL		Cali Polytech State Univ CA							CPS			ILL	2013-10-14																							 none 								
+	ILL		California University of PA							CSC			ILL	2010-12-07																							 none 								
+	ILL		Camden-Carroll Library Morehead State Univ. KY							KMM			ILL	2010-07-28																							 none 								
+	ILL		CAMPBELL COUNTY PUBLIC LIBRARY							WYG			ILL	2009-04-13																							 none 								
+	ILL		Campbell County Public Library  KE							KYC			ILL	2012-12-18																							 none 								
+	ILL		 Cape May County Library  NJ, CMP							CMP			ILL	2015-01-28																							 none 								
+	ILL		Carlock Pub Lib IL							UQ3			ILL	2012-03-13																							 none 								
+	ILL		Carroll University- Todd Wehr Library							GZB			ILL	2010-03-11																							 none 								
+	ILL		Carson-Newman University  TN							TCN			ILL	2015-08-05																							 none 								
+	ILL		Carthage College WI							GZC			ILL	2011-02-18																							 none 								
+	ILL		 Case Library-Colgate University  NY							VVC			ILL	2013-08-06																							 none 								
+	ILL		CAYUGA COMMUNITY COLLEGE							ZZY			ILL	2009-03-27																							 none 								
+	ILL		CEDAR CREST COLLEGE  PA							CC#			ILL	2010-07-22																							 none 								
+	ILL		CENTENNIAL LIBRARY CEDARVILLE UNIVERSITY							CDC			ILL	2009-02-02																							 none 								
+	ILL		Center for Diseas Control  GA							HNC			ILL	2008-09-02																							 none 								
+	ILL		CENTRAL BREVARD LIBRARY  FL							CENTRAL			ILL	2011-02-18																															
+	ILL		Central Mississippi Regional Library System  MS							CET			ILL	2011-07-27																							 none 								
+	ILL		CENTRAL WASHINGTON UNIVERSITY LIBRARY							CWU			ILL	2009-03-17																							 none 								
+	ILL		CEORGIA PERIMETER COLLEGE/ CLARKESTON CAMPUS  GA							GCD			ILL	2009-05-27																							 none 								
+	ILL		Charleston school of law lib SC							CSCOL			ILL	2013-11-12																							 none 								
+	ILL		Charlie Norwood VA Medical Cntr GA							UFS			ILL	2012-09-27																							 none 								
+	ILL		 Chatham Area Public Library  IL							IV2			ILL	2013-12-11																							 none 								
+	ILL		Chicago-Kent Law Library							ILK			ILL	2010-04-27																							 none 								
+	ILL		Christian Brothers University							TEB			ILL	2011-06-17																							 none 								
+	ILL		Christian County Library  MO							MO3			ILL	2012-01-18																							 none 								
+	ILL		City of Calabasas Lib CA							CZ#			ILL	2013-08-30																							 none 								
+	ILL		City of Camarillo Pub Lib CA							CMRLO			ILL	2013-04-10																							 none 								
+	ILL		Clark COunty Pub Library							KB8			ILL	2012-08-23																							 none 								
+	ILL		ClaytonCounty Library System  GA							ZGH			ILL	2011-08-25																							 none 								
+	ILL		Clemens Library at the College of St. Benedict (MNF)							MNF			ILL	2009-09-14																							 none 								
+	ILL		CLEMSON U. LIBRARY  SC							SEA			ILL	2008-04-03																							 none 								
+	ILL		CLEVELAND CLINIC ALUMNI LIBRARY							ME6			ILL	2009-01-16																							 none 								
+	ILL		COBB COUNTY PUBLIC LIBRARY SYSTEM							ZGJ			ILL	2008-02-01																							 none 								
+	ILL		Cocoa Beach Public Library							CBP			ILL	2010-12-02			550 N. Brevard Avenue		Cocoa Beach	Be	32931		321-686-1104														 Note:Contact person Gwen Birck Note:This Library isn't in the lender system and they use an ALA form. SCD 12/2/10 								
+	ILL		COCOA BEACH PUBLIC LIBRARY  FL							COCOA			ILL	2011-06-22																							 Note:ALA LOAN NOT DLLI OKED BY SUE RYAN/SCD 								
+	ILL		Colburn School Lib CA							CSPAL			ILL	2013-10-17																							 none 								
+	ILL		Columbus State Univ GA							GCO			ILL	2013-04-09																							 none 								
+	ILL		Copley Library Univeristy of San Diego  CA							CDU			ILL	2011-04-12																							 none 								
+	ILL		 Coyote Ridge Corr Center Branch Lib  WA							WACRC			ILL	2011-09-16																							 none 								
+	ILL		 CSU Monterey Bay   CA							MB@			ILL	2013-05-09																							 none 								
+	ILL		Cumberland County Public Library  NC							HQB			ILL	2015-10-19																							 none 								
+	ILL		CWRU Kelvin Smith Library  OH							CWR			ILL	2014-06-03																							 none 								
+	ILL		CYNTHIANA-HARRISON COUNTY PUBLIC LIBRARY							KE4			ILL	2009-04-13																							 none 								
+	ILL		Dadebille Public Library  AL							HRY			ILL	2011-04-28																							 none 								
+	ILL		Daniel Webster College  NH							HF7			ILL	2010-11-03																							 none 								
+	ILL		 Daviess County Public Library   KY							KOD			ILL	2015-11-20																							 none 								
+	ILL		DAVIS MEMORIAL LIBRARY METHODIST COLLEGE  NC							KZA			ILL	2009-05-11																							 none 								
+	ILL		DAYTON MEMORIAL LIBRARY  CO							COR			ILL	2011-05-16																							 none 								
+	ILL		DAYTON METRO LIBRARY  OH							DMM			ILL	2009-06-25																							 none 								
+	ILL		DEWITT WALLACE LIBRARY - MACALESTER COLLEGE							MAC			ILL	2008-10-28																							 none 								
+	ILL		 Dick Smith Library  TX							TTS			ILL	2010-08-25																							 none 								
+	ILL		 Dillon Public Library  MT							YZV			ILL	2016-05-31																							 none 								
+	ILL		DIMENNA-NYSELIUS LIBRARY FAIRFIELD UNIVERSITY							FAU			ILL	2009-03-17																							 none 								
+	ILL		DONOVAN RESEARCH LIBRARY GA							TSQ			ILL	2011-05-16																							 none 								
+	ILL		Drake University Law Library							IWD			ILL	2016-04-19																							 none 								
+	ILL		Drexel University health Sciences Libraries  MS							HHN			ILL	2011-06-20																							 none 								
+	ILL		 Dudley Knox Library Postgraduate School  CA							AD#			ILL	2012-01-11																							 none 								
+	ILL		Duluth Public Library  MN							ALV			ILL	2011-04-08																							 none 								
+	ILL		Dunham Pub Lib NY							ZTM			ILL	2013-10-29																							 none 								
+	ILL		Earl S. Richardson Library MD							MSU			ILL	2013-01-23																							 none 								
+	ILL		East Central GA Regional Library  GA							ZGO			ILL	2011-05-04																							 none 								
+	ILL		EASTERN MICHIGAN UNIVERSITY  MI							EYE			ILL	2005-07-20																							 none 								
+	ILL		Ector County Lib TX							ECT			ILL	2013-09-24																							 none 								
+	ILL		ELMS COLLEGE  MA							NKF			ILL	2011-01-10																							 none 								
+	ILL		Euclid Pub. Lib. OH							ECU			ILL	2013-12-03																							 none 								
+	ILL		 Farmington Community Library  MI							EHE			ILL	2013-12-17																							 none 								
+	ILL		Fashion Institute Of Tech NY							UVV			ILL	2012-11-13																							 none 								
+	ILL		FHG library PA							QWC			ILL	2014-01-30																							 none 								
+	ILL		FLATHEAD COUNTY LIBRARY MT							MZC			ILL	2008-01-31																							 none 								
+	ILL		Florida International university College of Law  FL							FIUCL			ILL	2011-06-29																							 none 								
+	ILL		FORDHAM UNIVERSITY  NY							VYF			ILL	2010-07-21																							 none 								
+	ILL		Forest Park Pub. Lib IL							TO9			ILL	2013-11-25																							 none 								
+	ILL		FORT LEWIS COLLEGE REED LIBRARY  CO							CDF			ILL	2009-07-30																							 none 								
+	ILL		Frenso Pacific Univ. CA							FPD			ILL	2012-08-27																							 none 								
+	ILL		Friends Univeristy							KFU			ILL	2012-02-22																							 none 								
+	ILL		Frisco Public Lib TX							FHP			ILL	2014-04-08																							 none 								
+	ILL		FULLERTON PUBLIC LIBRARY							FUP			ILL	2009-02-09																							 none 								
+	ILL		 Gail Borden Public Library  IL							IF9			ILL	2011-02-14																							 none 								
+	ILL		Gannon University - Nash Library							PGU			ILL	2010-05-18																							 none 								
+	ILL		Geneva College PA							PGC			ILL	2011-09-20																							 none 								
+	ILL		George C. Marshall Center Research Library (GGM)							GGM			ILL	2009-09-21																							 none 								
+	ILL		 GEORGIA STATE UNIVERSITY  GA							GFV			ILL	2009-09-04																							 none 								
+	ILL		Gettysburg College  PA							GDC			ILL	2012-07-25																							 none 								
+	ILL		 Glen Ellyn Public Library   IL							JCW			ILL	2015-05-15																							 none 								
+	ILL		Glendale Commun College Librry  AZ							PMD			ILL	2011-04-08																							 none 								
+	ILL		Glendive Pub Lib. MT							YQP			ILL	2013-11-04																							 none 								
+	ILL		GOULD MEMORIAL LIBRARY							GBB			ILL	2009-02-20																							 none 								
+	ILL		GRACELAND UNIVERSITY IA							IOF			ILL	2010-07-23																							 none 								
+	ILL		GRAND VALLEY STATE UNIV  MI							EXG			ILL	2008-08-25																							 none 								
+	ILL		GREAT LAKES CHRISTIAN COLLEGE  MI							EEG			ILL	2010-07-26																							 none 								
+	ILL		GREENSBORO PUBLIC LIBRARY							NGP			ILL	2009-04-01																							 none 								
+	ILL		 Griffith University Nathan Campus Library  Australia							LGO			ILL	2013-07-29																							 none 								
+	ILL		  H. A. HUNT MEMORIAL LIBRRY GA STATE  GA							FFV			ILL	2009-09-04																							 none 								
+	ILL		Haggerty Lib WI							WMO			ILL	2013-10-28																							 none 								
+	ILL		 Hallward Librry University of Nottingham							UVN			ILL	2013-06-25																							 none 								
+	ILL		HAMILTON COLLEGE LIBRARY  NY							YHM			ILL	2009-08-06																							 none 								
+	ILL		Hamline University  MN							MHA			ILL	2011-09-09																							 none 								
+	ILL		HAMPTON MORGAN MEMORIAL LIBRARY  AL							AL5MG			ILL	2007-07-31																							 none 								
+	ILL		 Hampton Public Library   VA							VAJ			ILL	2012-07-24																							 none 								
+	ILL		HArford Comm. College MD							HAR			ILL	2012-03-19																							 none 								
+	ILL		HARRIET IRVING LIBRARY: UNIVERSITY OF NEW BRUNSWICK							UBF			ILL	2008-11-20																							 none 								
+	ILL		Heartland Comm. College Lib. IL							H9C			ILL	2013-02-14																							 none 								
+	ILL		Hellenic College MA							BHC			ILL	2012-11-01																							 none 								
+	ILL		 Henderson Community College/ hartfield library KY							KUH			ILL	2011-07-19																							 none 								
+	ILL		Highline Community College Libray  WA							UOI			ILL	2012-11-27																							 none 								
+	ILL		Hillsdale COllege MI							EEI			ILL	2012-11-26																							 none 								
+	ILL		HINDS COMMUNITY COLLEGE/RAYMOND CAMPUS MS							MRH			ILL	2009-05-29																							 none 								
+	ILL		Hobart & William Smith Colleges NY							ZEM			ILL	2013-04-01																							 none 								
+	ILL		Hoke O'Kelley Mem. Library (EMO)							EMO			ILL	2009-09-17																							 none 								
+	ILL		 Holmes County Public Library  FL							FD2			ILL	2015-09-29																							 none 								
+	ILL		Hood College Library  MD							HCF			ILL	2011-05-23																							 none 								
+	ILL		Hood County Public Library TX							T3Q			ILL	2011-05-23																							 none 								
+	ILL		Houghton Memorial Lib. AL							HU9			ILL	2013-11-20																							 none 								
+	ILL		Hudson Valley Community College  NY							VXV			ILL	2015-10-19																							 none 								
+	ILL		Hugh & Hazel Darling Lib. CA							CPC			ILL	2013-04-10																							 none 								
+	ILL		HUIE LIBRARY							AKH			ILL	2009-03-20																							 none 								
+	ILL		 Hunter Library/WCU  NC							NWM			ILL	2014-01-10																							 none 								
+	ILL		Incarnate Word lib TX							SAV			ILL	2014-02-12																							 none 								
+	ILL		Iowa State University  Ames IA							IWA			ILL	2011-03-31																							 none 								
+	ILL		Jackson Library UNCG							NGU			ILL	2010-02-03																							 none 								
+	ILL		James Earl Carter Lib GA							GHA			ILL	2014-02-06																							 none 								
+	ILL		 JEFFERSON PARISH LIBRARY  LA							LMJ			ILL	2009-06-03																							 none 								
+	ILL		JKM Library PA							HHC			ILL	2013-02-25																							 none 								
+	ILL		 Johnson City Public Library  TN							WATRL			ILL	2013-07-10																							 none 								
+	ILL		Jones Library MN							NCA			ILL	2012-09-26																							 none 								
+	ILL		 Joseph County Public Library  IN							ISO			ILL	2015-09-30																							 none 								
+	ILL		KANKAKEE PUBLIC LIBRARY							OO3			ILL	2008-11-25																							 none 								
+	ILL		 Karrmann Library  WI							GVZ			ILL	2015-09-29																							 none 								
+	ILL		Kelly Library VA							VEH			ILL	2013-04-19																							 none 								
+	ILL		 Kemp Library East Stroudburg University  PA							ETS			ILL	2013-06-19																							 none 								
+	ILL		 Kent State University  OH							KSU			ILL	2014-02-24																							 none 								
+	ILL		 KENTUCKY UNIVERSITY RICHMOND KY							KEU			ILL	2008-01-29																							 none 								
+	ILL		Kenyon College- Library and Information Services							KEN			ILL	2010-04-19																							 none 								
+	ILL		 Kewanee Public Library District    IL							IEV			ILL	2014-01-09																							 none 								
+	ILL		Kirk & Caldwell Rumberger Library FL							FKC			ILL	2005-09-22																							 none 								
+	ILL		 Knox College Library  IL							IBK			ILL	2012-05-09																							 none 								
+	ILL		Kraemer Family Library							COX			ILL	2012-11-19																							 none 								
+	ILL		Krannert Memorial Library IN							III			ILL	2013-04-17																							 none 								
+	ILL		KRESGE LIBRARY: OAKLAND UNIVERSITY							EYR			ILL	2009-02-24																							 none 								
+	ILL		KTP Topeka Shawnee Co. Public Library (KTP)							KTP			ILL	2009-11-30																							 none 								
+	ILL		La Salle University Library  PA							LAS			ILL	2014-07-08																							 none 								
+	ILL		LAMAR COUNTY LIBRARY SYSTEM							LQM			ILL	2009-01-16																							 none 								
+	ILL		LAW SCHOOL LIBRARY UNIVERSITY OF ALABAMA  AL							AUL			ILL	2008-04-03																							 none 								
+	ILL		LAWRENCE UNIVERSITY LIBRARY							WIB			ILL	2009-02-10																							 none 								
+	ILL		Lebanon Valley College- Bishop Library							LVC			ILL	2010-02-04																							 none 								
+	ILL		LEHIGH UNIVERSITY   PA							LYU			ILL	2010-01-12																							 none 								
+	ILL		LEWIS COOPER JR. MEMORIAL LIBRARY  AL							ALLCJ			ILL	2009-06-04																							 none 								
+	ILL		LEXMARK LIBRARY  KY							KLO			ILL	2009-10-19																							 none 								
+	ILL		 LIBRARY NEH ROOM   DC							EHW			ILL	2009-06-12																							 none 								
+	ILL		Lichols Library Faulkner University  AL							MXD			ILL	2011-03-25																							 none 								
+	ILL		Lindey Wilson College Library  KY							LWC			ILL	2011-03-15																							 none 								
+	ILL		LINFILED COLLEGE  OR							OLC			ILL	2011-01-10																							 none 								
+	ILL		 Lisle Library District   IL							BNO			ILL	2015-06-23																							 none 								
+	ILL		Lloyd Sealy Library John Jay College  NY							VVJ			ILL	2012-01-11																							 none 								
+	ILL		LOGAN COUNTY DISTRICT LIBRARY  OH							L6D			ILL	2009-08-26																							 none 								
+	ILL		 Loras College, IA							IOL			ILL	2015-07-06																							 none 								
+	ILL		Los Angeles Public Library CA							JQW			ILL	2012-09-11																							 none 								
+	ILL		 Loyala Marymount Library  MS							LML			ILL	2011-06-28																							 none 								
+	ILL		Loyala Univeristy , Monroe LA							LLM			ILL	2009-09-08																							 none 								
+	ILL		Loyola Univ. of Chicago							IAL			ILL	2010-01-28																							 none 								
+	ILL		 Lyndon State College  VT							VLD			ILL	2013-06-11																							 none 								
+	ILL		Manhattan School of Music NY							ZMS			ILL	2011-07-01																							 none 								
+	ILL		 mariam Coffin Canaday Library  PA							ZKO			ILL	2015-11-20																							 none 								
+	ILL		 Marrowbone PLD  Bethany  IL							IY5			ILL	2015-06-30																							 none 								
+	ILL		Martha S. Grafton Library- Mary Baldwin College							VMB			ILL	2010-02-16																							 none 								
+	ILL		MASON LIBRARY: KEENE STATE COLLETE							KNM			ILL	2009-02-03																							 none 								
+	ILL		Max Planck Institut  Berlin Germany							PLANCK			ILL	2011-03-28																							 none 								
+	ILL		McDaniel College							WTY			ILL	2013-10-01																							 none 								
+	ILL		 MCFL Technical Services  CA							JRG			ILL	2015-07-15																							 none 								
+	ILL		McGill Univ CA							LGG			ILL	2014-03-11																							 none 								
+	ILL		Melbourne Public Library							MPL			ILL	2013-09-11			540 E. Fee Ave		Melbourne	FL	32901																 Note:ALA Interlibrary Loan 								
+	ILL		Memorial Library GA							GBC			ILL	2013-01-29																							 none 								
+	ILL		MESSIAH COLLEGE MURRARY LIBRARY  PA							PGM			ILL	2010-07-23																							 none 								
+	ILL		 Mid-Columbia Libraries  WA							UAH			ILL	2015-11-20																							 none 								
+	ILL		Millersville University PA							MVS			ILL	2013-01-29																							 none 								
+	ILL		MILLSAPS COLLEGE LIBRARY NORTH STATE  MS							MMC			ILL	2004-07-14																							 none 								
+	ILL		Miriam B. & James J. Mulva Library							WCD			ILL	2010-05-18																							 none 								
+	ILL		MISSISSIPPI STTE UNIVERSITY  MS							MFM			ILL	2011-04-26																							 none 								
+	ILL		Mississippi Valley State University  MS							MCK			ILL	2011-03-09																							 none 								
+	ILL		MITRE CORPORATIONS BEDFORD LIBRRY NOT BEDFORD PUB  MA							MTE			ILL	2008-12-18																							 none 								
+	ILL		 Moline Public Library  IL							IDO			ILL	2012-07-16																							 none 								
+	ILL		Montatna State University MT							MZF			ILL	2012-10-15																							 none 								
+	ILL		MOUNT VERNON CITY LIBRARY							AA5			ILL	2009-04-27																							 none 								
+	ILL		MSU LIBRARIES MI							EEM			ILL	2010-07-20																							 none 								
+	ILL		Mudd Lib MI							EXA			ILL	2013-10-08																							 none 								
+	ILL		MURDOCK LEARNING RESOURCE CENTER							GFC			ILL	2009-01-21																							 none 								
+	ILL		MUS College of Law Library East Lansing  MI							EVK			ILL	2011-03-17																							 none 								
+	ILL		 Museum of Fine Arts, Houston-Hirsch Library  TX							FNE			ILL	2014-08-29																							 none 								
+	ILL		N. Palm Beach Library							N9B			ILL	2013-02-13																							 none 								
+	ILL		NARRAGANSETT PUBLIC LIB  KINGSTON RI							RDS			ILL	2004-08-03																							 none 								
+	ILL		Nat Ctr Atmospheric  Boulder CO							CNR			ILL	2013-12-09																							 none 								
+	ILL		Nebraska Wesleyan University, NE							NBW			ILL	2008-10-02																															
+	ILL		New Bern-Craven Co. Public Library  NC							QJA			ILL	2011-03-04																							 none 								
+	ILL		NEW ORLEANS PUBLIC LIBRARY  LA							LNC			ILL	2010-12-13																							 none 								
+	ILL		NEWPORT NEWS PUBLIC LIBRARY   VA							PEQ			ILL	2009-06-18																							 none 								
+	ILL		Newton Gresham Lib TX							SHH			ILL	2014-01-17																							 none 								
+	ILL		Niobarara County Library  WY							W8N			ILL	2013-06-06																							 none 								
+	ILL		North Park Univ. Lib IL							ICZ			ILL	2014-02-04																							 none 								
+	ILL		Northeast Georgia Regional Library  GA							ZHB			ILL	2014-01-08																							 none 								
+	ILL		NORTHEASTERN ILLIOINS UNIVERSITY  IL.							IOA			ILL	2010-12-06																							 none 								
+	ILL		NORTHERN MICHIGAN UNIVERSITY							EZN			ILL	2009-10-12																							 none 								
+	ILL		NORTHWESTERN STATE UNIVERSITY  LOUISSIANA  LO							LNW			ILL	2008-08-25																							 none 								
+	ILL		NY Pub Lib NY							NYP			ILL	2013-11-05																							 none 								
+	ILL		NY Univ Bobst lib NY							ZYU			ILL	2013-08-26																							 none 								
+	ILL		OKC Pioneer Library  OK							OKM			ILL	2010-08-16																							 none 								
+	ILL		Orange County Public Library, CA							ORK			ILL	2008-09-24																															
+	ILL		OSTERHOUR FREE LIBRARY							OST			ILL	2009-04-01																							 none 								
+	ILL		Palm Springs Pub Lib CA							CPG			ILL	2013-03-01																							 none 								
+	ILL		 Parkland Library  FL							PRKLD			ILL	2012-06-13																							 none 								
+	ILL		Parlin-Ingersol Pub Libr IL							IEL			ILL	2013-03-19																							 none 								
+	ILL		PASO ROBLES PUBLIC LIBRARY							JRP			ILL	2009-02-25																							 none 								
+	ILL		Pepperdine University  CA							CPE			ILL	2011-10-25																							 none 								
+	ILL		 Perrot Memorial Library  CT							PEM			ILL	2014-05-30																							 none 								
+	ILL		PFAU LIBRARY, CA							CSB			ILL	2004-10-04																							 								
+	ILL		Piedmont College Libraries GA							GE7			ILL	2013-12-05																							 none 								
+	ILL		Piedmont Virginia Community College							PZS			ILL	2015-06-12																							 none 								
+	ILL		Pinetop-lakeside Pub Lib AZ							N8V			ILL	2014-02-26																							 none 								
+	ILL		Pitkin County Library							HFU			ILL	2013-03-18																							 none 								
+	ILL		Pittsburgh Theological Seminary  PA							PKT			ILL	2015-07-29																							 none 								
+	ILL		Plainfield Public Library IL							OY4			ILL	2013-08-07																							 none 								
+	ILL		PLANO PUBLIC LIBRARY							PLS			ILL	2009-01-28																							 none 								
+	ILL		Pope Pius XII Lib CT							STJ			ILL	2013-09-26																							 none 								
+	ILL		 Popular Creek Public Library  IL							JJG			ILL	2013-07-25																							 none 								
+	ILL		PROVIDENCE COLLEGE-PHILLIPS MEMORIAL LIBRARY							PRC			ILL	2008-03-14																							 none 								
+	ILL		PROVIDENCE PUBLIB LIBRARY SYSTEM  RI							RJ5			ILL	2009-05-15																							 none 								
+	ILL		PUBLIC LIBRARY  AL							ABJ			ILL	2007-06-12																							 none 								
+	ILL		RAMAPO COLLEGE OF NEW JERSEY  NJ							RNJ			ILL	2009-07-15																							 none 								
+	ILL		Randolph co. Public Lib. NC							NZS			ILL	2012-09-28																							 none 								
+	ILL		RASPA New Port Richey Campus, FL							RASPA			ILL	2011-08-08																							 none 								
+	ILL		Rbert L. F. Sikes Public Library Crestview FL							FOA			ILL	2011-06-08																							 none 								
+	ILL		REEVES LIBRARY MORAVIAN COLLEGE							MOR			ILL	2008-12-11																							 none 								
+	ILL		Renner Academic Lib IL							JCV			ILL	2014-02-06																							 none 								
+	ILL		Renton Public Library  WA							Z26			ILL	2009-06-15																							 none 								
+	ILL		 RESOURCES FOR THE FUTURE LIBRARY  DC							RFF			ILL	2009-09-04																							 none 								
+	ILL		Rhodes College							TWS			ILL	2010-10-25																							 none 								
+	ILL		Richland County Public Library SC							SRC			ILL	2010-09-10																							 none 								
+	ILL		ROANOKE CITY PUBLIC LIBRARY  VA							RNC			ILL	2008-12-18																							 none 								
+	ILL		ROBARTS LIBRARY UNIVERSITY OF TORONTO							UTO			ILL	2009-02-05																							 none 								
+	ILL		ROCHESTER HILLS PUBLIC LIBRARY  MI							EHG			ILL	2008-12-18																							 none 								
+	ILL		Ruth Enlow Library of Garrett County MD							WM@			ILL	2012-10-31																							 none 								
+	ILL		RUTH SCARBOROUGH LIBRARY							WVS			ILL	2008-04-08																							 none 								
+	ILL		Saint Louis Univ Law Lib							SLU			ILL	2013-08-30																							 none 								
+	ILL		Saint Vincent College  PA							PSV			ILL	2011-03-28																							 none 								
+	ILL		SALISBURY UNIVERSITY  MD							SSC			ILL	2008-01-29																							 none 								
+	ILL		SALT LAKE COUNTY LIBRARY							UUC			ILL	2009-02-03																							 none 								
+	ILL		Sam Shaw Library NE							WH5			ILL	2009-09-04																							 none 								
+	ILL		SAN DIEGO COUNTY LIBRARY							SDG			ILL	2009-03-25																							 none 								
+	ILL		SAN FRANCISCO PUBLIC LIBRARY							SFR			ILL	2008-08-25																							 none 								
+	ILL		 San Rafael Public Library  CA							SNR			ILL	2013-05-09																							 none 								
+	ILL		SANTA CRUZ PUBLIC LIBRARIES							JTA			ILL	2008-12-02																							 none 								
+	ILL		Schumacher Library Northwestern College  IL							N2B			ILL	2013-07-29																							 none 								
+	ILL		 Scottsdale Public Library  AZ							AZD			ILL	2015-06-16																							 none 								
+	ILL		SETON HALL UNIVERSITY  PA							PQA			ILL	2009-07-27																							 none 								
+	ILL		 Shafer Library University of Findly  OH							FIN			ILL	2014-01-10																							 none 								
+	ILL		Shaw Leslie Library, Franklin Springs GA							CE5			ILL	2016-02-03			Emanuel College, PO BOX 69		Franklin Springs	Sp	30639																 none 								
+	ILL		SKOKIE PUBLIC LIBRARY  IL							IHG			ILL	2009-05-06																							 none 								
+	ILL		SMITHSONIAN TROPICAL RESEARCH INSTITUTE AA							SMI			ILL	2010-07-26																							 none 								
+	ILL		SOUTH TEXAS COLLEGE LIBRARY							PBF			ILL	2009-04-30																							 none 								
+	ILL		SOUTHERN NAZARENE UNIVERSITY							OKA			ILL	2009-03-25																							 none 								
+	ILL		 Spartaburg County Public Library  SC							SPL			ILL	2013-07-31																							 none 								
+	ILL		Stanley Community College  Library  NC							HZR			ILL	2015-02-13																							 none 								
+	ILL		STANLY CO. PUBLIC LIBRARY							KQF			ILL	2009-03-12																							 none 								
+	ILL		 State University of New York at Binghamton  NY							BNG			ILL	2011-06-15																							 none 								
+	ILL		Stevens point pub lib Wisconsin							WJQ			ILL	2014-01-13																							 none 								
+	ILL		Suffolk CountyCommunity College  NY							YDD			ILL	2011-06-16																							 none 								
+	ILL		 Taos Public Library							DV3			ILL	2014-06-25																							 none 								
+	ILL		Tecumcari Public Library							DY2			ILL	2010-04-16																							 none 								
+	ILL		 Tempe Public Library  AZ							ATM			ILL	2013-07-08																							 none 								
+	ILL		 Tenton County Library  WY							WST			ILL	2015-05-06																							 none 								
+	ILL		 Texpress McAllen Public Library  TX							TME			ILL	2012-11-20																							 none 								
+	ILL		 Thammasat University Libraries  Bangkok Thailand							TULIB			ILL	2015-05-08																							 none 								
+	ILL		THE COLLEGE OF STATEN ISLAND							VSI			ILL	2009-04-17																							 none 								
+	ILL		THREE RIVERS REGIONAL LIBRARY SYSTEM							ZGD			ILL	2009-01-13																							 none 								
+	ILL		Thrift Library- Anderson University							ZKF			ILL	2010-02-23																							 none 								
+	ILL		Transylvania University  KY							KTU			ILL	2011-10-13																							 none 								
+	ILL		 Travis P. Hignett Memorial Library  AL							IFS			ILL	2011-09-22																							 none 								
+	ILL		Triton College IL							IAW			ILL	2013-10-08																							 none 								
+	ILL		 TROY PUBLIC LIBRARY  AL							AL5TY			ILL	2009-07-28																							 none 								
+	ILL		TSU Library TN							TSU			ILL	2014-01-22																							 none 								
+	ILL		Tulane University Library   LA							LRU			ILL	2011-02-21																							 none 								
+	ILL		U.S. Army Engineer Research and Development  MS							AERDC			ILL	2016-05-17																							 none 								
+	ILL		U.S. DEPT OF STATE/RALPH BUNCHE LIBRRY  DC							DOS			ILL	2009-05-27																							 none 								
+	ILL		U.S. Environmental Protection Agency IL							ELA			ILL	2013-04-09																							 none 								
+	ILL		UCL School of Slavonic and East European Studies							UCL			ILL	2015-07-06			16 Taviton Street, London, WCHI 08W																				 none 								
+	ILL		 UMASS LOwell   MN							ULN			ILL	2011-03-15																							 none 								
+	ILL		UNH Manchester NH							MVA			ILL	2013-10-28																							 none 								
+	ILL		UNI- Rod Library IA							NIU			ILL	2012-04-15																							 none 								
+	ILL		Union College Library NY							ZWU			ILL	2011-11-06																							 none 								
+	ILL		Union College Library KY							KUC			ILL	2013-02-05																							 none 								
+	ILL		UNIVERISTY OF DALLAS LIBRARY  TX							IVD			ILL	2009-06-08																							 none 								
+	ILL		UNIVERISTY OF MAINE  ME							MEU			ILL	2008-12-19																							 none 								
+	ILL		UNIVERISTY OF PITTSBURRH							PMC			ILL	2008-07-01																							 none 								
+	ILL		UNIVERISTY OF PUGET SOUND LIBRARY  WA							UPP			ILL	2009-06-02																							 none 								
+	ILL		Universite de Montreal							MUQ			ILL	2010-03-30																							 none 								
+	ILL		University At Buffalo-Doc Delivery   NY							BUF			ILL	2014-07-23																							 none 								
+	ILL		 University of Alberta  Canada							UAB			ILL	2009-07-31																							 none 								
+	ILL		UNIVERSITY OF BRIDGEPORT  CT							UBM			ILL	2009-09-04																							 none 								
+	ILL		UNIVERSITY OF CALIFORNIA- IRVINE  CA							CUI			ILL	2011-01-10																							 none 								
+	ILL		UNIVERSITY OF CENTRAL ARKANSAS							AKC			ILL	2009-01-13																							 none 								
+	ILL		 UNIVERSITY OF CHICAGO LIBRARY CHICAGO							CGU			ILL	2009-10-14																							 none 								
+	ILL		University of Massachusetts Boston  MA							BMU			ILL	2010-10-25																							 none 								
+	ILL		University of Melbourne/ Victoria Australia							UMV			ILL	2011-03-21																							 none 								
+	ILL		 UNIVERSITY OF MISSISSIPPI							MUS2			ILL	2009-04-30																							 none 								
+	ILL		University of Oslo Library  Oslo NO 0315							O2F			ILL	2015-07-15																							 none 								
+	ILL		UNIVERSITY OF RHODE ISLAND LIBRARY							RIU			ILL	2009-03-23																							 none 								
+	ILL		 UNIVERSITY OF SCRANTON  PA							SRU			ILL	2009-09-04																							 none 								
+	ILL		UNIVERSITY OF SOUTHERN MISSISSIPPI							MUS			ILL	2009-10-07																							 none 								
+	ILL		University of St. Thomas - Houston							TUT			ILL	2010-05-26																							 none 								
+	ILL		 University of St. Thomas  MN							MNT			ILL	2011-03-15																							 none 								
+	ILL		UNIVERSITY OF TENNESSEE AT CHATTANOOGA							TUC			ILL	2004-06-07																							 none 								
+	ILL		UNIVERSITY OF TEXAS EL PASO							TXU			ILL	2009-11-04																							 none 								
+	ILL		University of Texas at Tyler  TX							TEX			ILL	2011-05-02																							 none 								
+	ILL		University of Texas at San Antonio Library  TX							TXJ			ILL	2011-08-24																							 none 								
+	ILL		University of Virginia's College of Wise VA							VCV			ILL	2012-03-30																							 none 								
+	ILL		 University of Victoria Libraries   BC, CA							VT2			ILL	2015-11-03																							 none 								
+	ILL		 University of Washington  WA							UWA			ILL	2014-07-21																							 none 								
+	ILL		 University of Wisconsin  WI							WIS			ILL	2011-03-15																							 none 								
+	ILL		University of Wisconsin-Eau Claire  WI							GZE			ILL	2012-07-05																							 none 								
+	ILL		University ofArkansas- Fort Smith  AR							ASZ			ILL	2011-06-15																							 none 								
+	ILL		UPR RICO PIEDRAS CITEC FACULTA DE CLENCIAS NATURALES PR							PRCDI			ILL	2011-04-18																							 none 								
+	ILL		US EPA Headquarters and Chemical Libraries  DC							EJB			ILL	2013-01-09																							 none 								
+	ILL		USC Libraries							CSL			ILL	2010-03-30																							 none 								
+	ILL		Utah Valley University							UVU			ILL	2015-11-20																							 none 								
+	ILL		UWC- MARATHON							WJT			ILL	2009-02-20																							 none 								
+	ILL		VA COMMONWEALTH UNIVERSITY							VRC			ILL	2010-01-22																							 none 								
+	ILL		Vernon Area Public Library  IL							IV@			ILL	2009-07-31																							 none 								
+	ILL		Victoria College/University of Houston-Texas  TX							TXV			ILL	2014-05-05																							 none 								
+	ILL		Vinning Library West Virginia University  WV							WVT			ILL	2011-03-04																							 none 								
+	ILL		Wakulla County Pub Lib FL							FB9			ILL	2013-09-20																							 none 								
+	ILL		WALKER MEMORIAL LIBRARY							HPU			ILL	2009-03-27																							 none 								
+	ILL		Warren Wilson COllege LIB NC							NZW			ILL	2014-04-30																							 none 								
+	ILL		WASHINGTON COUNTY LIBRARY SYSTEM							W9Z			ILL	2009-02-20																							 none 								
+	ILL		Waukegan Public Library  IL							GP4			ILL	2012-08-15																							 none 								
+	ILL		WAYNE COMMUNITY COLLEGE LIBRARY							HZX			ILL	2009-03-10																							 none 								
+	ILL		 Weber County Library  UT							UTW			ILL	2013-06-19																							 none 								
+	ILL		 Wesleyan College  WV							WVQ			ILL	2008-04-03																							 none 								
+	ILL		 West hartford Public Library  CT							WHP			ILL	2014-07-22																							 none 								
+	ILL		West Union Branch Library  West Union OH							WSILL			ILL	2014-05-08																							 none 								
+	ILL		WETHERSFIELD PUBLIC LIBRARY  CT							GWK			ILL	2008-08-25																							 none 								
+	ILL		williams College Libraries  MA							WCM			ILL	2011-04-19																							 none 								
+	ILL		 Wilson College Library  PA							PVW			ILL	2011-08-25																							 none 								
+	ILL		WILSON LIBRARY: WESTERN WASHINGTON UNIVERSITY							XFF			ILL	2009-01-27																							 none 								
+	ILL		WINNETKA PUBLIC LIBRARY							IWE			ILL	2009-03-27																							 none 								
+	ILL		 Winthrop Univeristy  SC							CLIO			ILL	2014-04-22																							 none 								
+	ILL		Wm T. Cozby Public Library  TX							WT2			ILL	2011-04-28																							 none 								
+	ILL		Wolf Law Lib							VWL			ILL	2014-01-17																							 none 								
+	ILL		Woodland Community College  CA							WCCLI			ILL	2011-02-28																							 none 								
+	ILL		Woodridge pub lib IL							HUO			ILL	2014-02-27																							 none 								
+	ILL		 WOODROW WILSON INTERNTIONAL CENTER FOR SCHOLARS  D.C.							AZ1			ILL	2009-06-02																							 none 								
+	ILL		Worcester Polytechnic Institute  MA							WPG			ILL	2010-10-26																							 none 								
+	ILL		Worthington Public Library  OH							OWR			ILL	2014-04-22																							 none 								
+	ILL		Xavier University Library  LA							LNX			ILL	2015-06-18																							 none 								
+	ILL		Yolo County Library  CA							YOL			ILL	2012-10-12																							 none 								
+	ILL		 Young Harris College  GA							ZJA			ILL	2014-08-27																							 none 								
+	ILL		Zach English Everglades Univeristy  FL							FLEVE			ILL	2011-05-27																							 none 								
+	ILL		LL -ADAMS CTY PUBLIC							PYM			ILL	2012-05-24																							 none 								
+	ILL		LL -AMERICAN INTERNATIONAL COLLEGE							NKA			ILL	2016-08-08																							 none 								
+	ILL		LL -Anderson County Library  ILL  SC							SAL			ILL	2005-10-28																							 none 								
+	ILL		LL -Atlanta-Fulton Public Library GA							GAP			ILL	2008-06-02																							 none 								
+	ILL		LL -Base Library WA							AYG			ILL	2011-09-02																							 none 								
+	ILL		LL -Bennet College NC							BEN			ILL	2012-02-06																							 none 								
+	ILL		LL -Bertrand Library							PBU			ILL	2009-11-03																							 none 								
+	ILL		LL -Carl A. Rudisill Library NC							KQY			ILL	2012-10-29																							 none 								
+	ILL		LL -CarletonCollege   MN							MNN			ILL	2016-05-17																							 none 								
+	ILL		LL -Centrlia College Library							C6C			ILL	2012-11-12																							 none 								
+	ILL		LL -Chapin Memorial Lib SC							SO7			ILL	2012-02-14																							 none 								
+	ILL		LL -Chester Pub Lib NY							VGE			ILL	2012-04-30																							 none 								
+	ILL		LL -Clark University- Robert H. Goddard Library							CKM			ILL	2010-04-27																							 none 								
+	ILL		LL -CLEVELAND-HEIGHTS-UNIVERSITY HEIGHTS PUBLIC LIBRARY  OH							OZC			ILL	2008-07-14																							 none 								
+	ILL		LL -Cocoa Beach Public Library							CCB			ILL	2010-04-14			550 N. Brevard Avenue		Cocoa Beach	Be	32931-4326																 Note:Not in DLLI must be mailed out 								
+	ILL		LL -College of DuPage IL							IBI			ILL	2010-01-20																							 none 								
+	ILL		LL -DRAKE LIBRARY SUNY BROCKPORT  NY							XBM			ILL	2009-11-13																							 none 								
+	ILL		LL -Eastern Mennonite Univ VA							VEM			ILL	2012-01-24																							 none 								
+	ILL		LL -EASTERN OREGON UNIVERSITY  OR							EOS			ILL	2008-05-21																							 none 								
+	ILL		LL -Edgecombe County Memorial Library NC							NQV			ILL	2012-02-20																							 none 								
+	ILL		LL -ELKHART PUBLIC LIBRARY							IEB			ILL	2008-02-27																							 none 								
+	ILL		LL -Erskine College and Seminary SC							SO4			ILL	2012-04-04																							 none 								
+	ILL		LL -Fargo Pub. Lib ND							NFG			ILL	2013-03-18																							 none 								
+	ILL		LL -FLORIDA COLLEGE CHATLOS LIBRARY, FL							FYD			ILL	2004-10-21																							 								
+	ILL		LL -FORSYTH COUNTY PUBLIC LIBRARY  GA							Y32			ILL	2004-10-21																							 none 								
+	ILL		LL -Fort Bend County Libraries TX							FTX			ILL	2014-09-25																							 none 								
+	ILL		LL -Hebrew Union College Library OH							HUC			ILL	2012-09-17																							 none 								
+	ILL		LL -Iowa Library IA							IOZ			ILL	2012-08-28																							 none 								
+	ILL		LL -Lafayette Public Lib							LFY			ILL	2014-02-12																							 none 								
+	ILL		LL -LAWRENCE TECH UNIVERSITY LIBRARY							EYL			ILL	2011-08-30																							 none 								
+	ILL		LL -Loan - Guilford College Library- Greensboro NC							NUG			ILL	2010-09-17																							 								
+	ILL		LL -Mabee- Simpson library							ASB			ILL	2008-02-08																							 none 								
+	ILL		LL -MANTOR LIBRARY UM AT FARMINGTON, ME							UMF			ILL	2010-09-17																							 								
+	ILL		LL -MidAMERICA Nazarene Univ. KS							LQ4			ILL	2012-08-27																							 none 								
+	ILL		LL -New York Univ Law Lib							YLS			ILL	2013-08-29																							 none 								
+	ILL		LL -Niles Public Library Distrit							GO4			ILL	2010-04-22																							 none 								
+	ILL		LL -NORTH DAKOTA STATE LIBRARY  ND*							NDS			ILL	2008-05-21																							 none 								
+	ILL		LL -Oklahima University OK							OSZ			ILL	2012-04-09																							 none 								
+	ILL		LL -Queens Library NY							ZQP			ILL	2012-04-17																							 none 								
+	ILL		LL -RIVERA LIBRARY							CRU			ILL	2008-04-21																							 none 								
+	ILL		LL -Route to Lake alfred/ Bartow Lib FL							L3A			ILL	2013-09-18																							 none 								
+	ILL		LL -Rush University Library IL							IDL			ILL	2012-04-27																							 none 								
+	ILL		LL -Shippensburg University Library							SQP			ILL	2009-10-02																							 none 								
+	ILL		LL -Shorter University GA							ZJB			ILL	2013-04-23																							 none 								
+	ILL		LL -SMITHTOWN PUBLIC LIBRARY							SDE			ILL	2008-02-28																							 none 								
+	ILL		LL -SOUTHERN BAPTIST THEOLOGICAL SIMINARY LOUISVILLE KENTUCK							KTS			ILL	2008-06-02																							 none 								
+	ILL		LL -Southwestern Illinois College							IC6			ILL	2010-06-14																							 none 								
+	ILL		LL -SUNY Purchase Library							ZPM			ILL	2009-09-16																							 none 								
+	ILL		LL -SYRACUSE UNIVERSITY LIBRARY							SYB			ILL	2008-03-12																							 none 								
+	ILL		LL -Texas A&M International Univ TX							TLS			ILL	2011-10-26																							 none 								
+	ILL		LL -Texas A&M Univ TX							TAMSA			ILL	2013-03-21																							 none 								
+	ILL		LL -TISCH LIBRARY							TFW			ILL	2011-02-11			35 UPPER CAMPUS RD		MEDFORD	MA	02155																 none 								
+	ILL		LL -U.C. Hastings College of the Law							CUH			ILL	2014-03-18																							 none 								
+	ILL		LL -University of Dubuque IA							IOV			ILL	2012-02-17																							 none 								
+	ILL		LL -University of Washingtion Libraries WA							WAU			ILL	2012-10-18																							 none 								
+	ILL		LL -University of West Alabama AL							ALT			ILL	2012-02-01																							 none 								
+	ILL		LL -Univertsity of Queensland AU							YQU			ILL	2012-03-26																							 none 								
+	ILL		LL -Walford Library NJ							NNN			ILL	2011-08-31																							 none 								
+	ILL		LL -Walton County Lib Sys FL							WRD			ILL	2012-09-05																							 none 								
+	ILL		LL -Washington State Law Library WA							Z@5			ILL	2012-08-23																							 none 								
+	ILL		LL -Waterloo Pub lib IA							IWV			ILL	2012-01-29																							 none 								
+	ILL		LL -Waynesboro-Wayne County Lib MS							WN@			ILL	2012-02-08																							 none 								
+	ILL		LL -Whitworth Univ WA							WTV			ILL	2012-01-29																							 none 								
+	ILL		LL -Winona Pub Lib MN							WPB			ILL	2012-05-04																							 none 								
+	ILL		LL -WINONA STATE UNIVERSITY							MNI			ILL	2011-08-30																							 none 								
+	ILL		ABELL LIBRARY CENTER - TX							IAU			ILL	2005-09-12																							 none 								
+	ILL		ALBERTSON COLLEGE, TERTELING LIBRARY - ID							ZFT			ILL	2007-03-22																															
+	ILL		 Alcuin Library St. John's University  MN							MNJ			ILL	2015-01-28																							 none 								
+	ILL		ALLEN COUNTY PUBLIC LIBRARY - IN							IMF			ILL	2006-02-02																							 none 								
+	ILL		AMARILLO PUBLIC LIBRARY  TX							TAP			ILL	2005-01-19																							 none 								
+	ILL		AMERICAN PUBLIC UNIVERSITY SYSTEM - WV							VM#			ILL	2007-03-21																							 none 								
+	ILL		AMERICAN UNIVERSITY LIBRARY							EAU			ILL	2004-06-14																							 none 								
+	ILL		AMHERST COLLEGE LIBRARY  MA							AMH			ILL	2005-06-23																							 none 								
+	ILL		ANDERSON UNIVERSITY - IN							INA			ILL	2006-05-15																							 none 								
+	ILL		APPALACHIAN STATE UNIVERSITY - BELK LIBRARY - NC							NJB			ILL	2005-11-15																							 none 								
+	ILL		ARAPAHOE LIBRARY DISTRICT - CO							CO2			ILL	2006-01-23																							 none 								
+	ILL		ARGOSY UNIVERSITY LIBRARY - GA							GSP			ILL	2007-02-28																							 none 								
+	ILL		ARIZONA STATE UNIVERSITY							AZS			ILL	2004-10-18																							 none 								
+	ILL		ARKANSAS TECH UNIVERSITY - AR							AKP			ILL	2006-09-25																							 none 								
+	ILL		ART INSTITUTE OF FORT LAUDERDALE LIBRARY  FL							FIF			ILL	2005-05-02																							 none 								
+	ILL		ARTHUR VINING DAVIS LIBRARY  FL							AV@			ILL	2004-06-30																							 none 								
+	ILL		ASHEVILLE-BUNCOMBE LIBRARY SYSTEM							UZR			ILL	2004-03-24			67 Haywood Street		Asheville	NC	28801																 none 								
+	ILL		ATLANTA UNIVERSITY CENTER WOODRUFF LIBRARY   GA							AUU			ILL	2005-02-03																							 none 								
+	ILL		AUBURN UNIVERSITY - AL							AAA			ILL	2007-02-05																							 none 								
+	ILL		AURARIA LIBRARY - UNIV OF COLORADO - CO							COA			ILL	2006-01-24																							 none 								
+	ILL		AURORA PUBLIC LIBRARY  IL							JSE			ILL	2004-11-11																							 none 								
+	ILL		AURORA PUBLIC LIBRARY - CO							COB			ILL	2006-05-03																							 none 								
+	ILL		AUSTIN PUBLIC LIBRARY - TX							TXG			ILL	2006-01-23																							 none 								
+	ILL		AVE MARIA							AVMAR			ILL	2005-06-28																							 Note:Leave AVX symbol in as weAve Maria uses both symbols 								
+	ILL		BAINBRIDGE LIBRARY  OH							GEC			ILL	2005-03-21																							 none 								
+	ILL		BALL STATE UNIVERSITY  IN							IBS			ILL	2004-11-15																							 none 								
+	ILL		BALTIMORE COUNTY PUBLIC LIBRARY  MD							B@L			ILL	2004-07-26																							 none 								
+	ILL		BANKS LIBRARY - LAGRANGE COLLEGE - GA							GLG			ILL	2005-11-17																							 none 								
+	ILL		Baptist College of Florida  FL							FZ3			ILL	1997-08-28			5400 College Drive		GRACEVILLE	FL	32440			5400 COLLEGE DR.		GRACEVILLE	FL	32440									 Note:USE U.S. MAIL TO SHIP ILL MATERIALS 								
+	ILL		BARIGHT PUBLIC LIBRARY							RLN			ILL	2008-12-09																							 none 								
+	ILL		BARTLESVILLE PUBLIC LIBRARY  OK							OKD			ILL	2005-02-28																							 none 								
+	ILL		BASE LIBRARY - FL 4814							MDI			ILL	1997-09-09			2313 FLORIDA KEYS AVE.		MACDILL AFB	AF	33621-5313																 Note:USE U.S. MAIL TO SHIP ILL MATERIAL. 								
+	ILL		BASE LIBRARY PATRICK AFB							PAZ			ILL	1997-12-09			45SVS/SVRL		PATRICK AFB	AF	32925-3439																 none 								
+	ILL		ILL  - Beaufort County Library - SC							ZJI			ILL	2008-10-14																							 none 								
+	ILL		BEJANMIN F FEINBERG LIBRARY - NY							YPM			ILL	2005-09-28																							 none 								
+	ILL		Benedictien College Library  KS							KKA			ILL	2014-07-31																							 none 								
+	ILL		BENNER LIBRARY - OLIVET NAZARENE UNIV - IL							JBE			ILL	2006-06-19																							 none 								
+	ILL		BETHUNE-COOKMAN COLLEGE / SWISHER LIBRARY							DBB			ILL	1997-02-28			640 DR. MARY McLEOD BETHUNE BLVD.		DAYTONA BEACH	BE	32114																 Note:USE U.S. MAIL TO SHIP ILL MATERIALS. 								
+	ILL		BEVEVINO LIBRARY COLLEGE MISERICORDIA - PA							CMZ			ILL	2006-01-31																							 none 								
+	ILL		Biola University Library  CA							CBC			ILL	2016-06-15																							 none 								
+	ILL		BIRMINGHAM-SOUTHERN COLLEGE LIBRARY - AL							ABB			ILL	2005-11-10																							 none 								
+	ILL		 Bitteroot Public Library  MT							Y46			ILL	2015-07-23																							 none 								
+	ILL		BLOOMSBURG UNIVERSITY  PA							PBB			ILL	2004-10-25																							 none 								
+	ILL		BLOUGH WEIS LIBRARY - SUSQUEHANNA							SUS			ILL	2004-05-27																							 none 								
+	ILL		BOB JONES UNIVERSITY - SC							SGB			ILL	2007-02-27																							 none 								
+	ILL		BOSTON PUBLIC LIBRARY - MA							BRL			ILL	2006-03-28																							 none 								
+	ILL		BOSTON UNIVERSITY - MUGAR MEMORIAL LIBRARY - MA							BOS			ILL	2005-11-17																							 none 								
+	ILL		BRANDEIS UNIVERSITY LIBRARIES  MA							MBB			ILL	2005-02-09																							 none 								
+	ILL		BRIDGEWATER COLLEGE LIBRARY - VA							VBC			ILL	2005-10-25																							 none 								
+	ILL		BRISTOL PUBLIC LIBRARY  CT							GJT			ILL	2009-06-22																							 none 								
+	ILL		BROOKINGS INSTITUTION LIBRARY - WASH DC							DBI			ILL	2006-06-30																							 none 								
+	ILL		 Brooklyn College  NY							VDB			ILL	2015-11-20																							 none 								
+	ILL		BROOKLYN PUBLIC LIBRARY  NY							BKL			ILL	2005-06-20																							 none 								
+	ILL		BROWN UNIBERSITY SCIENCES LIBRARY  RI							RBN			ILL	2005-01-27																							 none 								
+	ILL		Bryn Mawr College  PA							BMC			ILL	2015-11-20																							 none 								
+	ILL		BUFFALO & ERIE COUNTY PUBLIC LIBRARY							VHB			ILL	2004-04-26																							 none 								
+	ILL		BURLINGTON COUNTY LIBRARY - WESTAMPTON, NJ							BUL			ILL	2004-08-17																															
+	ILL		BUTLER UNIVERSITY IRWIN LIBRARY  IN							IIB			ILL	2005-02-08																							 none 								
+	ILL		CALIFORNIA MARITIME ACADEMY LIBRARY - CA							CVM			ILL	2007-09-26																							 none 								
+	ILL		CALIFORNIA STATE UNIVERSITY FULLERTON  CA							CFI			ILL	2004-09-16																							 								
+	ILL		CAMDEN COUNTY LIBRARY  NJ							NCL			ILL	2005-02-01																							 none 								
+	ILL		CAMP VERDE PUBLIC LIBRARY  AZ							ZE5			ILL	2009-08-19																							 none 								
+	ILL		CARNEGIE LIBRARY OF PITTSBURGH  PA							CPL			ILL	2004-08-27																							 none 								
+	ILL		CARRIER LIBRARY - JAMES MADISON UNIVERSITY - VA							VMC			ILL	2005-10-18																							 none 								
+	ILL		CARTERET COMMUNITY COLLEGE  NC							NJQ			ILL	2004-07-09																							 none 								
+	ILL		CASTLETON STATE COLLEGE LIBRARY - VERMONT							VCS			ILL	2007-03-20																							 none 								
+	ILL		CATAWAB COLLEGE LIBRARY  NC							KQW			ILL	2011-02-16																							 none 								
+	ILL		CENTENARY  COLLEGE OF LOUISIANA  LA							CEN			ILL	2005-04-22																							 none 								
+	ILL		CENTRAL ARKANSAS LIBRARY SYSTEM  AR							AKD			ILL	2005-04-05																							 none 								
+	ILL		CENTRAL CONNECTICUT STATE UNIVERSITY							CTB			ILL	2004-04-14																							 none 								
+	ILL		CENTRAL LIBRARY, J-MRL VA							PDV			ILL	2004-07-16																							 								
+	ILL		CENTRAL OREGON COMMUNITY COLLEGE LIBRARY  OR							CEO			ILL	2009-05-12																							 none 								
+	ILL		CENTRAL PIEDMONT COMMUNITY COLLEGE							NQM			ILL	2008-10-29																							 none 								
+	ILL		CHAMPAIGN PUBLIC LIBRARY  IL							IKG			ILL	2005-04-08																							 none 								
+	ILL		CHARLES E. SHAIN LIBRARY CT							CTL			ILL	2005-03-02																							 none 								
+	ILL		CHARLESTON COUNTY PUBLIC LIBRARY  SC							SXC			ILL	2004-08-03																							 none 								
+	ILL		CHESAPEAKE PUBLIC LIBRARY   VA							TWA			ILL	2005-05-03																							 none 								
+	ILL		CHESTER COUNTY LIBRARY - PA							PWC			ILL	2006-01-31																							 none 								
+	ILL		CHICAGO PUBLIC LIBRARY - IL							CGP			ILL	2007-09-20																							 none 								
+	ILL		CHRISTOPHER NEWPORT UNIVERSITY - VA							VCN			ILL	2006-03-20																							 none 								
+	ILL		CINCINNATI PUBLIC LIBRARY							OCP			ILL	2004-04-19																							 none 								
+	ILL		CLAIRE PUBLIC LIBRARY - WI							GHI			ILL	2006-02-10																							 none 								
+	ILL		CLARKSON UNIVERSITY							VYT			ILL	2004-06-22																							 none 								
+	ILL		CLAYTON COLLEGE AND STATE UNI. LIB. GA							GMJ			ILL	2005-03-02																							 none 								
+	ILL		CLEVELAND INSTITUTE OF MUSIC - OH							CIX			ILL	2006-05-15																							 none 								
+	ILL		CLEVELAND PUBLIC LIBRARY							CLE			ILL	2004-04-26																							 none 								
+	ILL		COASTAL CAROLINA UNIVERSITY - CONWAY, SC							ZKJ			ILL	2004-07-26																															
+	ILL		COHEN LIBRARY - CITY COLLEGE OF NEW YORK							ZXC			ILL	2004-05-26																							 none 								
+	ILL		COLLEGE OF LAW LIBRARY - FLORIDA STATE UNIVERSITY							FSL			ILL	1998-03-31			Florida State University		Tallahassee	FL	32306																 								
+	ILL		COLORADO STATE UNIVERSITY LIBRARIES							COF			ILL	2005-06-24																							 none 								
+	ILL		COLUMBIA UNIVERSITY  NY NY							ZCU			ILL	2005-03-04																							 none 								
+	ILL		COLUMBUS METROPOLITAN LIBRARY  OH							OCO			ILL	2005-01-26																							 none 								
+	ILL		CONCEPTION SEMINARY COLLEGE - MO							BIC			ILL	2005-11-08																							 none 								
+	ILL		Cornish College Library  WA							R@C			ILL	2015-06-24																							 none 								
+	ILL		CRANDALL PUBLIC LIBRARY - NY							XFX			ILL	2006-04-12																							 none 								
+	ILL		CREIGHTON UNIV., REINERT-ALUMNI LIB - NE							OCA			ILL	2007-02-15																															
+	ILL		CRUMB LIBRARY - SUNY AT POTSDAM - NY							ZQM			ILL	2005-12-01																							 none 								
+	ILL		CUNY GRAD SCHOOL LIBRARY - NY							ZGM			ILL	2007-10-03																							 none 								
+	ILL		DALLAS PUBLIC LIBRARY							IGA			ILL	2004-05-17																							 none 								
+	ILL		DANIEL BOONE REGIONAL LIBRARY MO							ZAB			ILL	2008-06-18																							 none 								
+	ILL		DANIEL LIBRARY - THE CITADEL - SC							SCN			ILL	2006-10-05																							 none 								
+	ILL		Dauphin County Library PA							HBP			ILL	2011-11-03																							 none 								
+	ILL		DAVIS COUNTY LIBRARY - UT							UTD			ILL	2007-03-20																							 none 								
+	ILL		DEKALB COUNTY PUBLIC LIBRARY							GDK			ILL	2005-08-18																							 none 								
+	ILL		DELAWARE COUNTY LIBRARY - OH							ODG			ILL	2006-11-28																							 none 								
+	ILL		DELRAY BEACH LIBRARY							D2L			ILL	1997-02-28			29 SE 4TH ST.		DELRAY BEACH	BE	33483-4573																								
+	ILL		Denison University Libraries  OH							DNU			ILL	2015-11-20																							 none 								
+	ILL		DENVER PUBLIC LIBRARY							DPL			ILL	2004-05-07																							 none 								
+	ILL		DEOMI LIBRARY							DEI			ILL	1998-10-11			740 O'MALLEY ROAD MS 9121		PATRICK AFB	AF	32925-3399																 none 								
+	ILL		DEPAUL UNIVERSITY LIBRARY - IL							IAC			ILL	2007-11-01																							 none 								
+	ILL		DEPAUW UNIVERSITY - INDIANA							IDU			ILL	2004-05-13																							 none 								
+	ILL		DEVRY INSTITUTE OF TECHNOLOGY ORLANDO FL							DV@			ILL	2005-02-03																							 none 								
+	ILL		DICKENSON COLLEGE LIBRARY - PA							DKC			ILL	2006-07-03																							 none 								
+	ILL		DONNELLY LIBRARY  NMHU - NM							NMH			ILL	2005-10-27																							 none 								
+	ILL		DREW UNIVERSITY LIBRARY - NJ							DRU			ILL	2007-09-18																							 none 								
+	ILL		DUKE UNIVERSITY NC							NDD			ILL	2004-09-29																							 none 								
+	ILL		DUQUESNE UNIVERSITY - PA							DUQ			ILL	2007-09-05																							 none 								
+	ILL		DURHAM COUNTY LIBRARY  NC							NZD			ILL	2004-07-27																							 none 								
+	ILL		E.H. BUTLER LIBRARY, STATE UNIV COLLEGE - NY							YBM			ILL	2006-06-20																															
+	ILL		EARL GREGG SWEM LIBRARY - VIRGINIA							VWM			ILL	2007-10-08																							 none 								
+	ILL		East BatonRouge Parish Library  LA							LEB			ILL	2014-08-19																							 none 								
+	ILL		EAST CAROLINA UNIV, JOYNER LIB - NC							ERE			ILL	2006-11-15																															
+	ILL		EAST TENNESSEE STATE UNIVERSITY - TN							TET			ILL	2006-03-21																							 none 								
+	ILL		EASTERN ILLINOIS BOOTH LIBRARY  IL							IAD			ILL	2005-01-24																							 none 								
+	ILL		EASTERN WASHINGTON UNIVERSITY  WA							WEA			ILL	2005-03-31																							 none 								
+	ILL		EDINBORO UNIVERSITY OF PENNSYLVANIA							EIB			ILL	2004-10-13																							 none 								
+	ILL		EISENHOWER LIBRARY JOHNS HOPKINS UNIV MD							JHE			ILL	2004-09-28																							 none 								
+	ILL		EL PASO PUBLIC LIBRARY - TX							TXP			ILL	2006-04-28																							 none 								
+	ILL		ELIZABETHTOWN COLLEGE HIGH LIBRARY   PA							ELZ			ILL	2005-03-02																							 none 								
+	ILL		ELON UNIVERSITY LIBRARY NC							NEO			ILL	2008-02-20																							 none 								
+	ILL		 EMRSH-Fisher Controls Information Center  IA							EMRSN			ILL	2015-11-20																							 none 								
+	ILL		EUSTIS MEMORIAL LIBRARY							E3U			ILL	2003-12-17			120 N. CENTER STREET		EUSTIS	FL	32726										cwheelisl@yahoo.com						 none 								
+	ILL		FAIRBANKS NORTH STAR BOROUGH LIBRARY							X#4			ILL	2008-10-15																							 none 								
+	ILL		FAIRFAX COUNTY PUBLIC LIBRARY -- VIRGINIA							AXH			ILL	2004-04-12																							 none 								
+	ILL		FAYETTEVILLE PUBLIC LIBRARY - AR							FAYTV			ILL	2007-01-16																							 none 								
+	ILL		FINGER LAKES LIBRRY SYSTEM  NY							VYG			ILL	2009-05-12																							 none 								
+	ILL		FIRST REGIONAL LIBRARY - MS							FIR			ILL	2007-04-25																							 none 								
+	ILL		FLORIDA A&M UNIVERSITY COLLEGE OF LAW LIBRARY							FAMLW			ILL	2003-02-23			1 NORTH ORANGE AVENUE		ORLANDO	FL	32801																 none 								
+	ILL		FLORIDA CHRISTIAN COLLEGE LIBRARY							S2G			ILL	1998-07-29			1011 BILL BECK BLVD.		KISSIMMEE	FL	34744																 								
+	ILL		FLORIDA SOLAR ENERGY CENTER							FSE			ILL	1998-02-16			1679 CLEARLAKE RD., ROOM 124		COCOA	FL	32922-5703																 Note:USE U.S. MAIL TO SHIP ILL MATERIAL 								
+	ILL		FORSYTH COUNTY PUBLIC LIBRARY  NC							UZZ			ILL	2004-07-20																							 none 								
+	ILL		FORT VANCOUVER REGIONAL LIBRARY DISTRICT  WA							YEP			ILL	2005-05-02																							 none 								
+	ILL		FORT WORTH PUBLIC LIBRARY  TX							IFA			ILL	2005-01-10																							 none 								
+	ILL		FOUNTAINDALE PUBLIC LIBRARY							OJ4			ILL	2004-06-01																							 none 								
+	ILL		FRAMINGHAM ST. COLLEGE  MA							FST			ILL	2004-10-19																							 none 								
+	ILL		FRANKLIN COUNTY PUBLIC LIBRARY - VIRGINIA							PDL			ILL	2004-04-12																							 none 								
+	ILL		FRANKLIN COUNTY EASTPOINT LIBRARY - EASTPOINT FL							FCP			ILL	2006-07-03																							 none 								
+	ILL		FREE LIBRARY OF PHILADELPHIA							PLF			ILL	2004-04-05																							 none 								
+	ILL		Freed-Hardeman Univeristy Library  TN							UWT			ILL	2016-01-13																							 none 								
+	ILL		Full Sail University Library							FWQ			ILL	2010-03-08																							 none 								
+	ILL		FURMAN UNIVERSITY LIBRARIES - SC							SFU			ILL	2006-10-19																							 none 								
+	ILL		GADSDEN PUBLIC LIBRARY - AL							MWA			ILL	2006-10-11																							 none 								
+	ILL		GEORGE WASHINGTON UNIV LIBRARY - DC							DGW			ILL	2006-03-31																							 none 								
+	ILL		GEORGETOWN U. LAW LIBRARY - DC							GUL			ILL	2006-02-21																							 none 								
+	ILL		GEORGETOWN UNIVERSITY LAUINGER LIBRARY  DC							DGU			ILL	2005-02-09																							 none 								
+	ILL		GEORGIA INSTITUTE OF TECHNOLOGY LIBRARY - GA							GAT			ILL	2006-02-07																							 none 								
+	ILL		GEORGIA SOUTHERN UNIVERSITY							GPM			ILL	2004-05-25																							 none 								
+	ILL		GEORGIA STATE UNIVERSITY							GSU			ILL	2005-04-26																							 none 								
+	ILL		GETTY RESEARCH LIBRARY - CA							JPG			ILL	2007-04-09																							 none 								
+	ILL		GIBSON MEMORIAL LIBRARY - IA							BC@			ILL	2007-10-09																							 none 								
+	ILL		GILCHRIST COUNTY LIBRARY							T3R			ILL	2000-02-24			CORNER OF BARBER & LEON		CROSS CITY	CI	32628		FAX (904) 294-3861	P.O. BOX 306		CROSS CITY	CI	32628			jmiller@neflin.org						 								
+	ILL		GLENDALE PUBLIC LIBRARY - CALIFORNIA							CGL			ILL	2004-05-19																							 none 								
+	ILL		GOODNIGHT MEMORIAL LIBRARY  KY							KF4			ILL	2004-11-12																							 none 								
+	ILL		GOUCHER COLLEGE LIBRARY - MD							GOC			ILL	2005-11-04																							 none 								
+	ILL		GRANVILLE COUNTY LIBRARY SYSTEM - NC							UQB			ILL	2007-04-09																							 none 								
+	ILL		GREAT RIVER REGIONAL LIBRARY - MN							GRR			ILL	2007-01-10																							 none 								
+	ILL		GREENE COUNTY LIBRARY - OH							GRC			ILL	2006-05-23																							 none 								
+	ILL		GREENVILLE COUNTY LIBRARY SYSTEM  SC							SGR			ILL	2005-01-07																							 none 								
+	ILL		Greenwich Library  CT							GRN			ILL	2016-06-07																							 none 								
+	ILL		GWINNETT COUNTY PUBLIC LIBRARY  GA							ZGX			ILL	2004-12-07																							 none 								
+	ILL		HARCORT BRACE & COMPANY							FMS			ILL	2004-06-08																							 none 								
+	ILL		HARRIS COUNTY PUBLIC LIBRARY -- EL RIO, TX							HT#			ILL	2004-04-19																															
+	ILL		HARRISON REGIONAL LIBRARY SYSTEM  AL							MXB			ILL	2004-11-23																							 none 								
+	ILL		HARTWICK COLLEGE - NY							VZH			ILL	2006-04-21																							 none 								
+	ILL		Hastings College  NE							NBH			ILL	2010-10-22																							 none 								
+	ILL		HENDERSON COUNTY LIBRARY - NC							HQC			ILL	2007-02-19																							 none 								
+	ILL		HESBURGH LIBRARY: UNIVERSITY OF NOTRE DAME							IND			ILL	2008-11-19																							 none 								
+	ILL		HIGH POINT PUBLIC LIBRARY - NC							KZT			ILL	2006-12-08																							 none 								
+	ILL		HIGH POINT UNIVERSITY - NC							NHI			ILL	2006-11-17																							 none 								
+	ILL		HILLENDAHL BRANCH LIBRARY TX							TXN			ILL	2004-10-01																							 none 								
+	ILL		HILLSBORO MAIN LIBRARY							OQX			ILL	2008-10-21																							 none 								
+	ILL		HOUGHTON COLLEGE  NY							VXO			ILL	2005-03-02																							 none 								
+	ILL		Houston-Love Memorial Library, AL							HL2			ILL	2008-08-26																							 								
+	ILL		HQ USSOCOM LIBRARY							SOT			ILL	1999-03-28			7701 TAMPA POINT BLVD.		MACDILL AFB	AF	33621																 								
+	ILL		HUMBOLDT STATE UNIVERSITY - CA							CHU			ILL	2007-10-18																							 none 								
+	ILL		Hunter Library  WCU  NC							NWW			ILL	2014-02-25																							 none 								
+	ILL		Hunterdon County Library							HUN			ILL	2010-02-18																							 none 								
+	ILL		HUNTSVILLE PUBLIC LIBRARY - AL							MWD			ILL	2006-09-14																							 none 								
+	ILL		ILLINOIS STATE UNIVERSITY							IAI			ILL	2004-04-15																							 none 								
+	ILL		ILLINOIS WESLEYAN UNIVERSITY  IL							ICO			ILL	2005-03-28																							 none 								
+	ILL		ILS BRACKETT LIBRARY - AR							AHS			ILL	2007-02-01																							 none 								
+	ILL		INDIANA UNIVERSITY OF PENNSYLVANIA							PZI			ILL	2004-08-30																							 none 								
+	ILL		 INDIANA UNIVERSITY BLOOMINGTON  IN							IUL			ILL	2005-03-22																							 none 								
+	ILL		Indianapolis Public Library, IN							IMD			ILL	2008-07-07																															
+	ILL		IRVING PUBLIC LIBRARY - TX							IJC			ILL	2007-08-23																							 none 								
+	ILL		ITHACA COLLEGE NY							XIM			ILL	2005-07-18																							 none 								
+	ILL		IUPUI UNIVERSITY LIBRARY - IN							IUP			ILL	2006-01-12																							 none 								
+	ILL		J.D. WILLIAMS LIBRARY -- UNIVERSITY OF MISSISSIPPI							MUM			ILL	2004-04-01																							 none 								
+	ILL		JACKSON-GEORGE REG. LIBRARY - MS							JSG			ILL	2006-05-30																							 none 								
+	ILL		JAMES M MILNE LIBRARY - NY							ZBM			ILL	2005-11-15																							 none 								
+	ILL		JEFFERSON COUNTY LIBRARY - WA							Z85			ILL	2006-03-03																							 none 								
+	ILL		JEFFERSON COUNTY PUBLIC LIBRARY - CO							QQ3			ILL	2006-09-15																							 none 								
+	ILL		JOHN AND MABLE RINGLING MUSEUM OF ART							FSJ			ILL	1997-09-08			5401 BAY SHORE RD.		SARASOTA	FL	34243		941 359-5743														 Note:USE U.S. MAIL TO SHIP ILL MATERIAL 								
+	ILL		JOHN PORTER MEMORIAL LIBRARY - VA							RR1			ILL	2007-03-12																							 none 								
+	ILL		John T. Christian Library, New Orleans LA							LNB			ILL	2016-02-09			New Orleans Bap. Theo. Sem. 4110 Seminary Pl.		New Orleans	Or	70126																 none 								
+	ILL		JOHNSON COUNTY LIBRARY - KS							KNJ			ILL	2007-10-22																							 none 								
+	ILL		KANAWHA COUNTY PUBLIC LIBRARY  WV							WVK			ILL	2005-01-10																							 none 								
+	ILL		Kansas State University  KS							KKS			ILL	2011-01-28																							 none 								
+	ILL		Katherine R. Everett Law Library, NC							NDO			ILL	2016-04-29			CB 3385 / 160 Ridge Road		Chapel Hill	Hi	27599																 none 								
+	ILL		KEAN UNIVERSITY - NJ							NJK			ILL	2006-10-19																							 none 								
+	ILL		KENNESAW STATE UNIVERSITY - GA							GKJ			ILL	2006-10-30																							 none 								
+	ILL		KING COUNTY LIBRARY SYSTEM  WA							NTG			ILL	2005-06-10																							 none 								
+	ILL		KITSAP REGIONAL LIBRARY - WA							YEQ			ILL	2006-01-30																							 none 								
+	ILL		KRESGE MEMORIAL LIB  COVENANT COLLEGE   GA							TLE			ILL	2005-06-21																							 none 								
+	ILL		Lake County Public Library IN							ILC			ILL	2013-12-18			1919 W. 81st Ave.		Merrillville	IN	46410-5382																 none 								
+	ILL		LAKE SUPERIOR STATE UNIVERSITY MI							EZL			ILL	2004-10-14																							 none 								
+	ILL		LAKE WORTH PUBLIC LIBRARY							L5W			ILL	2002-10-03			15 NORTH M. ST.		LAKE WORTH	WO	33460																 none 								
+	ILL		Lakewood Public Library							LAP			ILL	2015-12-09			15425 Detroit Avenue		Lakewood	OH	44107																 none 								
+	ILL		LAMAR UNIVERSITY   TX							TXR			ILL	2005-05-06																							 none 								
+	ILL		LARAMIE COUNTY LIBRARY SYSTEMS - WY							WYL			ILL	2006-06-27																							 none 								
+	ILL		Laramie County Community College  WY							L3R			ILL	2014-03-10																							 none 								
+	ILL		LAS VEGAS-CLARK COUNTY LIBRARY  NV							NVC			ILL	2005-01-20																							 none 								
+	ILL		Law Library University of Georgia  GA							GUB			ILL	2011-03-09																							 none 								
+	ILL		LAWRENCE PUBLIC LIBRARY - KANSAS							KSA			ILL	2004-04-23																							 none 								
+	ILL		Lesley University  MA							LEY			ILL	2011-06-16																							 none 								
+	ILL		 Levi Watkins Learning Center   AL							AMU			ILL	2015-05-21																							 none 								
+	ILL		Levy County Public Library System  FL							LEJ			ILL	2012-07-13																							 Note:DLLI 								
+	ILL		LEWIS & CLARK COLLEGE - OR							OLP			ILL	2006-03-02																							 none 								
+	ILL		LEXINGTON CO. PUB. LIBRARY SC							ZJV			ILL	2004-09-21																							 none 								
+	ILL		LEXINGTON PUBLIC LIBRARY  KY							KYL			ILL	2005-01-07																							 none 								
+	ILL		LIBERTY UNIVERSITY GUILLERMIN LIBRARY  VA							VLB			ILL	2004-11-23																							 none 								
+	ILL		LIBRARY-ILS, CULB - CA							CLO			ILL	2007-03-27																															
+	ILL		LIBRARY OF DAVIDSON COLLEGE, NC							NNM			ILL	2004-09-15																							 								
+	ILL		LINCC, LIBRARIAN - OR							LIQ			ILL	2007-02-27																															
+	ILL		LINCOLN CITY LIBRARIES - LINCOLN, NE							NLN			ILL	2004-04-27																															
+	ILL		LIVE OAK PUBLIC LIBRARIES - GA							GSC			ILL	2005-11-09																							 none 								
+	ILL		LONGWOOD UNIVERSITY, GREENWOOD LIBRARY - VA							VLC			ILL	2006-03-01																															
+	ILL		LOUDOUN COUNTY PUBLIC LIBRARY - VA							AXJ			ILL	2006-06-21																							 none 								
+	ILL		LOUISVILLE FREE PUBLIC LIBRARY KY							KLP			ILL	2004-08-25																							 none 								
+	ILL		LYCOMING COLLEGE SNOWDEN LIBRARY - PA							LYC			ILL	2006-02-15																							 none 								
+	ILL		LYNCHBURG PUBLIC LIBRARY							VCQ			ILL	2008-12-05																							 none 								
+	ILL		LYNN HAVEN PUBLIC LIBRARY							XQ5			ILL	2004-09-01																							 none 								
+	ILL		Madison-Jefferson County Public Library, IN							SHARE			ILL	2008-08-26																															
+	ILL		MADISON PUBLIC LIBRARY							WIM			ILL	2004-05-25																							 none 								
+	ILL		Madrid Public Library, IA							JIC			ILL	2016-03-31			100 W. 3rd St.		Madrid	IA	50156																 none 								
+	ILL		Manchester Community College							MHH			ILL	2014-10-03																							 none 								
+	ILL		MANSFIELD LIBRARY - UNIVERSITY OF MONTANA							MTG			ILL	2004-07-26																							 none 								
+	ILL		Manteno Public Library  IL							OR6			ILL	2010-08-26																							 none 								
+	ILL		MARQUETTE UNIVERSITY RAYNOR MEMORIAL LIB - WI							GZQ			ILL	2005-12-13																							 none 								
+	ILL		Massachusetts school of professional psychology  MA							MAJ			ILL	2011-04-05																							 none 								
+	ILL		MAYVILLE STATE UNIVERSITY  ND							NMY			ILL	2010-11-30																							 none 								
+	ILL		McCracken County Public Library  KY							KL6			ILL	2011-02-21																							 none 								
+	ILL		MEMORIAL HALL LIBRARY - MA							MRQ			ILL	2006-01-17																							 none 								
+	ILL		 Memphis College of Art Library  TN							T@C			ILL	2016-06-21																							 none 								
+	ILL		MERCER COUNTY LIBRARY  NJ							MLY			ILL	2004-06-29																							 none 								
+	ILL		MERCER UNIVERSITY JACK TARVER LIBRARY							GMU			ILL	2004-04-05																							 none 								
+	ILL		MERIDITH COLLEGE  NC							NMC			ILL	2005-01-07																							 none 								
+	ILL		METROPOLITAN LIBRARY SYSTEM - OK							OKE			ILL	2007-04-30																							 none 								
+	ILL		MICHENER LIBRARY  CO							COV			ILL	2005-02-10																							 none 								
+	ILL		MICKEL LIBRARY - CONVERSE COLLEGE -- SC							SCO			ILL	2004-04-06																							 none 								
+	ILL		MID-CONTINENT PUBLIC LIBRARY - MISSOURI							CMI			ILL	2004-05-13																							 none 								
+	ILL		MID HIDSON LIBRARY SYSTEM  NY							VFO			ILL	2005-06-13																							 none 								
+	ILL		MIDDLE TENNESSEE STATE UNIVERSITY LIBRARY							TXM			ILL	2004-04-15																							 none 								
+	ILL		MILLIGAN COLLEGE							TMJ			ILL	2004-05-24																							 none 								
+	ILL		MILNE LIBRARY - SUNY - NY							YGM			ILL	2006-03-29																							 none 								
+	ILL		MINNESOTA STATE UNIVERSITY MANKATO MN							MNM			ILL	2004-11-01																							 none 								
+	ILL		MINOT STATE UNIVERSITY - ND							NMI			ILL	2004-04-13																							 none 								
+	ILL		MISSOURI WESTERN STATE COLLEGE LIBRARY							MWS			ILL	2004-06-28																							 none 								
+	ILL		MOBILE PUBLIC LIBRARY -- ALABAMA							AMP			ILL	2004-04-20																							 none 								
+	ILL		MONROE COUNTY LIBRARY SYSTEM - MICHIGAN							EXY			ILL	2004-05-05																							 none 								
+	ILL		MONTANA STATE UNIVERSITY - MT							EM2			ILL	2006-03-01																							 none 								
+	ILL		MONTCLAIR STATE UNIVERSITY - NJ							NJM			ILL	2006-01-04																							 none 								
+	ILL		Monterey Copunty Free Libraries   CA							JRB			ILL	2014-07-30																							 none 								
+	ILL		MONTEVALLO LIBRARY  AL							AMN			ILL	2004-06-30																							 none 								
+	ILL		MONTGOMERY CITY PUBLIC LIBRARY							XLJ			ILL	2008-12-08																							 none 								
+	ILL		MONTROSE LIBRARY DISTRICT - COLORADO							RS$			ILL	2004-04-12																							 none 								
+	ILL		MOUNT HOLYOKE COLLEGE LIBRARY - MA							MTH			ILL	2007-09-04																							 none 								
+	ILL		MOUNT MERCY COLLEGE BUSSE LIBRARY  IA							UIW			ILL	2005-03-30																							 none 								
+	ILL		Mount Royal University Library							CNMTR			ILL	2016-01-19			4825 Mount Royal Gate S.W.		Calgary	AB	T3E 6K6																 none 								
+	ILL		MULTNOMAH COUNTY LIBRARY  OR							ORX			ILL	2005-06-02																							 none 								
+	ILL		Murphy Public Library  NC							XQR			ILL	2011-06-08																							 none 								
+	ILL		MURRAY STATE UNIVERSITY - KY							KMS			ILL	2004-05-12																							 none 								
+	ILL		Murrysville Community Library  PA							PAMUR			ILL	2016-05-25																							 none 								
+	ILL		MUSKINGUM COUNTY LIBRARY SYSTEM  OH							SRB			ILL	2005-04-07																							 none 								
+	ILL		N. MALLERDINO TECH. SVS BEAR LIBRARY NEW CASTLE DE							DF9			ILL	2004-06-22																							 none 								
+	ILL		NANCY CARSON LIBRARY  SC							ZJG			ILL	2004-11-11																							 none 								
+	ILL		Nancy Guinn Library - GA							GE2			ILL	2016-01-15			864 Green Street		Conyers	GA	30012																 none 								
+	ILL		NASA KSC LIBRARY							SSK			ILL	1997-11-17			LIBRARY-A M6-399 RM 1317		KENNEDY SPACE CENTER	SP	32899																 Note:USE U.S. MAIL TO SHIP ILL MATERIALS 								
+	ILL		NASHVILLE PUBLIC TN							TNN			ILL	2004-08-27																							 none 								
+	ILL		NASSAU COUNTY PUBLIC LIBRARY							NAS			ILL	2004-10-27																							Note:Actual OCLC Symbol is N$S, but $ in SIRSI is truncation, so using NAS for Nassau County Library. SR 								
+	ILL		NATHAN KLINE INSTITUTE - NY							VFR			ILL	2006-04-18																							 none 								
+	ILL		NATIONAL MARINE FISHERIES SERVICE - NOAA LAB LIBRARY							FD6			ILL	1997-03-05			3500 DELWOOD BEACH RD.		PANAMA CITY BEACH	CI	32408																 Note:USE U.S. MAIL TO SHIP ILL MATERIALS. 								
+	ILL		NAU - CLINE LIBRARY - AZ							AZN			ILL	2004-05-11																							 none 								
+	ILL		NAZARETH COLLEGE LORETTE WILMOT LIBRARY  NY							XNC			ILL	2004-10-13																							 none 								
+	ILL		 New Hanover County Public  NC							HQD			ILL	2014-07-24																							 none 								
+	ILL		NEW MEXICO STATE UNIVERSITY NM							IRU			ILL	2004-03-24																							 none 								
+	ILL		NICEVILLE LIBRARY							FD8			ILL	1999-03-09			100 ARMSTRONG AVE.		NICEVILLE	FL	32578																 Note:DLLI LIBRARY 								
+	ILL		NICHOLLS STATE UNIVERSITY LIBRARY - LA							LNS			ILL	2005-11-28																							 none 								
+	ILL		NOAA MIAMI REGIONAL LIBRARY AT AOML							OAO			ILL	1997-07-01			4301 RICKENBACKER CSWY		MIAMI FL	FL	33149																 none 								
+	ILL		NORRISTOWN PUBLIC LIBRARY  PA							MNL			ILL	2005-03-22																							 none 								
+	ILL		NORTH CAROLINA SCHOOL OF THE ARTS LIBRARY  - NC							NZG			ILL	2005-04-01																							 none 								
+	ILL		NORTH DAKOTA STATE UNIVERSITY LIBRARY - ND							NWQ			ILL	2007-04-11																							 none 								
+	ILL		NORTH KANSAS PUBLIC LIBRARY							MQO			ILL	2008-11-05																							 none 								
+	ILL		NORTH MYRTLE BEACH LIBRARY - SC							SHM			ILL	2006-05-03																							 none 								
+	ILL		Northeastern State University - John Vaughan Library							OKN			ILL	2011-01-20																							 none 								
+	ILL		NORTHERN ILLINOIS UNIVERSITY LIBRARIES - IL							JNA			ILL	2006-09-22																							 none 								
+	ILL		NOVA SOUTHEASTERN UNIV HEALTH PROF DIV							FEO			ILL	1997-10-20			3200 S. UNIVERSITY DR.		DAVIE	FL	33326																 none 								
+	ILL		OCCIDENTAL COLLEGE - CALIFORNIA							CCO			ILL	2004-04-13																							 none 								
+	ILL		Odessa College  TX							O2D			ILL	2012-07-03																							 none 								
+	ILL		ODUM LIBRARY VALDOSTA STATE UNIVERSITY  GA							GYG			ILL	2005-05-19																							 none 								
+	ILL		OGEMAW DISTRICT LIBRARY  MI							EZW			ILL	2005-05-26																							 none 								
+	ILL		OHIO STATE UNIVERSITY LIBRARIES							OSU			ILL	2005-06-27																							 none 								
+	ILL		Oklahoma City Community College  OK							OKJ			ILL	2016-05-19																							 none 								
+	ILL		OKLAHOMA STASTE UNIVERSITY LIBRARY  OK							OKS			ILL	2005-05-24																							 none 								
+	ILL		OLATHE PUBLIC LIBRARY - KS							KOP			ILL	2006-10-26																							 none 								
+	ILL		OLD DOMINION UNIVERSITY PERRY LIBRARY  VA							VOD			ILL	2004-12-07																							 none 								
+	ILL		OLDSMAR LIBRARY							FVU			ILL	2001-01-03			101 STATE STREET W.		OLDSMAR	FL	34677																  Note:PINELLAS PUBLIC LIBRARY COOPERATIVE 								
+	ILL		Omaha Public Library							NBO			ILL	2005-08-25																							 none 								
+	ILL		ONTARIO PUBLIC LIBRARY  WI							GZR			ILL	2004-07-06																							 none 								
+	ILL		OREGON STATE UNIVERSITY							ORE			ILL	2005-06-27																							 none 								
+	ILL		ORHS HEALTH SCIENCES LIBRARY							FLH			ILL	1998-04-13			1414 S. ORANGE AVE.		ORLANDO	FL	32806																 								
+	ILL		Ospbel Music Library  Hatfield, Pretoria, ZA  0028							P4A			ILL	2016-06-20																							 none 								
+	ILL		Palos Heights Public Lib.							DZI			ILL	2014-09-04			12501 S. 71st Ave.		Palos Heights	He	60463																 none 								
+	ILL		Paris Public Library  TX							PPLBT			ILL	2016-05-24																							 none 								
+	ILL		Pasadena Public Library							CPP			ILL	2016-05-24																							 none 								
+	ILL		Patrick Air Force Base, FL							T6X			ILL	2016-03-28			SFTAC/STINFO  10989 South Patrick Drive		Patrick Air Force Base	Ai	32925																 none 								
+	ILL		PATRICK HENRY COLLEGE LIBRARY VA							P$H			ILL	2004-06-30																							 none 								
+	ILL		PAUL MEEK LIBRARY TN							THM			ILL	2008-06-24																															
+	ILL		Paul Wolk Library Lord Fairfax Community College  va							PZO			ILL	2013-08-08																							 none 								
+	ILL		PEABODY CONSERVATORY ARTHUR FRIEDHEIM LIBRARY  MD							JHP			ILL	2004-12-03																							 none 								
+	ILL		PELL CITY PUBLIC LIBRARY - AL							ALPEL			ILL	2007-04-30																							 none 								
+	ILL		PELLETIER LIBRARY							AVL			ILL	2004-06-03																							 none 								
+	ILL		PENROSE LIBRARY - UNIVERSITY OF DENVER							DVP			ILL	2004-03-29																							 none 								
+	ILL		PENSACOLA CHRISTIAN COLLEGE LIBRARY							FPP			ILL	1997-03-17			BOX 18000		PENSACOLA	FL	32523																 none 								
+	ILL		Peoria Public Library							POR			ILL	2012-11-20																							 none 								
+	ILL		PHOENIX PUBLIC LIBRARY - AZ							PNX			ILL	2006-09-13																							 none 								
+	ILL		PIERCE COUNTY LIBRARY							RLS			ILL	2008-10-24																							 none 								
+	ILL		PIKES PEAK LIBRARY COLORADO SPRINGS							CQU			ILL	2004-10-06																							 none 								
+	ILL		PITTSBURG STATE UNIVERSITY - KS							KFP			ILL	2006-11-06																							 none 								
+	ILL		PORT TOWNSEND LIBRARY  WA							AA3			ILL	2005-01-12																							 none 								
+	ILL		PORTLAND STATE UNIVERSITY LIBRARY							ORZ			ILL	2004-11-15																							 none 								
+	ILL		PRAIRIE VIEW A&M UNIVERSITY - TX							PVA			ILL	2006-02-03																							 none 								
+	ILL		PRINCETON UNIVERSITY LIBRARY							PUL			ILL	2008-10-21																							 none 								
+	ILL		Prospect Heights Public Library  IL							JAO			ILL	2012-07-13																							 none 								
+	ILL		PSU - PATERNO LIBRARY - PA							UPM			ILL	2005-11-08																							 none 								
+	ILL		Public Library of Charlotte & Mecklenburg County  NC							NPC			ILL	2005-09-22																							 none 								
+	ILL		PULASKI CO. PUBLIC LIBRARY  KY							KM7			ILL	2004-08-25																							 none 								
+	ILL		PURDUE UNIVERSITY LIBRARY - IN							HV6			ILL	2005-12-05																							 none 								
+	ILL		Purdue Unversity Calumet, IN							IPC			ILL	2016-04-06			2200 169th Street, SULB200		Hammond	IN	46323																 none 								
+	ILL		RADFORD UNIVERSITY							VRA			ILL	2004-08-31																							 none 								
+	ILL		RAMAKER LIBRARY NORTHWESTERN COLLEGE - IA							IOO			ILL	2006-01-11																							 none 								
+	ILL		RANDOLPH-MACON WOMAN'S COLLEGE VA							VLR			ILL	2004-09-22																							 none 								
+	ILL		Rapids Parish Library  L A							AGLSL			ILL	2014-06-30																							 none 								
+	ILL		REED COLLEGE LIBRARY  OR							ORC			ILL	2005-04-12																							 none 								
+	ILL		REGENT UNIVERSITY LIBRARY - VIRGINIA							VCB			ILL	2004-05-26																							 none 								
+	ILL		REINHARDT COLLEGE - GA							CE6			ILL	2005-10-19																							 none 								
+	ILL		RESNICK LIBRARY							XDM			ILL	2011-10-06																							 none 								
+	ILL		RICE UNIVERSITY LIBRARY - TX							RCE			ILL	2006-02-14																							 none 								
+	ILL		 RICHARD STOCKTON COLLEGE OF NJ   NJ							NJS			ILL	2009-08-11																							 none 								
+	ILL		ILL  -  Ridgway Memorial Library  KY							KB3			ILL	2015-11-20																							 none 								
+	ILL		RINGLING SCHOOL OF ART & DESIGN KIMBROUGH LIBRARY							RSS			ILL	1997-10-28			2700 N. TAMIAMI TRAIL		SARASOTA	FL	34234																 none 								
+	ILL		ROBERT L. F. SIKES PUBLIC LIBRARY - FL							F0A			ILL	2007-09-12																							 none 								
+	ILL		ROCHESTER PUBLIC LIBRARY  ROCHESTER MN							ROC			ILL	2004-10-13																							 none 								
+	ILL		ROGERS STATE UNIVERSITY							OVV			ILL	2004-06-07																							 none 								
+	ILL		ROLVAAG MEMORIAL LIBRARY - ST. OLAF COLLEGE - MN							MNO			ILL	2005-11-04																							 none 								
+	ILL		Rutgers University Alexander Library  NJ							NJR			ILL	2015-02-13																							 none 								
+	ILL		SACRAMENTO LIBRARY  CA							CSA			ILL	2005-05-24																							 none 								
+	ILL		SAGINAW VALLEY STATE UNIVERSITY ZAHNOW LIBRARY  MI							EZS			ILL	2004-12-07																							 none 								
+	ILL		Saint Joseph's University - Philadelphia, PA							SJD			ILL	2016-01-22			5600 City Avenue Library ILL / IDS # 167		Philadelphia	PA	19131																 none 								
+	ILL		Saint Vencent College Library  PA							PVS			ILL	2011-03-25																							 none 								
+	ILL		SALEM STATE COLLEGE LIBRARY							SST			ILL	2004-11-08																							 none 								
+	ILL		SAMFORD UNIVERSITY LIBRARY  AL							ABF			ILL	2004-11-18																							 none 								
+	ILL		SAN ANTONIO PUBLIC LIBRARY  TX							SAP			ILL	2005-10-10																							 none 								
+	ILL		SAN DIEGO STATE UNIVERSITY MALCOLM LOVE LIBRARY  CA							CDS			ILL	2004-11-23																							 none 								
+	ILL		SAN JOSE PUBLIC LIBRARY - CA							SJP			ILL	2007-04-24																							 none 								
+	ILL		SAN JOSE STATE UNIVERSITY - CA							CSJ			ILL	2007-02-07																							 none 								
+	ILL		SAN MANUEL PUBLIC LIBRARY - AZ							FX8			ILL	2007-09-20																							 none 								
+	ILL		Santa Clara University  CA							STA			ILL	2014-08-22																							 none 								
+	ILL		SANTA FE PUBLIC							SFP			ILL	2004-06-18																							 none 								
+	ILL		SARAH LAWRENCE COLLEGE - NY							VVS			ILL	2006-05-24																							 none 								
+	ILL		SAVANNAH COLLEGE OF ART AND DESIGN GA							GSE			ILL	2005-03-15																							 none 								
+	ILL		SAWYIER  PUBLIC LIBRARY  KY							KL8			ILL	2004-07-01																							 none 								
+	ILL		SCHOOL OF ADVANCED INTERNATIONAL STUDIES - DC							JHS			ILL	2007-04-05																							 none 								
+	ILL		SCHURZ LIBRARY - INDIANA UNIVERSITY - IN							I3U			ILL	2006-10-06																							 none 								
+	ILL		SEATTLE PUBLIC LIBRARY							UOK			ILL	2004-08-31																							 none 								
+	ILL		SEMINOLE COMMUNITY LIBRARY AT ST PETERSBURG COLLEGE							SM2			ILL	1997-09-11			9199 113TH ST. N		SEMINOLE	FL	33772																 none 								
+	ILL		SEOUL NATIONAL UNIVERSITY LIBRARY  KOREA							S4N			ILL	2004-10-13																							 none 								
+	ILL		Shoen Library, Marylhurst OR							MRY			ILL	2016-02-03			17600 Pacific Highway		Marylhurst	OR	97036-0261																 none 								
+	ILL		SIBLEY MUSIC LIBRARY - NY							RES			ILL	2006-03-22																							 none 								
+	ILL		SIERRA VISTA PUBLIC LIBRARY - AZ							SVZ			ILL	2007-01-29																							 none 								
+	ILL		SIGMA INFORMATION/ SAINT-GOBIAN  NY							ULZ			ILL	2011-02-16																							 none 								
+	ILL		SIMMONS COLLEGE LIBRARIES - MA							SCL			ILL	2006-02-17																							 none 								
+	ILL		SIMONS ROCK COLLEGE LIBRARY  MA							YSR			ILL	2005-06-23																							 none 								
+	ILL		SIMPSON LIBRARY UNIVERSITY OF MARY WASHINGTON							VMW			ILL	2008-10-27																							 none 								
+	ILL		SIOUXLAND LIBRARIES - SIOUX FALLS, SD							SDD			ILL	2004-03-30																															
+	ILL		SKIDMORE COLLEGE LIBRARY - NY							VZS			ILL	2006-09-12																							 none 								
+	ILL		SKILLMAN LIBRARY - LAFAYETTE COLLEGE - PA							LAF			ILL	2004-08-17																							 none 								
+	ILL		SOJORNER TRUTH LIBRARY SUNY COLLEGE  NY							ZLM			ILL	2005-05-17																							 none 								
+	ILL		SOMERSET COUNTY LIBRARY - NJ							SOM			ILL	2006-04-17																							 none 								
+	ILL		SONOMA STATE UNIVERSITY LIBRARY, CA							CSO			ILL	2004-10-07																							 								
+	ILL		SOUTH FLORIDA COMMUNITY COLLEGE							S3F			ILL	2002-05-22			600 WEST COLLEGE DRIVE		AVON PARK	PA	33825		FAX (863) 452-6042														 none 								
+	ILL		SOUTHEASTERN LA. UNIVERSITY							LSH			ILL	2004-06-21																							 none 								
+	ILL		SOUTHERN ADVENTIST UNIV - TN							TMS			ILL	2006-05-15																							 none 								
+	ILL		SOUTHERN ILLINOIS UNIVERSITY							SOI			ILL	2004-10-22																							 none 								
+	ILL		SOUTHERN ILLINOIS UNIVERSITY - IL							IAT			ILL	2006-10-30																							 none 								
+	ILL		SOUTHERN METHODIST UNIVERSITY FONDREN LIBRARY  TX							ISM			ILL	2005-01-27																							 none 								
+	ILL		SOUTHERN VIRGINIA UNIVERSITY - VA							VLO			ILL	2007-04-18																							 none 								
+	ILL		SOUTHERN WESLEYAN UNIVERSITY - SC							SGE			ILL	2006-02-03																							 none 								
+	ILL		SOUTHWEST MISSOURI STATE SPRINGFIELD							MOU			ILL	2004-11-23																							 none 								
+	ILL		SPRING HILL COLLEGE  AL							ASH			ILL	2005-03-15																							 none 								
+	ILL		SPRINGFIELD CITY LIBRARY - MA							WRS			ILL	2007-12-04																							 none 								
+	ILL		SPRINGFIELD GREENE COUNTY LIBRARY							MOS			ILL	2004-06-18																							 none 								
+	ILL		Springville Public Library - UT							ULC			ILL	2004-12-13																							 Note:Did not pay for lostbook. ADAPTIVE BEHAVIOR $60 Due 1/17/2005. 34369000326046 SR 								
+	ILL		ST MARYS COLLEGE OF ME							MDS			ILL	2005-03-04																							 none 								
+	ILL		ST. EDWARD'S UNIVERSITY  TX							EDX			ILL	2015-11-23																							 none 								
+	ILL		St. Joseph's College Library  NY							VZG			ILL	2012-06-12																							 none 								
+	ILL		ST. LOUIS COUNTY LIBRARY  MO							ZAE			ILL	2005-01-12																							 none 								
+	ILL		ST. LOUIS PUBLIC LIBRARY							SVP			ILL	2004-03-30																							 none 								
+	ILL		STATBIBLIOTEKET, UNIVERSITETSPARKEN - DENMARK							EDA			ILL	2007-08-31																															
+	ILL		STATE UNIVERSITY OF WEST GEORGIA							GWC			ILL	2004-04-07																							 none 								
+	ILL		STEELY LIBRARY: NORTHERN KENTUCKY UNIVERSITY							KHN			ILL	2008-10-31																							 none 								
+	ILL		STEWART LIBRARY							EC8			ILL	2004-04-03																							 none 								
+	ILL		STONEHILL COLLEGE LIBRARY - MA							STO			ILL	2007-10-15																							 none 								
+	ILL		STONINGTON PUBLIC LIBRARY  MA							BYN			ILL	2005-05-26																							 none 								
+	ILL		STONY BROOK UNIVERSITY - NY							YSM			ILL	2006-04-10																							 none 								
+	ILL		SUBURBAN LIBRARY COOPERATIVE  MI							EYB			ILL	2004-09-28																							 none 								
+	ILL		SUFFOLK UNIVERSITY, SAWYER LIBRARY - MA							SUF			ILL	2007-11-05																							 								
+	ILL		SUNY COL AT COURTLAND NY							YCM			ILL	2004-06-18																							 none 								
+	ILL		SUNY COLLEGE AT FREDONIA - NY							XFM			ILL	2006-09-18																							 none 								
+	ILL		SURBAN LIBRARY SYSTEM BURR RIDGE IL							IED			ILL	2004-06-09																							 none 								
+	ILL		TAMU UNIVERSITY - TX							TXA			ILL	2005-09-27																							 none 								
+	ILL		TAYLOR UNIVERSITY ZONDERVAN LIBRARY  IN							ITU			ILL	2005-02-23																							 none 								
+	ILL		Temple College  TX							TP#			ILL	2014-08-05																							 none 								
+	ILL		TEMPLE UNIVERSITY SAMUEL PALEY LIBRARY  PA							TEU			ILL	2005-05-26																							 none 								
+	ILL		TEXAS A&M BELL LIBRARY  CORPUS CHRISTI							TXF			ILL	2004-11-09																							 none 								
+	ILL		Texas Tech University							ILU			ILL	2005-08-30																							 none 								
+	ILL		TEXPRESS #11-DAL							IUA			ILL	2004-06-08																							 none 								
+	ILL		THE COLLEGE OF NEW JERSEY							NJT			ILL	2004-12-03																							 none 								
+	ILL		THE LIBRARY AT DISNEY'S ANIMAL KINGDOM							D6L			ILL	2004-04-05																							 none 								
+	ILL		THE LIBRARY OF HATTIESBURG - MS							H23			ILL	2004-04-28																							 none 								
+	ILL		THOMAS COOPER LIBRARY - UNIVERSITY OF SC							SUC			ILL	2004-07-26																							 none 								
+	ILL		TOCCOA FALLS COLLEGE - GA							ZID			ILL	2006-03-02																							 none 								
+	ILL		TOWSON UNIVERSITY ALBERT COOK LIBRARY  MD							TSC			ILL	2005-01-31																							 none 								
+	ILL		TREVECCA NAZARENE UNIVERSITY TN							TTN			ILL	2004-11-04																							 none 								
+	ILL		TREXLER LIBRARY - PA							EVI			ILL	2005-09-26																							 none 								
+	ILL		Trinity College of Florida							FVY			ILL	2016-04-11			2430 Welbilt Blvd.		Trinity	FL	34655																 none 								
+	ILL		TRINITY UNIVERSITY - TX							TNY			ILL	2007-04-18																							 none 								
+	ILL		TROY H. MIDDLETON LIBRARY  LA							LUU			ILL	2005-03-28																							 none 								
+	ILL		TROY STATE UNIVESITY LIBRARY							ADA			ILL	2004-06-28																							 none 								
+	ILL		TULSA CITY COUNTY LIBRARY  OK							TUL			ILL	2005-03-21																							 none 								
+	ILL		Twin Falls Public Library  ID							Y#4			ILL	2011-05-24																							 none 								
+	ILL		TWIN RIVERS CORRECTIONS CENTER LIBRARY - WA							Z72			ILL	2007-11-28																							 none 								
+	ILL		U OF F SOUTHERN ME - ME							PGP			ILL	2005-10-17																							 none 								
+	ILL		U.S. NAVAL SUPPORT ACTIVITY MWR LIBRARY FPO AE							U6N			ILL	2004-09-15																							 none 								
+	ILL		UCLA YOUNG RESEARCH LIBRARY - CA							CLU			ILL	2005-10-25																							 none 								
+	ILL		UCSB DAVIDSON LIBRARY - CA							CUT			ILL	2006-01-20																							 none 								
+	ILL		UNIV OF CALIFORNIA, SAN DIEGO - CA							CUS			ILL	2007-04-11																															
+	ILL		UNIV OF ILLINIOS AT SPRINGFIELD - IL							IAS			ILL	2006-04-04																							 none 								
+	ILL		UNIV OF NORTH CAROLINA DAVID LIBRARY - NC							NOC			ILL	2006-04-07																							 none 								
+	ILL		UNIV. OF SO. FLORIDA HEALTH SCIENCE CENTER LIBRARY							FHJ			ILL	1997-12-03			MDC BOX 31 12901 N. BRUCE B. DOWNS BLVD.		TAMPA	FL	33612-4799																 								
+	ILL		UNIVERSITY ARIZONA LIBRARIES							AZU			ILL	2004-03-29																							 none 								
+	ILL		UNIVERSITY AT ALBANY, SUNY NY							NAM			ILL	2004-08-05																															
+	ILL		UNIVERSITY OF ARKANSAS							AFU			ILL	2004-06-30																							 none 								
+	ILL		UNIVERSITY OF ALABAMA HUNTSVILLE							MWR			ILL	2004-07-08																							 none 								
+	ILL		UNIVERSITY OF ALASKA RASMUSON LIBRARY FAIRBANKS AL							UAF			ILL	2004-11-01																							 none 								
+	ILL		UNIVERSITY OF ALABAMA LIBRARIES - AL							ALM			ILL	2005-11-08																							 none 								
+	ILL		UNIVERSITY OF ALABAMA AT BIRMINGHAM - AL							ABC			ILL	2007-10-08																							 none 								
+	ILL		UNIVERSITY OF BRITISH COLUMBIA - WA							UBC			ILL	2006-12-11																							 none 								
+	ILL		UNIVERSITY OF CALIFORNIA  DAVIS  CA							CUV			ILL	2004-09-17																							 none 								
+	ILL		UNIVERSITY OF COLORADO LIBRARIES - CO							COD			ILL	2005-12-13																							 none 								
+	ILL		UNIVERSITY OF CINCINNATI LIBRARY - OH							CIN			ILL	2007-04-16																							 none 								
+	ILL		UNIVERSITY OF CALIFORNIA BERKELEY							CUY			ILL	2008-10-20																							 none 								
+	ILL		UNIVERSITY OF DELAWARE							DLM			ILL	2004-06-18																							 none 								
+	ILL		UNIVERSITY OF EVANSVILLE LIBRARIES  IN							IUE			ILL	2004-08-27																							 none 								
+	ILL		UNIVERSITY OF GEORGIA MAIN LIBRARY							GUA			ILL	2004-06-22																							 none 								
+	ILL		UNIVERSITY OF HARTFORD CT							HRM			ILL	2004-09-22																							 none 								
+	ILL		UNIVERSITY OF HOUSTON, TX							TXH			ILL	2004-10-20																															
+	ILL		UNIVERSITY OF IOWA							NUI			ILL	2004-06-14																							 none 								
+	ILL		UNIVERSITY OF ILLINOIS - IL							UIU			ILL	2006-09-20																							 none 								
+	ILL		UNIVERSITY OF IDAHO - IDAHO							NTD			ILL	2006-10-26																							 none 								
+	ILL		UNIVERSITY OF KENTUCKY							KUK			ILL	2004-04-13																							 none 								
+	ILL		UNIVERSITY OF LOUISVILLE LIBRARY  KY							KLG			ILL	2005-01-12																							 none 								
+	ILL		UNIVERSITY OF LOUISIANA AT LAFAYETTE - LA							LWA			ILL	2005-10-31																							 none 								
+	ILL		University of Louisville Music Library  KY							KLM			ILL	2011-01-14																							 none 								
+	ILL		UNIVERSITY OF MICHIGAN  ANN ARBOR							EYM			ILL	2004-08-03																							 none 								
+	ILL		UNIVERSITY OF MEMPHIS WCWHERTER LIBRARY							TMA			ILL	2004-11-05																							 none 								
+	ILL		UNIVERSITY OF MARYLAND							UMC			ILL	2005-04-26																							 none 								
+	ILL		UNIVERSITY OF MISSOURI - MO							UMK			ILL	2005-10-03																							 none 								
+	ILL		UNIVERSITY OF MINNESOTA - MN							MNU			ILL	2006-04-19																							 none 								
+	ILL		UNIVERSITY OF MN DULUTH - MN							MND			ILL	2006-09-20																							 none 								
+	ILL		UNIVERSITY OF MISSOURI-COLUMBIA - MO							MUU			ILL	2006-11-17																							 none 								
+	ILL		UNIVERSITY OF MD EASTERN SHORE - MD							UME			ILL	2007-01-22																							 none 								
+	ILL		UNIVERSITY OF MIAMI LAW LIBRARY							FML			ILL	1997-03-17			P.O. BOX 248087		CORAL GABLES	GA	33124																 none 								
+	ILL		UNIVERSITY OF NORTH DAKOTA							UND			ILL	2004-04-29																							 none 								
+	ILL		UNIVERSITY OF NEBRASKA AT KEARNEY							KRS			ILL	2004-04-30																							 none 								
+	ILL		UNIVERSITY OF NEW ORLEANS							LNU			ILL	2004-06-18																							 none 								
+	ILL		UNIVERSITY OF NEVADA  RENO							NNY			ILL	2004-07-23																							 none 								
+	ILL		UNIVERSITY OF NORTH CAROLINA - ASHEVILLE							NIM			ILL	2004-08-24																							 none 								
+	ILL		UNIVERSITY OF NORTH TEXAS LIBRARY							INT			ILL	2004-10-13																							 none 								
+	ILL		UNIVERSITY OF NORTH ALABAMA COLLIER LIBRARY							ANO			ILL	2004-11-01																							 none 								
+	ILL		UNIVERSITY OF NEBRASKA OMAHA							NBU			ILL	2005-01-20																							 none 								
+	ILL		UNIVERSITY OF NEBRASKA-LINCOLN							LDL			ILL	2005-03-11																							 none 								
+	ILL		UNIVERSITY OF NEW HAMPSHIRE DIMOND LIBRARY - NH							NHM			ILL	2005-12-06																							 none 								
+	ILL		University of New England  ME							UNB			ILL	2011-07-12																							 none 								
+	ILL		UNIVERSITY OF OREGON KNIGHT LIBRARY - OR							ORU			ILL	2005-11-15																							 none 								
+	ILL		UNIVERSITY OF PUERTO RICO  MAYAGUEZ  P.R.							PMU			ILL	2004-08-11																							 none 								
+	ILL		UNIVERSITY OF PITTSBURGH AT GREENSBURG - PA							PIT			ILL	2006-11-02																							 none 								
+	ILL		University of Pennsylvania  PA							PAU			ILL	2011-03-29																							 none 								
+	ILL		UNIVERSITY OF PUERTO RICO							PBR			ILL	2004-06-18																							 none 								
+	ILL		UNIVERSITY OF SC - LANCASTER							SZR			ILL	2004-04-29																							 none 								
+	ILL		UNIVERSITY OF SOUTH ALABAMA AL							ACM			ILL	2005-01-27																							 none 								
+	ILL		UNIVERSITY OF SOUTHERN MISSISSIPPI - MS							MLA			ILL	2007-01-09																							 none 								
+	ILL		UNIVERSITY OF THE PACIFIC LIBRARY  CA							UOP			ILL	2004-12-16																							 none 								
+	ILL		UNIVERSITY OF TENNESSEE HODGES LIBRARY   TN							TKN			ILL	2005-04-29																							 none 								
+	ILL		UNIVERSITY OF TEXAS LIBRARIES							IXA			ILL	2006-01-05																							 none 								
+	ILL		UNIVERSITY OF UTAH - MARRIOTT LIBRARY - UT							UUM			ILL	2005-11-08																							 none 								
+	ILL		UNIVERSITY OF VERMONT - VT							VTU			ILL	2007-02-06																							 none 								
+	ILL		UNIVERSITY OF WISCONSIN							GZM			ILL	2004-06-18																							 none 								
+	ILL		UNIVERSITY OF WYOMING  WY							WYU			ILL	2004-09-01																							 none 								
+	ILL		UNIVERSITY OF WISCONSIN MURPHY LIBRARY							GZU			ILL	2004-10-13																							 none 								
+	ILL		UNIVERSITY OF WISCONSIN - WI							GZN			ILL	2006-05-26																							 none 								
+	ILL		University of Wisconsin, Green Bay  WI							GZW			ILL	2006-09-28																															
+	ILL		UPPER ARLINGTON - OH							UAP			ILL	2006-04-28																							 none 								
+	ILL		URSINUS COLLEGE LIBRARY  PA							URS			ILL	2004-11-15																							 none 								
+	ILL		US ARMY CORPS OF ENGINEERS / TECHNICAL LIBRARY							AEY			ILL	1999-07-09			P.O. BOX 4970		JACKSONVILLE	FL	32232																 none 								
+	ILL		US CENSUS BUREAU LIBRARY  MD							CBU			ILL	2005-02-28																							 none 								
+	ILL		US CIA LIBRARY - DC							LCI			ILL	2006-09-12																							 none 								
+	ILL		UW-PARKSIDE - WT							GZP			ILL	2007-03-01																							 none 								
+	ILL		UW-PLATTEVILLE LIBRARY WI							GZV			ILL	2004-08-09																							 none 								
+	ILL		VALPARAISO UNIVERSITY							IVU			ILL	2004-11-11																							 none 								
+	ILL		VANCOUVER PUBLIC LIBRARY - BC, CANADA							VP@			ILL	2005-04-26																															
+	ILL		VANDERBILT UNIVERSITY LIBRARY - TN							TJC			ILL	2006-02-08																							 none 								
+	ILL		VASSAR COLLEGE LIBRARIES  NY							VXW			ILL	2005-06-16																							 none 								
+	ILL		VCFA Library, Montpelier VT							VCFAL			ILL	2016-02-10			36 College Street		Montpelier	VT	05602																 none 								
+	ILL		VENTURA COUNT LIBRARY CALIFORNIA							JTO			ILL	2004-09-15																							 none 								
+	ILL		VERMILLION PARISH LIBRARY LA							LSL			ILL	2004-08-11																							 none 								
+	ILL		VIRGINIA TECH NEWMAN LIBRARY							VPI			ILL	2005-01-14																							 none 								
+	ILL		W.B. ROBERTS -- LA FORGE LIBRARY							MCD			ILL	2004-03-29																							 none 								
+	ILL		W.E.B. DUBOIS LIBRARY - UNIVERSITY OF MASSACHUSETTS							AUM			ILL	2004-03-31																							 none 								
+	ILL		WACO-MCLENNAN COUNTY LIBRARY - TX							TXW			ILL	2007-10-15																							 none 								
+	ILL		WAKE COUNTY PUBLIC LIBRARY NC							NXA			ILL	2004-11-04																							 none 								
+	ILL		WAKE FOREST UNIVERSITY REYNOLDS LIBRARY  NC							EWF			ILL	2005-01-26																							 none 								
+	ILL		WALLACE LIBRARY, MA							WHE			ILL	2004-10-11																															
+	ILL		Waltham Public Library  MA							MLN			ILL	2004-11-03																							 none 								
+	ILL		Warren County Public Library  KY							BGP			ILL	2014-07-31																							 none 								
+	ILL		WARREN MEMORIAL LIBRARY  ME							PPN			ILL	2005-02-21																							 none 								
+	ILL		WARTBURG COLLEGE - IA							IOW			ILL	2007-01-23																							 none 								
+	ILL		 Washington County Library System							OZA			ILL	2010-01-27																							 none 								
+	ILL		WASHINGTON UNIVERSITY - MISSOURI							WTU			ILL	2004-05-13																							 none 								
+	ILL		Watson Public Library - Watsonville CA							WTX			ILL	2016-01-19			275 Main St., Suite 100		Watsonville	CA	95076																 none 								
+	ILL		WAVERLY PUBLIC LIBRARY  IA							IX3			ILL	2005-04-22																															
+	ILL		WAYNE STATE UNIVERSITY - MI							EYW			ILL	2006-09-28																							 none 								
+	ILL		WEATON COLLEGE BUSWELL LIBRARY  IL							ICW			ILL	2005-03-21																							 none 								
+	ILL		WEBER STATE UNIVERSITY  UT							UUO			ILL	2004-10-19																							 none 								
+	ILL		WELCH MEDICAL LIBRARY - MARYLAND							JHW			ILL	2004-05-19																							 none 								
+	ILL		WESLEY COLLEGE LIBRARY MA							WEL			ILL	2005-04-01																							 none 								
+	ILL		WEST PALM BEACH PUBLIC LIBRARY							F4B			ILL	1999-03-04			100 CLEMATIS ST.		WEST PALM BEACH	PA	33401																 Note:F4B IS NOT A DLLI LIBRARY 								
+	ILL		WEST VIRGINIA UNIVERSITY - WV							WVU			ILL	2007-10-11																							 none 								
+	ILL		WESTCHESTER LIBRARY SYSTEM  NY							VVW			ILL	2005-01-19																							 none 								
+	ILL		WESTERN ILLINIOS UNIVERSITY LIBRARY - IL							IAZ			ILL	2006-02-16																							 none 								
+	ILL		WESTERN OREGON UNIVERSITY - OR							WOS			ILL	2006-01-18																							 none 								
+	ILL		WESTMINSTER COLLEGE  PA							WFN			ILL	2004-12-16																							 none 								
+	ILL		Westmont College Library  CA							CWS			ILL	2013-05-16																							 none 								
+	ILL		WHITE BRANCH - NY							YVO			ILL	2006-05-10																							 none 								
+	ILL		WICHITA STATE UNIVERSITY - KS							KSW			ILL	2007-08-23																							 none 								
+	ILL		WILLIAM G. SQUIERS LIBRARY  TN							TLC			ILL	2005-06-09																							 none 								
+	ILL		WILLIAM JEWELL COLLEGE - MO							MOI			ILL	2006-11-08																							 none 								
+	ILL		WILLIAMSBERG REG. LIBRARY - VA							VAK			ILL	2006-02-13																							 none 								
+	ILL		WINTHROP UNIVERSITY  SC							SWW			ILL	2004-08-25																							 none 								
+	ILL		WL  MNP  TESCO  ARMAMENT DIRECTORATE TECH LIB							SCE			ILL	1997-05-20			203 N. ELGIN BLVD., SUITE 300		EGLIN	FL	32542-6843		904 882-5586   fax-904 882-3214														 none 								
+	ILL		WOFFORD COLLEGE LIBRARY  SC							SPW			ILL	2005-02-09																							 none 								
+	ILL		YANN-CHIN HUANG - COMPUTING CENTER LIBRARY - TAIWAN							AAE			ILL	2005-11-10																							 none 								
+	ILL		YESHIVA UNIVERSITY  NY NY							YYP			ILL	2005-03-08																							 none 								
+	ILL		York County Public Library  VA							PGI			ILL	2016-05-24																							 none 								
+	ILL		ZIMMERMAN LIBRARY - UNIV OF NEW MEXICO - NM							IQU			ILL	2006-01-18																							 none 								
+	ILL		ILL -Addleston Library  SC							SBM			ILL	2004-03-29																							 none 								
+	ILL		ILL -ALBUQUERQUE/BERNALILLO COUNTY  NEW MEX							QUE			ILL	2015-11-20																							 none 								
+	ILL		ILL -ROWAN UNIVERSITY CAMPBELL LIBRARY, NJ							NJG			ILL	2004-10-21																															
+	ILL		ILL  -Sullivan Public Library of Wilton Manors FL							W6M			ILL	2013-05-31																							 none 								
+	ILL		ILL -UNIVERSITY OF CONNECTICUT BABBRIGE LIBRARY  CT							UCW			ILL	2005-02-23																							 none 								
+	ILL		ILL -XII St. louis University MO (XII)							XII			ILL	2009-12-03																							 none 								
+	ILL		ILL							ILL			ILL	2004-06-30																							 Note:Susie uses this user id to put holds on ILL problem items. 								
+	ILL		ILL ALDERMAN LIBRARY UNIVERISTY OF VIRGINIA VA							VA@			ILL	2009-07-21																							 none 								
+	ILL		ILL  ANNE ARUNDEL COUNTY PUBLIC LIBRARY  MD							A2A			ILL	2008-04-08																							 none 								
+	ILL		ILL  ARGOSY UNIVERSITY TAMPA CAMPUS   FL							F@P			ILL	2005-07-14																							 none 								
+	ILL		ILL  AUSTIN PEAY STATE UNIVERSITY  TN							TPA			ILL	2006-07-19																							 none 								
+	ILL		ILL BAILEY LIBRARY							SRS			ILL	2008-02-25																							 none 								
+	ILL		ILL  BELMONT UNIVERSITY   TN							TBC			ILL	2008-02-27																							 none 								
+	ILL		ILL  BRIGHAM YOUNG UNIVERSITY  UT							UBY			ILL	2007-07-12																							 none 								
+	ILL		ILL   CATHOLOIC UNIVERSITY OF AMERICA  WDC							DCV			ILL	2006-08-15																							 none 								
+	ILL		ILL  COLBY COLLEGE  MILLER LIBRARY  ME							CBY			ILL	2005-07-20																							 none 								
+	ILL		ILL CORNELL UNIVERSITY  NY							COO			ILL	2006-08-07																							 none 								
+	ILL		ILL  COUNTY OF HENRICO PUBLIC LIBRARY  VA							VHP			ILL	2005-06-29																							 none 								
+	ILL		ILL Dept. LRS St. Cloud State, MN							MST			ILL	2016-03-22																							 none 								
+	ILL		ILL Derbyshire Libraries  Matlock, DE4							UKDLI			ILL	2013-07-24																							 none 								
+	ILL		ILL  DESTIN - NICEVILLE LIBRARY  FL.							FA5			ILL	2007-09-24																															
+	ILL		ILL  ESCONDIDO PUBLIC LIBRARY  CA							JQQ			ILL	2007-07-19																							 none 								
+	ILL		ILL  EVERGREEN STATE COLLEGE WA							ESR			ILL	2007-05-04																							 none 								
+	ILL		ILL FOUR COUNTY LIBRARY SYSTEM VESTAL, NY							YXF			ILL	2007-08-03																															
+	ILL		ILL  FRANKIN & MARSHALL COLLEGE PA							LFM			ILL	2006-08-28																							 none 								
+	ILL		ILL   FRIENDWOODS PUBLIC LIBRARY  TX							QS4			ILL	2009-07-30																							 none 								
+	ILL		ILL  FROSTBURG STATE UNIVERSITY  MD							MFS			ILL	2007-06-11																							 none 								
+	ILL		ILL   GEORGE MASON UNIVERSITY  VA							VGM			ILL	2005-07-15																							 none 								
+	ILL		ILL  GOLDEY-BEACOM COLLEGE LIBRARY  DE							GBL			ILL	2007-08-09																							 none 								
+	ILL		ILL High Plains  Library  CO							SOS			ILL	2012-01-20																							 Note:Symbol show up as SO# 								
+	ILL		ILL   JACKSONVILLE STATE UNIVERSITY   AL							AJB			ILL	2006-08-10																							 none 								
+	ILL		ILL Joint Bank-Fund Library							DJB			ILL	2010-02-04																							 none 								
+	ILL		ILL  KANSAS CITY PUBLIC LIBRARY  MO							KCP			ILL	2006-08-29																							 none 								
+	ILL		ILL  KEENE PUBLIC LIBRARY							HA5			ILL	2006-11-21																							 none 								
+	ILL		ILL  LIBRARY CSA INTERNATIONAL INC  JUPITER FL							FLCSA			ILL	2007-06-22																							 none 								
+	ILL		ILL  LOGAN LIBRARY  UT							UUD			ILL	2006-07-21																							 none 								
+	ILL		ILL   LONG BEACH PUBLIC LIBRARY   NY							NAB			ILL	2005-09-12																							 none 								
+	ILL		ILL  LUTHER COLLEGE  IA							IOH			ILL	2005-10-07																							 none 								
+	ILL		ILL METROPOLITAN STATE UNIVERSITY  MN							XOJ			ILL	2009-06-23																							 none 								
+	ILL		ILL  MOUNT SINAI SCHOOL OF MEDICINE  NY							VVL			ILL	2011-04-26																							 none 								
+	ILL		ILL  MT. ST. MARY'S UNIVERSITY MD							MSM			ILL	2007-06-11																							 none 								
+	ILL		ILL  NORFOLK PUBLIC LIBRARY VA							TWE			ILL	2006-08-02																							 none 								
+	ILL		ILL   OREGON STATE LIBRARY  SALEM OR							OSO			ILL	2006-08-29																							 none 								
+	ILL		ILL  PACE UNIVERISTY  NY							VZP			ILL	2007-08-01																							 none 								
+	ILL		ILL  PACIFIC LUTHERAN UNIVERSITY  WA							OPV			ILL	2005-07-05																							 none 								
+	ILL		ILL  PINELLAS PUBLIC LIBRARY  FL							LKI			ILL	2007-08-17																							 none 								
+	ILL		ILL POLK LIBRARY  WI							GZO			ILL	2008-04-25																							 none 								
+	ILL		ILL  PURDUE UNIVERISTY   IN							IPL			ILL	2007-05-24																							 none 								
+	ILL		ILL  RANDOLPH-MACON COLLEGE VA							VRM			ILL	2007-07-25																							 none 								
+	ILL		ILL  Shaker Heights Public Library  OH							SHP			ILL	2011-10-25																							 none 								
+	ILL		ILL  SHENANDOAH UNIVERSITY  VA							VAQ			ILL	2005-07-28																							 none 								
+	ILL		ILL  SOUTH DAKOTA STATE LIBRARY  SD							SDS			ILL	2005-07-22																							 none 								
+	ILL		ILL  Stevens County Rural Library District  WA							LZS			ILL	2015-11-20																							 none 								
+	ILL		ILL  TEXAS CHRISTIAN UNIVERSITY  FORT WORTH							ICU			ILL	2007-06-06																							 none 								
+	ILL		ILL Texas Southern University Law Library							LXS			ILL	2010-05-14																							 none 								
+	ILL		ILL  TEXAS WOMEN'S UNIVERSITY  TX							IWU			ILL	2005-08-23																							 none 								
+	ILL		ILL  THOMAS CRANE PUBLIC LIBRARY  MA							OCD			ILL	2007-08-09																							 none 								
+	ILL		ILL TOURO COLLEGE PROOKLYN, NY							XTC			ILL	2007-08-03																															
+	ILL		ILL  UNIVERSITY OF GREAT FALLS  MT							MZD			ILL	2006-07-19																							 none 								
+	ILL		ILL  UNIVERSITY OF LOUISIANA AT MONROE  LA							LNE			ILL	2006-08-25																							 none 								
+	ILL		ILL  UNIVERSITY OF MOBILE  AL							MBG			ILL	2006-08-29																							 none 								
+	ILL		ILL  UNIVERSITY OF NEVADA LAS VAGUS LIBRARIES NV							UNL			ILL	2007-07-19																							 none 								
+	ILL		ILL   UNIVERSITY OF TEXAS-PAN AMERICAN LIBRARY  TX							TPN			ILL	2006-08-17																							 none 								
+	ILL		ILL  UNIVERSITY OF THE SOUTH  TN							TWU			ILL	2007-08-01																							 none 								
+	ILL		ILL  University of the Free State/ILL  Bloemfontein, ZA							YSRR			ILL	2015-08-07																							 Note:Special Borrower code because to many YSR YSRR is 								
+	ILL		ILL Utah State University  UT							UUS			ILL	2011-03-21																							 none 								
+	ILL		ILL  WAHTOON  COUNTY LIBRARY SYSTEM  WA							WC4			ILL	2005-08-23																							 none 								
+	ILL		ILL  WALTON DEFUNIAK LIBRARY FL							W6D			ILL	2005-09-06																							 none 								
+	ILL		ILL WEEKS LIBRARY UNIVERSITY OF S. DAKOTA  SD							USD			ILL	2007-06-13																							 none 								
+	ILL		ILL  WESTERN CAROLINA UNIVERSITY  NC							NMW			ILL	2005-07-29																							 none 								
+	ILL		ILL  WESTERN MICHIGAN UNIVEFSITY  MI							EXW			ILL	2007-12-14																							 none 								
+	ILL		ILL  WESTFIELD STATE COLLEGE  MA							WEX			ILL	2008-01-09																							 none 								
+	ILL		ILL_ ANDREWS BASE LIBRARY  MD							BMN			ILL	2009-10-12																							 none 								
+	ILL		ILL_ Kenlaw Library Asbury University  KY							KWW			ILL	2011-03-17																							 none 								
+	ILL		INDIAN TRAILS PUBLIC LIBRARY, IL							JAG			ILL	2017-07-20																							 none 								
+	ILL		Indiana State University							ISU			ILL	2010-06-22																							 none 								
+	ILL		Interlibrary Loan/Harvard University MA							HLS			ILL	2010-09-14																							 none 								
+	ILL		Interlibrary Loan/Western Kentucky University KY							KNV			ILL	2010-09-14																							 none 								
+	ILL		Jefferson County Public Library							FD3			ILL	2010-03-12																							 none 								
+	ILL		Jewish Theological Seminary Library							VXJ			ILL	2016-07-08			3080 Broadway		New York City	Yo	10027-4649																 none 								
+	ILL		JONES SCHOOL OF LAW, AL							AJS			ILL	2011-09-22																							 none 								
+	ILL		KELLOGG HUBBARD lIBRARY, VT							VSS			ILL	2011-08-08																							 none 								
+	ILL		Korea University							KUB			ILL	2016-07-15			145, Anam-ro, Seongbuk-gu		Seoul	Ko	02841		82-2-3290-1494								kulib@korea.ac.kr						 none 								
+	ILL		LANGENHEIM LIBRARY							PTL			ILL	2017-10-12																							 none 								
+	ILL		Lavery Library, St. John Fisher College							VZJ			ILL	2016-07-08			3690 East Avenue		Rochester	NY	14618																 none 								
+	ILL		LEBANON PUBLIC LIBRARY, OHIO							LBNPL			ILL	2017-03-31																							 none 								
+	ILL		LEWES PUBLIC LIBRARY, DELAWARE							SX2			ILL	2017-03-22																							 none 								
+	ILL		Library La Sierra University							LMR			ILL	2014-09-09																							 none 								
+	ILL		Lincoln Library Springfield, IL							ILM			ILL	2017-02-28																							 none 								
+	ILL		Linfield College OR							OLL			ILL	2011-10-04																							 none 								
+	ILL		Link Library							NBC			ILL	2016-10-19			800 N Columbia Ave		Seward	NE	68434																 none 								
+	ILL		Little Sandy Correctional Complex Library, KY							LSCCX			ILL	2017-08-01																							 none 								
+	ILL		Lyons Memorial Library							MOO			ILL	2017-02-14																							 none 								
+	ILL		MARY LIVERMORE LIBRARY/UNCP							NPS			ILL	2017-09-19																							 none 								
+	ILL		Marygrove College Library - Detroit, MI							ERR			ILL	2010-09-28																															
+	ILL		McCabe Library Swarthmore College (PSC)							PSC			ILL	2009-10-27																							 none 								
+	ILL		Memorial Library- Bethany Lutheran College							MBE			ILL	2010-02-19																							 none 								
+	ILL		Middle Georgia Regional Library							ZGY			ILL	2010-06-04																							 none 								
+	ILL		MIDDLEBURY COLLEGE LIBRARY							MDY			ILL	2017-09-26																							 none 								
+	ILL		Minot Public Library							NMP			ILL	2016-11-15			516 2nd Ave, SW		Minot	ND	58701-3792																 none 								
+	ILL		MISSION VIEJO LIBRARY CA							MMK			ILL	2017-08-10																							 none 								
+	ILL		Monmouth County Library							MYL			ILL	2010-05-27																							 none 								
+	ILL		NAMPA PUBLIC LIBRARY, IDAHO							ZPP			ILL	2017-06-14																							 none 								
+	ILL		Nashua Public Library New Hampshire							QWB			ILL	2016-11-28																							 none 								
+	ILL		Nassau County Public Library							N1S			ILL	2010-06-22																							 none 								
+	ILL		National-Louis University Wheeling, IL							IGB			ILL	2010-09-15																															
+	ILL		Naval Undersea Warfare Center							NUS			ILL	2016-08-25			1176 Howell Street		Warick	RI	02841-1708																 none 								
+	ILL		NAVAL WAR COLLEGE LIBRARY							WNC			ILL	2017-10-05																							 none 								
+	ILL		NCSU Libraries Tripsaver							NRC			ILL	2016-10-17			2 Broughton Dr.		Raleigh	NC	27695-7111																 none 								
+	ILL		Neill Public Library (XRR)							XRR			ILL	2009-10-02																							 none 								
+	ILL		NEWBERG PUBLIC LIBRARY							OOS			ILL	2017-09-18																							 none 								
+	ILL		Norfolk Public Library (NFL)							NFL			ILL	2009-09-24																							 none 								
+	ILL		Northeastern University MA							NED			ILL	2011-10-05																							 none 								
+	ILL		Northern State University, S. Dakota							NOS			ILL	2016-11-30																							 none 								
+	ILL		Norwich UNITED KINGDOM							UKNFK			ILL	2011-10-04																							 none 								
+	ILL		OAK PARK PUBLIC LIBRARY, Illinios							IUO			ILL	2017-03-14																							 none 								
+	ILL		Ohio University OH							OUN			ILL	2011-10-06																							 none 								
+	ILL		ORANGEBURG COUNTY LIBRARY, SC							ZJZ			ILL	2017-07-19																							 none 								
+	ILL		Oro Valley Library							AZT			ILL	2010-03-26																							 none 								
+	ILL		Our Lady of Lourdes Hospital Library							YSO			ILL	2010-06-04																							 none 								
+	ILL		Palomar College Library							CPD			ILL	2010-03-24																							 none 								
+	ILL		PERRY CO DISTRICT LIBRARY, OH							FO0			ILL	2017-07-26																							 none 								
+	ILL		PHILLIPS THEOLOGICAL SEMINARY, OKLAHOMA							OKG			ILL	2017-06-20																							 none 								
+	ILL		Ponca City Library							PCL			ILL	2016-07-15			515 East Grand Ave.		Ponca City	Ci	74601										pclill74601@yahoo.com						 none 								
+	ILL		POTTSVILLE FREE PUBLIC LIBRARY							POT			ILL	2017-06-07																							 none 								
+	ILL		PRESTON LIBRARY. LEXINGTON, VI							VMI			ILL	2017-03-10																							 none 								
+	ILL		Roberts Library							TSW			ILL	2016-11-04			P.O Box 22490		Fort Worth	Wo	76122-0490																 none 								
+	ILL		Sacred Heart University							SHU			ILL	2016-11-21																							 none 								
+	ILL		Saint Alsem College - 100 Saint Alsem Dr - Manchester, NH							SAC			ILL	2010-09-30																															
+	ILL		Salem College - NC							NSC			ILL	2010-06-21																							 none 								
+	ILL		San Francisco State Univ. CA							CSF			ILL	2011-10-31																							 none 								
+	ILL		Scenic Regional Library, MO							MZ7			ILL	2008-09-02																															
+	ILL		Scott Community College IA							ZQZ			ILL	2011-10-25																							 none 								
+	ILL		Siena College Library (VKM)							VKM			ILL	2009-10-14																							 none 								
+	ILL		Sioux City Public Library IA							LYZ			ILL	2011-12-01																							 none 								
+	ILL		SOLANO COUNTY LIBRARY, CA							JTD			ILL	2017-05-25																							 none 								
+	ILL		Southern Vermont College Library  VT							SVCL			ILL	2011-11-16																							 none 								
+	ILL		Spokane Library							MOSPO			ILL	2016-10-19			611 E. Indiana Ave		Spokane	WA																	 none 								
+	ILL		Spokeane Public Library WA							WSN			ILL	2011-09-27																							 none 								
+	ILL		SPRINGFIELD COLLEGE							NKT			ILL	2017-03-28																							 none 								
+	ILL		Stillwater Public Library OK							STW			ILL	2011-10-24																							 none 								
+	ILL		Sweet Briar College VA							VSB			ILL	2011-11-09																							 none 								
+	ILL		Syosset Public Library							NGX			ILL	2010-06-01																							 none 								
+	ILL		Teti Library - NH Institute of Art							NHIOA			ILL	2010-06-02																							 none 								
+	ILL		The Community Library (YS5)							YS5			ILL	2009-10-20																							 none 								
+	ILL		TIFTON GEORGIA LIBRARY							GTM			ILL	2017-03-22																							 none 								
+	ILL		Torrance Public Library CA							CGI			ILL	2011-09-23																							 none 								
+	ILL		TUSCALOOSA PUBLIC LIBRARY AL							MVQ			ILL	2017-08-11																							 none 								
+	ILL		TUTTLEMAN LIBRARY OF GRATZ COLLEGE							GRZ			ILL	2017-09-28																							 none 								
+	ILL		Tyler Public Library - Tyler, TX							QT7			ILL	2010-10-13																															
+	ILL		University of Baltimore							BAL			ILL	2017-02-02																							 none 								
+	ILL		University of Canterbury - New Zealand							UX1			ILL	2010-06-17																							 none 								
+	ILL		University of Hong Kong Libraries - Pokfulam Road, Hong Kong							HUA			ILL	2010-10-04																															
+	ILL		University of Missouri - Kansas City							UMZ			ILL	2010-06-28																							 none 								
+	ILL		University of Northa Carolina at Chapell Hill							NOH			ILL	2014-09-15																							 none 								
+	ILL		UNIVERSITY OF PENNSYLVANIA							PAV			ILL	2017-07-07																							 none 								
+	ILL		UNIVERSITY OF TORONTO							CNGSI			ILL	2017-05-01																							 none 								
+	ILL		University of Winnipeg							JG0			ILL	2016-09-29			515 Portage Ave		Winnipeg, MB	MB	3																 none 								
+	ILL		Washington Adventist University							CUC			ILL	2017-02-15																							 none 								
+	ILL		WEBSTER GROVES PUBLIC LIBRARY, MO							MW2			ILL	2017-07-10																							 none 								
+	ILL		Wesley College							WCG			ILL	2017-02-28																							 none 								
+	ILL		West Des Moines Public Library, IA							IW9			ILL	2008-09-16																							 								
+	ILL		Westchester Community College Library							WCC			ILL	2010-04-07																							 none 								
+	ILL		Westminster Seminary California Library							TGW			ILL	2016-10-04			1725 Bear Valley Parkway		Escondido	CA	92027																 none 								
+	ILL		White Mountain Library Wyoming							W8W			ILL	2016-11-28																							 none 								
+	ILL		Wichita Public Library							KFW			ILL	2016-11-02			223 S. Main		Wichita	KS	67202																 none 								
+	ILL		WOODLAND PUBLIC LIBRARY, CA							JTQ			ILL	2017-08-09																							 none 								
+	ILL		16 SVS/SVNG BASE LIBRARY							HI3			ILL	1999-03-24			443 CODY AVENUE BLDG 90337		HURLBURT FIELD	FI	32544-5435														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ALACHUA COUNTY LIBRARY DISTRICT HEADQUARTERS							FMG			ILL	1997-03-04			401 E. UNIVERSITY AVE.		GAINESVILLE	FL	32601														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ALTAMONTE SPRINGS CITY LIBRARY							CF2			ILL	1997-02-28			281 N. MAITLAND AVE.		ALTAMONTE SPRINGS	SP	32701														DLLI		 Note:DLLI LIBRARY 								
+	ILL		BARRY UNIVERSITY LIBRARY							FBC			ILL	1997-03-03			11300 NE SECOND AVE.		MIAMI	FL	33161														DLLI		 Note:DLLI LIBRARY 								
+	ILL		BARTOW PUBLIC LIBRARY							BP2			ILL	1998-08-21			2150 S. BROADWAY AVE.		BARTOW	FL	33830														DLLI		 Note:DLLI LIBRARY 								
+	ILL		BEACON COLLEGE							BCK			ILL	1997-02-28			105 E. MAIN ST.		LEESBURG	FL	34748														DLLI		 Note:DLLI LIBRARY. USE 'ADDRESS 2' FOR DLLI, EVEN THOUGH  A SLIGHTLY DIFFERENT ADDRESS APPEARS IN THE DLLI  MANUAL. 								
+	ILL		BOCA RATON PUBLIC LIBRARY							FBP			ILL	1997-10-28			200 NW BOCA RATON BLVD.		BOCA RATON	RA	33432														DLLI		 Note:DLLI LIBRARY 								
+	ILL		BOYNTON BEACH CITY LIBRARY							FLV			ILL	1997-06-11			208 S. SEACREST BLVD.		BOYNTON BEACH	BE	33435		561 375-6395												DLLI		 Note:DLLI LIBRARY 								
+	ILL		BREVARD COMM. COLL. - COCOA CAMPUS LIBRARY							EBC			ILL	1997-03-04			1519 CLEARLAKE RD.		COCOA	FL	32922		407 632-1111 x62952												DLLI		 none 								
+	ILL		BREVARD COUNTY PUBLIC LIBRARY							FMB			ILL	1997-03-03			308 FORREST AVE.		COCOA	FL	32922		407 633-1785												DLLI		Note:DLLI LIBRARY. Lost book: The History of a Brigade of South Carolinians (34369001766201). Refused to pay. SR 2/03 								
+	ILL		BROWARD COMMUNITY COLLEGE LIBRARY							EDB			ILL	1997-03-04			3501 SW DAVIE RD.		DAVIE	FL	33314														DLLI		 Note:DLLI LIBRARY 								
+	ILL		BROWARD COUNTY MAIN LIBRARY DIVISION							FBR			ILL	1997-03-04			100 S. ANDREWS AVE.		FT. LAUDERDALE	LA	33301														DLLI		 Note:DLLI LIBRARY 								
+	ILL		CENTRAL FLORIDA COMMUNITY COLLEGE LRC							FO9			ILL	1997-10-21			3001 SW COLLEGE ROAD  BLDG 3		OCALA	FL	34478														DLLI		 Note:DLLI LIBRARY 								
+	ILL		CHARLOTTE-GLADES LIBRARY SYSTEM							FMO			ILL	1997-04-03			18400 MURDOCK CIR.		PORT CHARLOTTE	CH	33948		941 743-1462 ext. 1608												DLLI		 Note:DLLI LIBRARY 								
+	ILL		CITRUS COUNTY LIBRARY SYSTEM							CQ6			ILL	1997-02-28			425 W. ROOSEVELT BLVD.		BEVERLY HILLS	HI	34465														DLLI		 Note:DLLI LIBRARY 								
+	ILL		CLEARWATER CHRISTIAN COLLEGE LIBRARY							FYB			ILL	1999-02-02			3400 GULF-TO-BAY BLVD.		CLEARWATER	FL	32619-4595														DLLI		 Note:DLLI LIBRARY 								
+	ILL		CLEARWATER PUBLIC LIBRARY SYSTEM							FLX			ILL	1997-03-13			100 N. OSCEOLA AVE.		CLEARWATER	FL	33755														DLLI		 Note:DLLI LIBRARY 								
+	ILL		COLLIER COUNTY PUBLIC LIBRARY							FNO			ILL	1997-03-07			650 CENTRAL AVE.		NAPLES	FL	34102														DLLI		 Note:DLLI LIBRARY 								
+	ILL		COLUMBIA COUNTY PUBLIC LIBRARY							FMP			ILL	1997-08-01			490 N. COLUMBIA ST.		LAKE CITY FL	CI	32055										904				DLLI		 Note:DLLI LIBRARY 								
+	ILL		COOK LIBRARY - USF AT SARASOTA / NEW COLLEGE							FHC			ILL	1997-04-01			5700 N. TAMIAMI TR.		SARASOTA	FL	34243-2197														DLLI		 Note:DLLI LIBRARY 								
+	ILL		DAYTONA BEACH COMM. COLL. - DB LRC							FCD			ILL	1997-03-30			P.O. BOX 2811		DAYTONA BEACH	BE	32120-2811			1200 INTERNATIONAL SPEEDWAY BLVD.		DAYTONA BEACH	BE	32120-2811							DLLI										
+	ILL		DUNEDIN PUBLIC LIBRARY							FDL			ILL	1997-11-13			223 DOUGLAS AVE.		DUNEDIN	FL	34698														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ECKERD COLLEGE LIBRARY							FEC			ILL	1997-05-22			4200 54TH AVE. S.		ST. PETERSBURG	PE	33711														DLLI		 Note:DLLI LIBRARY 								
+	ILL		EULIANO LAW LIBRARY - UNIVERSITY OF ORLANDO							FJQ			ILL	1997-03-04			6441 E. COLONIAL DR.		ORLANDO	FL	32807														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLAGLER COLLEGE LIBRARY							FFC			ILL	1997-03-20			BOX 1027		ST. AUGUSTINE	AU	32084			44 SEVILLA ST.		ST. AUGUSTINE	AU	32084							DLLI		Note:DLLI LIBRARY. 'ADDRESS 3' IS DLLI ADDRESS. 								
+	ILL		FLAGLER COUNTY PUBLIC LIBRARY							GF7			ILL	1997-04-22			2500 PALM COAST PARKWAY, NW		PALM COAST	CO	32137		(904) 446-6763												DLLI		 Note:DLLI LIBRARY  								
+	ILL		FLORIDA A&M UNIVERSITY - LIBRARY							FCM			ILL	1998-02-22			P.O. BOX 78		TALLAHASSEE	FL	32307			1500 S. MARTIN LUTHER KING JR. BLVD.		TALLAHASSEE	FL	32307-4700							DLLI		 Note:DLLI LIBRARY. 'ADDRESS 3' IS DLLI ADDRESS. 								
+	ILL		FLORIDA ATLANTIC UNIVERSITY LIBRARY							FGM			ILL	1998-02-01			777 GLADES RD.		BOCA RATON	RA	33431														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA COASTAL SCHOOL OF LAW LIBRARY							FJM			ILL	1998-09-02			7565 BEACH BLVD.		JACKSONVILLE	FL	32216-3003														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA COMMUNITY COLLEGE - KENT CAMPUS LIBRARY							FJD			ILL	1997-03-04			3939 ROOSEVELT BLVD.		JACKSONVILLE	FL	32205-8999		904 381-3412												DLLI		 none 								
+	ILL		FLORIDA GULF COAST UNIVERSITY LIBRARY							FGA			ILL	1998-01-13			10501 FGCU BLVD. SOUTH		FT MYERS	MY	33965-6565														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA HOSPITAL COLLEGE OF HEALTH SCIENCES LIBRARY							FCH			ILL	1999-06-08			800 LAKE ESTELLE DR.		ORLANDO	FL	32803														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA INSTITUTE OF TECHNOLOGY - EVANS LIBRARY							FLT			ILL	1997-03-10			150 W. UNIVERSITY BLVD.		MELBOURNE	FL	32901-6996														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA INT'L UNIV. - NORTH MIAMI CAMPUS LIBRARY							FXN			ILL	1997-04-01			3000 NE 151 ST.		NORTH MIAMI	MI	33181														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA INT'L UNIV. - UNIVERSITY PARK LIBRARY							FXG			ILL	1997-04-08			CORNER OF SW 107TH ST & TAMIAMI TRAIL		MIAMI	FL	33199														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA KEYS COMMUNITY COLLEGE LIBRARY							FCK			ILL	1997-10-07			5901 COLLEGE RD. - BLDG. A		KEY WEST	WE	33040														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA MARINE RESEARCH INSTITUTE							FYA			ILL	1998-03-16			100 EIGHTH AVE. SE		ST. PETERSBURG	PE	33701-5095			ROUTE TO: USF ST. PETERSBURG CAMPUS LIBRARY		140 SEVENTH AVE. S	SE	ST. PETERSBURG, FL 33701							DLLI		Note:DLLI LIBRARY; STARTING 9/27/1999, ROUTE TO: "USF, ST. PETERSBURG CAMPUS" 								
+	ILL		FLORIDA SOUTHERN COLLEGE - ROUX LIBRARY							FSC			ILL	1997-03-30			111 LAKE HOLLINGSWORTH DRIVE		LAKELAND	FL	33801-5698														DLLI		 Note:DLLI LIBRARY 								
+	ILL		FLORIDA SOUTHWESTERN STATE COLLEGE							FHF			ILL	1997-10-09			8099 COLLEGE PARKWAY, S.W. P.O. BOX 06210		FT. MYERS	MY	33906-6210			8099 COLLEGE PARKWAY SW, BLDG. LR		FT. MYERS	MY	33906							DLLI										
+	ILL		FLORIDA STATE UNIV. - STROZIER LIBRARY							FDA			ILL	1997-03-04			FLORIDA STATE UNIVERSITY		TALLAHASSEE	FL	32306-2047			105 DOGWOOD WAY		TALLAHASSEE	FL	32306-2047			ill@reserves.lib.fsu.edu				DLLI		Note:DLLI LIBRARY. 'ADDRESS 3' IS DLLI ADDRESS AND FEDEX ADDRESS. 								
+	ILL		FT. MYERS BRANCH LIBRARY							F7Z			ILL	2001-02-27			8695 COLLEGE PKWY. SUITE 217		FT. MYERS	MY	33919		FAX:  (941) 482-4331												DLLI		 none  								
+	ILL		GADSDEN COUNTY PUBLIC LIBRARY							FMQ			ILL	1998-06-01			341 E. JEFFERSON ST.		QUINCY	FL	32351														DLLI		 Note:DLLI LIBRARY 								
+	ILL		GULF COAST COMMUNITY COLLEGE LIBRARY							PD5			ILL	1997-09-09			5230 WEST U.S. HIGHWAY 98		PANAMA CITY	CI	32401-1041														DLLI		 Note:DLLI LIBRARY  								
+	ILL		HEALTH SCIENCES CENTER LIBRARY - UNIV. OF FLORIDA							FUH			ILL	1998-02-23			BOX 100206 UNIVERSITY OF FLORIDA		GAINESVILLE	FL	32610			BLDG. C-1600 SW ARCHER RD.		GAINESVILLE	FL	32610-0206							DLLI		 Note:DLLI LIBRARY. 								
+	ILL		HEARTLAND LIBRARY COOP - HIGHLANDS CTY. SYS.							FO6			ILL	1997-10-22			319 W. CENTER AVE.		SEBRING	FL	33870														DLLI		 Note:DLLI LIBRARY 								
+	ILL		HERNANDO COUNTY PUBLIC LIBRARY SYSTEM							FMR			ILL	1998-01-18			238 HOWELL AVE.		BROOKSVILLE	FL	34601														DLLI		 Note:DLLI LIBRARY 								
+	ILL		HILLSBOROUGH COMM. COLL. LIBRARY - DALE MABRY CAMPUS							FYF			ILL	1997-09-04			P.O. Box 30030		Tampa	FL	33630			4001 Tampa Bay Blvd.		Tampa	FL	33614							DLLI		Note:DLLI LIBRARY. 'ADDRESS 3' IS DLLI ADDRESS. (FYF HAS 4 DLLI LOCATIONS IN SIRSI.) 								
+	ILL		HUNT LIBRARY - EMBRY-RIDDLE AERO. UNIVERSITY							FER			ILL	1997-03-05			600 S. CLYDE MORRIS BLVD.		DAYTONA BEACH	BE	32114														DLLI		 Note:DLLI LIBRARY 								
+	ILL		INDIAN RIVER COUNTY LIBRARY							FN2			ILL	1997-03-16			1600 21ST STREET		VERO BEACH	BE	32960														DLLI		 Note:DLLI LIBRARY 								
+	ILL		INDIAN RIVER COMMUNITY COLLEGE LIBRARY - MILEY LRC							FIC			ILL	1997-05-13			3209 VIRGINIA AVE.		FT. PIERCE	PI	34981-5599														DLLI		 Note:DLLI LIBRARY 								
+	ILL		JACKSONVILLE PUBLIC LIBRARY							JPL			ILL	1997-04-06			122 NORTH OCEAN ST.		JACKSONVILLE	FL	32202-3374														DLLI		 Note:DLLI LIBRARY 								
+	ILL		JACKSONVILLE UNIVERSITY - CARL SWISHER LIBRARY							FJU			ILL	1997-07-01			2800 UNIVERSITY BLVD. N.		JACKSONVILLE	FL	32211-3394														DLLI		 Note:DLLI LIBRARY 								
+	ILL		KELCE LIBRARY - UNIVERSITY OF TAMPA							FUT			ILL	1997-03-14			401 W. KENNEDY BLVD.		TAMPA	FL	33606-1490														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LAKE COUNTY LIBRARY SYSTEM							FN4			ILL	1997-05-16			312 W. MAIN ST.		TAVARES	FL	32778														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LAKE SUMTER COMMUNITY COLLEGE LIBRARY							FSF			ILL	1997-03-18			9501 U.S. HWY. 441		LEESBURG	FL	34788														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LAKE WALES PUBLIC LIBRARY							F0$			ILL	1997-04-01			290 CYPRESS GARDENS LANE		LAKE WALES	WA	33853			ROUTE TO: BARTOW PUBLIC LIBRARY		2150 S. BROADWAY	BR	BARTOW, FL 33830							DLLI		Note:DLLI LIBRARY; "ROUTE TO" BARTOW PUBLIC LIBRARY 								
+	ILL		LAKELAND PUBLIC LIBRARY							FLM			ILL	1997-07-21			100 LAKE MORTON DRIVE		LAKELAND	FL	33801														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LARGO LIBRARY							FLA			ILL	1997-04-20			351 E. BAY DR.		LARGO	FL	33770														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LATT MAXCY MEMORIAL LIBRARY							YA8			ILL	1997-03-12			15 N. MAGNOLIA AVENUE		FROST PROOF	PR	33843			ROUTE TO: BARTOW PUBLIC LIBRARY		2150 S. BROADWAY	BR	BARTOW, FL 33830							DLLI		 Note:DLLI LIBRARY; "ROUTE TO" BARTOW PUBLIC LIBRARY 								
+	ILL		LEE COUNTY PUBLIC LIBRARY SYSTEM PROCESSING CENTER							FFL			ILL	1997-03-10			11220 METRO PARKWAY		FT. MYERS	MY	33912														DLLI		Note:DLLI LIBRARY (THERE ARE TWELVE POTENTIAL BRANCHES FOR THE FFL SYMBOL - NOT ALL BRANCHES ARE IN SIRSI) 								
+	ILL		LEON COUNTY PUBLIC LIBRARY SYSTEM - COLLINS LIBRARY							FTL			ILL	1997-04-01			200 W. PARK AVE.		TALLAHASSEE	FL	32301-7720														DLLI		 Note:DLLI LIBRARY 								
+	ILL		LYNN UNIVERSITY LIBRARY							FBO			ILL	1999-03-14			3601 N. MILITARY TRAIL		BOCA RATON	RA	33431														DLLI		 Note:DLLI LIBRARY 								
+	ILL		MAITLAND PUBLIC LIBRARY							CF8			ILL	1997-02-28			501 S. MAITLAND AVE.		MAITLAND	FL	32751														DLLI		 Note:DLLI LIBRARY 								
+	ILL		MANATEE COMMUNITY COLLEGE LIBRARY							FMU			ILL	1997-05-06			5840 26TH ST. W BLDG. 7000		BRADENTON	FL	34207		941 755-1511 ext.4435												DLLI		Note:DLLI LIBRARY; ANOTHER "UNOFFICIAL" FMU LOCATION (VENICE) IS NOT A DLLI LIBRARY - USE U.S. MAIL FOR ANY ILL MAILING TO THE VENICE CAMPUS.  								
+	ILL		MANATEE COUNTY PUBLIC LIBRARY SYSTEM							FMA			ILL	1997-04-08			1301 BARCARROTA BLVD W.		BRADENTON	FL	34205														DLLI		 Note:DLLI LIBRARY 								
+	ILL		MARION COUNTY PUBLIC LIBRARY - FL							FLJ			ILL	1997-03-20			4040 DEEPWATER CT.		DUNNELLON	FL	34420		fax:  352 629-1649	ROUTE TO: MARION PUBLIC LIBRARY SYSTEM		15	SE	OCALA, FL 34471							DLLI		Note:DLLI LIBRARY; "ROUTE TO" MARION PUBLIC LIBRARY SYSTEM 								
+	ILL		MARTIN COUNTY PUBLIC LIBRARY SYSTEM / BLAKE LIBRARY							FO7			ILL	1997-08-12			2351 SE MONTEREY ROAD		STUART	FL	34996														DLLI		 Note:DLLI LIBRARY 								
+	ILL		MIAMI-DADE COMM. COLL. LIBRARY - WOLFSON CAMPUS							FYM			ILL	1997-06-10			300 NE 2nd Ave.		Miami	FL	33132		305 237-3454												DLLI		Note:DLLI LIBRARY. (FYM HAS SIX DLLI LOCATIONS IN SIRSI.) 								
+	ILL		MIAMI-DADE PUBLIC LIBRARY SYSTEM							DZM			ILL	1997-02-28			101 W. FLAGLER ST.		MIAMI	FL	33130-1523														DLLI		 Note:DLLI LIBRARY 								
+	ILL		MONROE COUNTY PUBLIC LIBRARY SYSTEM							FLN			ILL	1997-04-01			700 FLEMING STREET		KEY WEST	WE	33040														DLLI		 Note:DLLI LIBRARY 								
+	ILL		NEW PORT RICHEY PUBLIC LIBRARY							FYI			ILL	1999-10-08			5939 MAIN ST.		NEW PORT RICHEY	PO	34652														DLLI		 Note:DLLI LIBRARY 								
+	ILL		NORTHWEST REGIONAL LIBRARY SYSTEM							FLQ			ILL	1997-03-20			25 W. GOVERNMENT ST.		PANAMA CITY	CI	32402														DLLI		 Note:DLLI LIBRARY. 								
+	ILL		NOVA SOUTHEASTERN UNIVERSITY LIBRARIES							FNN			ILL	1997-03-19			3301 COLLEGE AVE.		FT LAUDERDALE	LA	33314														DLLI		 Note:DLLI LIBRARY 								
+	ILL		NOVA SOUTHEASTERN UNIVERSITY LAW LIBRARY							FNL			ILL	1998-02-24			3305 COLLEGE AVE.		FT. LAUDERDALE	LA	33314			ROUTE TO: NOVA SOUTHEASTERN UNIV. LIBRARIES		3301 COLLEGE AVE.	CO	FT. LAUDERDALE, FL 33314							DLLI		Note:DLLI LIBRARY. "ROUTE TO": NOVA SOUTHEASTERN UNIVERSITY LIBRARIES / 3301 COLLEGE AVE. / FORT LAUDERDALE, FL 33314 								
+	ILL		OKALOOSA-WALTON COMMUNITY COLLEGE LRC							FB3			ILL	1997-09-15			100 COLLEGE BLVD. - BLDG. E		NICEVILLE	FL	32578														DLLI		 Note:DLLI LIBRARY  								
+	ILL		ORANGE COUNTY LIBRARY DISTRICT							ORL			ILL	1997-03-04			101 E. CENTRAL BLVD.		ORLANDO	FL	32801														DLLI		 Note:DLLI LIBRARY 								
+	ILL		OSCEOLA COUNTY LIBRARY SYSTEM							OS3			ILL	1997-03-17			211 E. DAKIN AVE.		KISSIMMEE	FL	34741														DLLI		 Note:DLLI LIBRARY  								
+	ILL		PALM BEACH ATLANTIC COLLEGE LIBRARY							FBB			ILL	1997-03-07			1101 S. OLIVE AVE.		WEST PALM BEACH	PA	33416-4708														DLLI		 Note:DLLI LIBRARY 								
+	ILL		PALM BEACH COMMUNITY COLLEGE LIBRARY							EFM			ILL	1997-03-04			4200 CONGRESS AVE.		LAKE WORTH	WO	33461-4796														DLLI		 Note:DLLI LIBRARY  								
+	ILL		PALM BEACH COUNTY LIBRARY SYSTEM							FWP			ILL	1997-05-03			3650 SUMMIT BLVD.		WEST PALM BEACH	PA	33406-4198														DLLI		 Note:DLLI LIBRARY 								
+	ILL		PALM HARBOR LIBRARY							FYJ			ILL	1997-09-21			2330 NEBRASKA AVE.		PALM HARBOR	HA	34683														DLLI		 Note:DLLI LIBRARY  								
+	ILL		PASCO-HERNANDO COMM. COLL. LIBRARY - EAST CAMPUS							FYK			ILL	1997-03-30			36727 Blanton Rd.		Dade City	Ci	33523		352 567-6701x1249												DLLI		Note:DLLI LIBRARY. (FYK HAS THREE DLLI LOCATIONS IN SIRSI.) 								
+	ILL		PASCO COUNTY LIBRARY SYSTEM							FLY			ILL	1997-03-07			5418 SUNSET RD.		NEW PORT RICHEY	PO	34654														DLLI		 Note:DLLI LIBRARY 								
+	ILL		PENSACOLA JUNIOR COLLEGE LIBRARY							FPJ			ILL	1999-03-14			1000 COLLEGE BLVD., BLDG. 20		PENSACOLA	FL	32504-8998														DLLI		 Note:DLLI LIBRARY 								
+	ILL		PINELLAS PARK PUBLIC LIBRARY							FYL			ILL	1997-05-03			7200 U.S. HIGHWAY 19, SUITE 726		PINELLAS PARK	PA	33781														DLLI		 Note:DLLI LIBRARY  								
+	ILL		POLK COMMUNITY COLLEGE - LIBRARY							FYO			ILL	1997-10-07			999 AVE. H, NE		WINTER HAVEN	HA	33881		941 297-1040												DLLI		Note:DLLI LIBRARY. (FYO HAS TWO DLLI LOCATIONS IN SIRSI.) 								
+	ILL		PUTNAM COUNTY LIBRARY SYSTEM							FO8			ILL	1997-10-08			601 COLLEGE ROAD		PALATKA	FL	32177-3873														DLLI		 Note:DLLI LIBRARY  								
+	ILL		REFORMED THEOLOGICAL SEMINARY LIBRARY							FTO			ILL	1997-07-22			1231 REFORMATION DRIVE		OVIEDO	FL	32765														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ROLLINS COLLEGE - OLIN LIBRARY							FWR			ILL	1997-03-05			1000 HOLT AVE.		WINTER PARK	PA	32789														DLLI		 Note:DLLI LIBRARY  								
+	ILL		SAFETY HARBOR LIBRARY							FYR			ILL	1997-07-20			101 SECOND ST. N.		SAFETY HARBOR	HA	34695			ROUTE TO: PINELLAS PUBLIC LIBRARY COOPERATIVE, INC.		12345 STARKEY RD.	ST	LARGO, FL 33733-2611							DLLI		Note:DLLI LIBRARY. "ROUTE TO": PINELLAS PUBLIC LIBRARY COOPERATIVE, INC. / 12345 STARKEY RD., STE L / LARGO, FL 33733-2611 								
+	ILL		SAINT LEO UNIVERSITY LIBRARY							FSA			ILL	1997-06-05			33701 STATE RD. 52 WEST P.O. BOX 6665		SAINT LEO	LE	33574-2128														DLLI		 Note:DLLI LIBRARY 								
+	ILL		SANIBEL PUBLIC LIBRARY							XU9			ILL	1997-10-23			770 DUNLOP RD.		SANIBEL	FL	33957-4016														DLLI		 Note:DLLI LIBRARY 								
+	ILL		SANTA FE COMMUNITY COLLEGE LIBRARY							WL5			ILL	1997-03-21			3000 NW 83RD. ST. - BLDG. P		GAINESVILLE	FL	32606-6200														DLLI		 Note:DLLI LIBRARY 								
+	ILL		SEMINOLE COMMUNITY COLLEGE LRC							FSS			ILL	1997-03-25			100 WELDON BLVD. - BLDG. L		SANFORD	FL	32773-6119														DLLI		 Note:DLLI LIBRARY 								
+	ILL		SEMINOLE COUNTY PUBLIC LIBRARY SYSTEM							FCS			ILL	1997-03-05			215 N. OXFORD RD.		CASSELBERRY	FL	32707														DLLI		Note:DLLI LIBRARY. ADDRESS CHANGE AS OF 7/1999. PCS. 								
+	ILL		SMATHERS LIBRARY							FUG			ILL	1997-03-03			ROOM 235 WEST  P.O. BOX 117001		GAINESVILLE	FL	32611-7011			146 LIBRARY WEST		GAINESVILLE	FL	32611-2048							DLLI		 Note:DLLI LIBRARY. 								
+	ILL		SMC - SOUTHEASTERN COLLEGE OF THE ASSEMBLIES OF GOD							FYQ			ILL	1997-03-26			1000 LONGFELLOW BLVD.		LAKELAND	FL	33801														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ST. JOHNS COUNTY PUBLIC LIBRARY							WL8			ILL	1997-05-19			1960 NORTH PONCE de LEON BLVD.		ST. AUGUSTINE	AU	32084														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ST. JOHNS RIVER COMMUNITY COLLEGE- LRC							WL7			ILL	1997-04-03			5001 ST. JOHNS AVE.		PALATKA	FL	32177-3897														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ST. LUCIE COUNTY LIBRARY SYSTEM / REF SERVICES							FLR			ILL	1997-03-04			101 MELODY LANE		FT. PIERCE	PI	34950														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ST. PETERSBURG PUBLIC LIBRARY							FPE			ILL	1997-05-01			3745 NINTH AVE. N.		ST. PETERSBURG	PE	33713														DLLI		 Note:DLLI LIBRARY 								
+	ILL		ST. PETERSBURG JR, COLLEGE  FL							FPB			ILL	1997-03-11			7200 66th St. N.		Pinellas Park	Pa	33781		727 341-3604												DLLI		Note:DLLI LIBRARY. (FPB HAS FOUR DLLI LOCATIONS IN SIRSI). 								
+	ILL		ST. THOMAS UNIVERSITY LAW LIBRARY							FBL			ILL	1997-05-29			16400 N.W. 32ND AVE.		MIAMI	FL	33054			ROUTE TO: ST. THOMAS UNIVERSITY LIBRARY		16400	NW	MIAMI, FL 33054							DLLI		Note:DLLI LIBRARY; "ROUTE TO": St. Thomas University Library / 16400 NW 32nd Ave. / Miami, FL 33054. 								
+	ILL		ST. THOMAS UNIVERSITY LIBRARY							FBM			ILL	1998-01-07			16400 N.W. 32ND AVE.		MIAMI	FL	33054														DLLI		 Note:DLLI LIBRARY  								
+	ILL		STATE LIBRARY OF FLORIDA / R. A. GRAY BUILDING							FBA			ILL	1997-03-14			500 S. BRONOUGH ST.		TALLAHASSEE,FL	TALLAHASSEE,FL	32399-0250			500 S. BROUNOUGH ST.		TALLAHASSEE	FL	32399-0250							DLLI		 Note:DLLI LIBRARY 								
+	ILL		STETSON COLLEGE OF LAW LIBRARY							FPS			ILL	1997-03-05			1401 61ST. ST. SOUTH		ST. PETERSBURG	PE	33707														DLLI		 Note:DLLI LIBRARY 								
+	ILL		SUWANNEE RIVER REGIONAL LIBRARY SYSTEM							FLK			ILL	1997-03-04			1848 OHIO AVE. SOUTH		LIVE OAK	OA	32060														DLLI		Note:DLLI LIBRARY. (FLK HAS FIVE LIBRARIES LISTED IN SIRSI; FOUR ARE DLLI LIBRARIES, ONE IS A U.S. MAIL LIBRARY.) 								
+	ILL		TAMPA-HILLSBOROUGH COUNTY PUBLIC LIBRARY							TNH			ILL	1997-04-30			900 N. ASHLEY		TAMPA	FL	33602-3788														DLLI		 Note:DLLI LIBRARY 								
+	ILL		TARPON SPRINGS PUBLIC LIBRARY							FTP			ILL	1997-04-25			138 E. LEMON ST.		TARPON SPRING	SP	34689		813 943-4922  fax 813 943-4926	ROUTE TO: PINELLAS PUBLIC LIBRARY COOPERATIVE, INC.		12345 STARKEY RD.	ST	LARGO, FL 33733-2611							DLLI		Note:DLLI LIBRARY; "ROUTE TO": Pinellas Public Library Cooperative, Inc. / 12345 Starkey Rd., Ste. L /Largo, FL 33733-2611. At the "ROUTE TO" portion of the label, type: Tarpon Springs Library. 								
+	ILL		TAYLOR COUNTY PUBLIC LIBRARY							FB8			ILL	1997-09-29			403 N. WASHINGTON ST.		PERRY	FL	32347-2791														DLLI		 Note:DLLI LIBRARY 								
+	ILL		TECO ENERGY - CORPORATE RESEARCH CENTER							FYU			ILL	1997-04-21			702 N. FRANKLIN ST.		TAMPA	FL	33602														DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNION COUNTY PUBLIC LIBRARY							WM5			ILL	1997-03-11			175 W. MAIN ST.		LAKE BUTLER	BU	32054														DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNIV. OF SOUTH FLORIDA - ST. PETERSBURG LIBRARY							FHS			ILL	1997-08-28			140 SEVENTH AVE. SOUTH		ST. PETERSBURG	PE	33701-5016														DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNIVERSITY COMMUNITY HOSPITAL - MEDICAL LIBRARY							FUC			ILL	1998-04-14			3100 E. Fletcher Ave.		Tampa	FL	33613-4688														DLLI		 Note:DLLI LIBRARY 								
+	ILL		 UNIVERSITY OF CENTRAL FLORIDA LIBRARY							FTU			ILL	1997-02-27			4000 CENTRAL FLORIDA BLVD.  BOX 162430		ORLANDO	FL	32816-2430		407 823-2383  fax: 407 823-3047	4000 CENTRAL FLORIDA BLVD.		ORLANDO	FL	32816-2666			jwebb@pegasus.cc.ucf.edu				DLLI		 Note:DLLI LIBRARY. 'ADDRESS 3' IS DLLI ADDRESS.  								
+	ILL		UNIVERSITY OF FLORIDA LEGAL INFORMATION CENTER							FUB			ILL	1998-05-03			161 HOLLAND LAW CENTER / UNIVERSITY OF FLORIDA		GAINESVILLE	FL	32611					GAINESVILLE	FL	32611							DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNIVERSITY OF MIAMI - RICHTER LIBRARY							FQG			ILL	1997-03-11			P.O. BOX 248214		CORAL GABLES	GA	33124			1300 MEMORIAL DRIVE		CORAL GABLES	GA	33173							DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNIVERSITY OF NORTH FLORIDA LIBRARY							FNP			ILL	1997-03-10			P.O. BOX 17605		JACKSONVILLE	FL	32245-7605		FAX 904 646-2613	4567 ST. JOHNS BLUFF RD. S. - BLDG. 12		JACKSONVILLE	FL	32224			libcirc@unf.edu				DLLI		 Note:DLLI LIBRARY  								
+	ILL		UNIVERSITY OF SOUTH FLORIDA - TAMPA LIBRARY							FHM			ILL	1997-03-09			4202 E. FOWLER AVE.  LIB 121		TAMPA	FL	33620-5400														DLLI		 Note:DLLI LIBRARY 								
+	ILL		UNIVERSITY OF WEST FLORIDA - PACE LIBRARY							FWA			ILL	1997-03-25			11000 UNIVERSITY PARKWAY BLDG. 32		PENSACOLA	FL	32514-5750														DLLI		 Note:DLLI LIBRARY  								
+	ILL		VALENCIA COMM. COLL. - WEST LRC - BLDG. 6							FVC			ILL	1998-07-30			1800 KIRKMAN ROAD		ORLANDO	FL	32802														DLLI		Note:DLLI LIBRARY. (TWO OTHER VALENCIA CC DLLI LIBRARY  ADDRESSES IN SIRSI). 								
+	ILL		VENICE PUBLIC LIBRARY / SARASOTA COUNTY LIBRARIES							FSP			ILL	1997-07-28			300 S. NOKOMIS AVE.		VENICE	FL	34285														DLLI		 Note:DLLI LIBRARY  								
+	ILL		VOLUSIA COUNTY LIBRARY SUPPORT CENTER							FDB			ILL	1997-03-04			1290 INDIAN LAKE RD.		DAYTONA BEACH	BE	32114														DLLI		 Note:DLLI LIBRARY 								
+	ILL		WEST FLORIDA REGIONAL LIBRARY							FMF			ILL	1997-08-15			200 W. GREGORY ST.		PENSACOLA	FL	32501-4878														DLLI		 Note:DLLI LIBRARY  								
+	ILL		WINTER HAVEN PUBLIC LIBRARY							FMI			ILL	1997-07-31			ONE LIBRARY LANE SE		WINTER HAVEN	HA	33880														DLLI		 Note:DLLI LIBRARY 								
+	ILL		WINTER PARK PUBLIC LIBRARY							CG4			ILL	1997-02-28			460 E. NEW ENGLAND AVE.		WINTER PARK	PA	32789														DLLI		 Note:DLLI LIBRARY  								
+	ILL		LL -XMA  Martist College Library							XMA			ILL	2009-09-16																					ILL		 none 								
+	ILL		GULFPORT PUBLIC LIBRARY							FYZ			ILL	2002-06-16			5501 28TH AVE S		GULFPORT FL	FL	33707														ILL		 Note:PINELLAS PUBLIC LIBRARY COOPERATIVE INC.  								
+	ILL		SUMTER COUNTY PUBLIC LIBRARY SYSTEM							M4L			ILL	2002-04-10			1405 CR 526A		Sumterville	FL	33585														M4L		 none 								
+	ILL		BRIGHAM YOUNG UNIVERSITY-IDAHO							RIC			ILL	2004-05-24																					RIC		 none  								
